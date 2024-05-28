@@ -19,10 +19,10 @@
     </div>
 
     <div class="t-homepage__days">
-      <div @click="currentDay = currentDay - 1">⬅️</div>
+      <div class="t-homepage__daysItem" @click="changeDay(currentDay - 1)">⬅️</div>
 
       <p>{{ DAYS[currentDay].label }}</p>
-      <div @click="currentDay < 3 && currentDay++">➡️</div>
+      <div class="t-homepage__daysItem" @click="changeDay(currentDay + 1)">➡️</div>
     </div>
 
     <div class="t-homepage__body">
@@ -184,7 +184,6 @@
 </script>
 
 <script setup lang="ts">
-  import { useRoute } from 'vue-router';
   import { onMounted, watch, ref, reactive, computed } from 'vue';
   import QrScanner from 'qr-scanner';
 
@@ -227,8 +226,6 @@
   import data from '../../data/timetable.json';
 
   // Variables
-  const route = useRoute();
-
   const editMode = ref(false);
   const scanMode = ref(false);
   const showProfilePopin = ref(false);
@@ -239,10 +236,7 @@
   const myProgram = ref(getProgram() || []);
   const buddys = ref(getBuddys() || []);
   const concerts = data as ConcertType[];
-  const currentDay: number =
-    route.query && route.query.day
-      ? parseInt(route.query.day.toString(), 10)
-      : 0;
+  const currentDay = ref(0)
   const scanVideo = ref<HTMLVideoElement | undefined>();
   const formData = reactive({
     name: username.value,
@@ -401,6 +395,16 @@
       });
     return chips;
   };
+
+  /**
+   * changeDay
+   * @param {number} desiredDayIndex 
+   */
+  const changeDay = (desiredDayIndex: number) => {
+    if (desiredDayIndex >= 0  && desiredDayIndex <= 3) {
+      currentDay.value = desiredDayIndex;
+    }
+  }
 
   /**
    * getQRCode
