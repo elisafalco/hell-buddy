@@ -1,0 +1,7 @@
+.env
+
+# Misc
+/node_modules
+
+# Typescript
+*.tsbuildinfo
