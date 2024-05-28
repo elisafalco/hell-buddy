@@ -167,6 +167,10 @@
 .o-qrCode {
   margin: 12px 0;
 
+  &__image {
+    max-width: 330px;
+  }
+
   &__button {
     width: 100%;
     padding: 4px 8px;

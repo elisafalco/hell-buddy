@@ -19,10 +19,13 @@
     </div>
 
     <div class="t-homepage__days">
-      <div class="t-homepage__daysItem" @click="changeDay(currentDay - 1)">⬅️</div>
-
+      <div class="t-homepage__daysItem" @click="changeDay(currentDay - 1)">
+        ⬅️
+      </div>
       <p>{{ DAYS[currentDay].label }}</p>
-      <div class="t-homepage__daysItem" @click="changeDay(currentDay + 1)">➡️</div>
+      <div class="t-homepage__daysItem" @click="changeDay(currentDay + 1)">
+        ➡️
+      </div>
     </div>
 
     <div class="t-homepage__body">
@@ -236,7 +239,7 @@
   const myProgram = ref(getProgram() || []);
   const buddys = ref(getBuddys() || []);
   const concerts = data as ConcertType[];
-  const currentDay = ref(0)
+  const currentDay = ref(0);
   const scanVideo = ref<HTMLVideoElement | undefined>();
   const formData = reactive({
     name: username.value,
@@ -398,13 +401,13 @@
 
   /**
    * changeDay
-   * @param {number} desiredDayIndex 
+   * @param {number} desiredDayIndex
    */
   const changeDay = (desiredDayIndex: number) => {
-    if (desiredDayIndex >= 0  && desiredDayIndex <= 3) {
+    if (desiredDayIndex >= 0 && desiredDayIndex <= 3) {
       currentDay.value = desiredDayIndex;
     }
-  }
+  };
 
   /**
    * getQRCode
@@ -441,10 +444,15 @@
     if (!username.value) {
       handleSetUsername();
       setId();
+      id.value = getId();
     }
     if (!color.value) {
-      setColor(COLORS[Math.floor(Math.random() * 3)]);
+      const newColor = COLORS[Math.floor(Math.random() * 3)]
+      setColor(newColor);
+      color.value = newColor;
     }
+    formData.name = username.value;
+    formData.color = color.value;
   });
 </script>
 
