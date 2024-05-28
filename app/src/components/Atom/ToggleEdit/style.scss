@@ -1,0 +1,23 @@
+.a-toggleEdit {
+  border: 1px solid $medium-grey;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: 2px;
+  padding: 8px;
+  cursor: pointer;
+  font-size: 16px;
+
+  &__toggle {
+    font-size: 12px;
+    font-weight: 700;
+
+    &.-on {
+      color: $green;
+    }
+
+    &.-off {
+      color: $red;
+    }
+  }
+}

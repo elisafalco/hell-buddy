@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/fonts/Montserrat/montserrat-semi-bold.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/Montserrat/montserrat-bold.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 800;
+  src: url('/fonts/Montserrat/montserrat-extra-bold.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/Poppins/poppins-regular.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: url('/fonts/Poppins/poppins-medium.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/fonts/Poppins/poppins-semi-bold.woff2') format('woff2');
+  font-display: swap;
+}
+
+// Tungsten
+@font-face {
+  font-family: 'Tungsten';
+  src: local('Tungsten Light'), local('Tungsten-Light'),
+      url('/fonts/Tungsten/Tungsten-Light.woff2') format('woff2'),
+      url('/fonts/Tungsten/Tungsten-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Tungsten';
+  src: local('Tungsten Regular'), local('Tungsten-Regular'),
+      url('/fonts/Tungsten/Tungsten-Book.woff2') format('woff2'),
+      url('/fonts/Tungsten/Tungsten-Book.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Tungsten';
+  src: local('Tungsten Medium'), local('Tungsten-Medium'),
+      url('/fonts/Tungsten/Tungsten-Medium.woff2') format('woff2'),
+      url('/fonts/Tungsten/Tungsten-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Tungsten';
+  src: local('Tungsten SemiBold'), local('Tungsten-SemiBold'),
+      url('/fonts/Tungsten/Tungsten-SemiBold.woff2') format('woff2'),
+      url('/fonts/Tungsten/Tungsten-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Tungsten';
+  src: local('Tungsten Bold'), local('Tungsten-Bold'),
+      url('/fonts/Tungsten/Tungsten-Bold.woff2') format('woff2'),
+      url('/fonts/Tungsten/Tungsten-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

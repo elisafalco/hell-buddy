@@ -1,0 +1,1262 @@
+[
+  {
+    "artist": "komodrag-the-mounodor",
+    "date": "2024/06/27",
+    "hour": "16:30 - 17:10",
+    "stage": "VALLEY",
+    "ts": "1719498600"
+  },
+  {
+    "artist": "wormrot",
+    "date": "2024/06/27",
+    "hour": "16:30 - 17:10",
+    "stage": "ALTAR",
+    "ts": "1719498600"
+  },
+  {
+    "artist": "bleed-from-within",
+    "date": "2024/06/27",
+    "hour": "17:15 - 17:55",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719501300"
+  },
+  {
+    "artist": "morne",
+    "date": "2024/06/27",
+    "hour": "17:15 - 17:55",
+    "stage": "TEMPLE",
+    "ts": "1719501300"
+  },
+  {
+    "artist": "thrown",
+    "date": "2024/06/27",
+    "hour": "17:15 - 17:55",
+    "stage": "WARZONE",
+    "ts": "1719501300"
+  },
+  {
+    "artist": "immolation",
+    "date": "2024/06/27",
+    "hour": "18:00 - 18:40",
+    "stage": "ALTAR",
+    "ts": "1719504000"
+  },
+  {
+    "artist": "khemmis",
+    "date": "2024/06/27",
+    "hour": "18:00 - 18:40",
+    "stage": "VALLEY",
+    "ts": "1719504000"
+  },
+  {
+    "artist": "slaughter-to-prevail",
+    "date": "2024/06/27",
+    "hour": "18:00 - 18:40",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719504000"
+  },
+  {
+    "artist": "311",
+    "date": "2024/06/27",
+    "hour": "18:45 - 19:35",
+    "stage": "WARZONE",
+    "ts": "1719506700"
+  },
+  {
+    "artist": "dolch",
+    "date": "2024/06/27",
+    "hour": "18:45 - 19:35",
+    "stage": "TEMPLE",
+    "ts": "1719506700"
+  },
+  {
+    "artist": "ice-nine-kills",
+    "date": "2024/06/27",
+    "hour": "18:45 - 19:25",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719506700"
+  },
+  {
+    "artist": "kerry-king",
+    "date": "2024/06/27",
+    "hour": "19:30 - 20:20",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719509400"
+  },
+  {
+    "artist": "brujeria",
+    "date": "2024/06/27",
+    "hour": "19:40 - 20:40",
+    "stage": "ALTAR",
+    "ts": "1719510000"
+  },
+  {
+    "artist": "green-lung",
+    "date": "2024/06/27",
+    "hour": "19:40 - 20:40",
+    "stage": "VALLEY",
+    "ts": "1719510000"
+  },
+  {
+    "artist": "babymetal",
+    "date": "2024/06/27",
+    "hour": "20:25 - 21:15",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719512700"
+  },
+  {
+    "artist": "crystal-lake",
+    "date": "2024/06/27",
+    "hour": "20:45 - 21:45",
+    "stage": "WARZONE",
+    "ts": "1719513900"
+  },
+  {
+    "artist": "sylvaine",
+    "date": "2024/06/27",
+    "hour": "20:45 - 21:45",
+    "stage": "TEMPLE",
+    "ts": "1719513900"
+  },
+  {
+    "artist": "megadeth",
+    "date": "2024/06/27",
+    "hour": "21:20 - 22:20",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719516000"
+  },
+  {
+    "artist": "dark-tranquillity",
+    "date": "2024/06/27",
+    "hour": "21:50 - 22:50",
+    "stage": "ALTAR",
+    "ts": "1719517800"
+  },
+  {
+    "artist": "graveyard",
+    "date": "2024/06/27",
+    "hour": "21:50 - 22:50",
+    "stage": "VALLEY",
+    "ts": "1719517800"
+  },
+  {
+    "artist": "bad-omens",
+    "date": "2024/06/27",
+    "hour": "22:25 - 23:25",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719519900"
+  },
+  {
+    "artist": "shining",
+    "date": "2024/06/27",
+    "hour": "22:55 - 23:55",
+    "stage": "TEMPLE",
+    "ts": "1719521700"
+  },
+  {
+    "artist": "thursday",
+    "date": "2024/06/27",
+    "hour": "22:55 - 23:55",
+    "stage": "WARZONE",
+    "ts": "1719521700"
+  },
+  {
+    "artist": "avenged-sevenfold",
+    "date": "2024/06/27",
+    "hour": "23:30 - 01:00",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719523800"
+  },
+  {
+    "artist": "all-them-witches",
+    "date": "2024/06/28",
+    "hour": "00:00 - 01:00",
+    "stage": "VALLEY",
+    "ts": "1719525600"
+  },
+  {
+    "artist": "sodom",
+    "date": "2024/06/28",
+    "hour": "00:00 - 01:00",
+    "stage": "ALTAR",
+    "ts": "1719525600"
+  },
+  {
+    "artist": "cradle-of-filth",
+    "date": "2024/06/28",
+    "hour": "01:05 - 02:05",
+    "stage": "TEMPLE",
+    "ts": "1719529500"
+  },
+  {
+    "artist": "dropkick-murphys",
+    "date": "2024/06/28",
+    "hour": "01:05 - 02:05",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719529500"
+  },
+  {
+    "artist": "enter-shikari",
+    "date": "2024/06/28",
+    "hour": "01:05 - 02:05",
+    "stage": "WARZONE",
+    "ts": "1719529500"
+  },
+  {
+    "artist": "karma-zero",
+    "date": "2024/06/28",
+    "hour": "10:30 - 11:00",
+    "stage": "ALTAR",
+    "ts": "1719563400"
+  },
+  {
+    "artist": "red-sun-atacama",
+    "date": "2024/06/28",
+    "hour": "10:30 - 11:00",
+    "stage": "VALLEY",
+    "ts": "1719563400"
+  },
+  {
+    "artist": "saint-agnes",
+    "date": "2024/06/28",
+    "hour": "10:30 - 11:00",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719563400"
+  },
+  {
+    "artist": "7-weeks",
+    "date": "2024/06/28",
+    "hour": "11:05 - 11:35",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719565500"
+  },
+  {
+    "artist": "eight-sins",
+    "date": "2024/06/28",
+    "hour": "11:05 - 11:35",
+    "stage": "WARZONE",
+    "ts": "1719565500"
+  },
+  {
+    "artist": "houle",
+    "date": "2024/06/28",
+    "hour": "11:05 - 11:35",
+    "stage": "TEMPLE",
+    "ts": "1719565500"
+  },
+  {
+    "artist": "ankor",
+    "date": "2024/06/28",
+    "hour": "11:40 - 12:10",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719567600"
+  },
+  {
+    "artist": "solitaris",
+    "date": "2024/06/28",
+    "hour": "11:40 - 12:10",
+    "stage": "ALTAR",
+    "ts": "1719567600"
+  },
+  {
+    "artist": "the-devils-trade",
+    "date": "2024/06/28",
+    "hour": "11:40 - 12:10",
+    "stage": "VALLEY",
+    "ts": "1719567600"
+  },
+  {
+    "artist": "imperial-crystalline-entombment",
+    "date": "2024/06/28",
+    "hour": "12:15 - 12:45",
+    "stage": "TEMPLE",
+    "ts": "1719569700"
+  },
+  {
+    "artist": "lovebites",
+    "date": "2024/06/28",
+    "hour": "12:15 - 12:45",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719569700"
+  },
+  {
+    "artist": "smash-hit-combo",
+    "date": "2024/06/28",
+    "hour": "12:15 - 12:45",
+    "stage": "WARZONE",
+    "ts": "1719569700"
+  },
+  {
+    "artist": "gozu",
+    "date": "2024/06/28",
+    "hour": "12:50 - 13:30",
+    "stage": "VALLEY",
+    "ts": "1719571800"
+  },
+  {
+    "artist": "the-acacia-strain",
+    "date": "2024/06/28",
+    "hour": "12:50 - 13:30",
+    "stage": "ALTAR",
+    "ts": "1719571800"
+  },
+  {
+    "artist": "wargasm",
+    "date": "2024/06/28",
+    "hour": "12:50 - 13:30",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719571800"
+  },
+  {
+    "artist": "dropout-kings",
+    "date": "2024/06/28",
+    "hour": "13:35 - 14:15",
+    "stage": "WARZONE",
+    "ts": "1719574500"
+  },
+  {
+    "artist": "orden-ogan",
+    "date": "2024/06/28",
+    "hour": "13:35 - 14:15",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719574500"
+  },
+  {
+    "artist": "shores-of-null",
+    "date": "2024/06/28",
+    "hour": "13:35 - 14:15",
+    "stage": "TEMPLE",
+    "ts": "1719574500"
+  },
+  {
+    "artist": "black-rainbows",
+    "date": "2024/06/28",
+    "hour": "14:20 - 15:05",
+    "stage": "VALLEY",
+    "ts": "1719577200"
+  },
+  {
+    "artist": "textures",
+    "date": "2024/06/28",
+    "hour": "14:20 - 15:05",
+    "stage": "ALTAR",
+    "ts": "1719577200"
+  },
+  {
+    "artist": "while-she-sleeps",
+    "date": "2024/06/28",
+    "hour": "14:20 - 15:00",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719577200"
+  },
+  {
+    "artist": "karnivool",
+    "date": "2024/06/28",
+    "hour": "15:05 - 15:45",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719579900"
+  },
+  {
+    "artist": "ereb-altor",
+    "date": "2024/06/28",
+    "hour": "15:10 - 15:55",
+    "stage": "TEMPLE",
+    "ts": "1719580200"
+  },
+  {
+    "artist": "speed",
+    "date": "2024/06/28",
+    "hour": "15:10 - 15:55",
+    "stage": "WARZONE",
+    "ts": "1719580200"
+  },
+  {
+    "artist": "lofofora",
+    "date": "2024/06/28",
+    "hour": "15:50 - 16:35",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719582600"
+  },
+  {
+    "artist": "klone",
+    "date": "2024/06/28",
+    "hour": "16:00 - 16:45",
+    "stage": "ALTAR",
+    "ts": "1719583200"
+  },
+  {
+    "artist": "nebula",
+    "date": "2024/06/28",
+    "hour": "16:00 - 16:45",
+    "stage": "VALLEY",
+    "ts": "1719583200"
+  },
+  {
+    "artist": "fear-factory",
+    "date": "2024/06/28",
+    "hour": "16:40 - 17:30",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719585600"
+  },
+  {
+    "artist": "mork",
+    "date": "2024/06/28",
+    "hour": "16:50 - 17:40",
+    "stage": "TEMPLE",
+    "ts": "1719586200"
+  },
+  {
+    "artist": "stinky",
+    "date": "2024/06/28",
+    "hour": "16:50 - 17:40",
+    "stage": "WARZONE",
+    "ts": "1719586200"
+  },
+  {
+    "artist": "savage-lands",
+    "date": "2024/06/28",
+    "hour": "17:35 - 18:30",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719588900"
+  },
+  {
+    "artist": "einar-solberg",
+    "date": "2024/06/28",
+    "hour": "17:45 - 18:35",
+    "stage": "ALTAR",
+    "ts": "1719589500"
+  },
+  {
+    "artist": "planet-of-zeus",
+    "date": "2024/06/28",
+    "hour": "17:45 - 18:35",
+    "stage": "VALLEY",
+    "ts": "1719589500"
+  },
+  {
+    "artist": "polyphia",
+    "date": "2024/06/28",
+    "hour": "18:35 - 19:35",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719592500"
+  },
+  {
+    "artist": "harms-way",
+    "date": "2024/06/28",
+    "hour": "18:40 - 19:30",
+    "stage": "WARZONE",
+    "ts": "1719592800"
+  },
+  {
+    "artist": "kanonenfieber",
+    "date": "2024/06/28",
+    "hour": "18:40 - 19:30",
+    "stage": "TEMPLE",
+    "ts": "1719592800"
+  },
+  {
+    "artist": "1000mods",
+    "date": "2024/06/28",
+    "hour": "19:35 - 20:35",
+    "stage": "VALLEY",
+    "ts": "1719596100"
+  },
+  {
+    "artist": "ne-obliviscaris",
+    "date": "2024/06/28",
+    "hour": "19:35 - 20:35",
+    "stage": "ALTAR",
+    "ts": "1719596100"
+  },
+  {
+    "artist": "steel-panther",
+    "date": "2024/06/28",
+    "hour": "19:40 - 20:40",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719596400"
+  },
+  {
+    "artist": "clawfinger",
+    "date": "2024/06/28",
+    "hour": "20:40 - 21:40",
+    "stage": "WARZONE",
+    "ts": "1719600000"
+  },
+  {
+    "artist": "satyricon",
+    "date": "2024/06/28",
+    "hour": "20:40 - 21:40",
+    "stage": "TEMPLE",
+    "ts": "1719600000"
+  },
+  {
+    "artist": "tom-morello",
+    "date": "2024/06/28",
+    "hour": "20:45 - 21:55",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719600300"
+  },
+  {
+    "artist": "amorphis",
+    "date": "2024/06/28",
+    "hour": "21:45 - 22:45",
+    "stage": "ALTAR",
+    "ts": "1719603900"
+  },
+  {
+    "artist": "witch",
+    "date": "2024/06/28",
+    "hour": "21:45 - 22:45",
+    "stage": "VALLEY",
+    "ts": "1719603900"
+  },
+  {
+    "artist": "shaka-ponk",
+    "date": "2024/06/28",
+    "hour": "22:00 - 23:10",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719604800"
+  },
+  {
+    "artist": "biohazard",
+    "date": "2024/06/28",
+    "hour": "22:50 - 23:50",
+    "stage": "WARZONE",
+    "ts": "1719607800"
+  },
+  {
+    "artist": "emperor",
+    "date": "2024/06/28",
+    "hour": "22:50 - 23:50",
+    "stage": "TEMPLE",
+    "ts": "1719607800"
+  },
+  {
+    "artist": "machine-head",
+    "date": "2024/06/28",
+    "hour": "23:15 - 00:45",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719609300"
+  },
+  {
+    "artist": "fu-manchu",
+    "date": "2024/06/28",
+    "hour": "23:55 - 00:55",
+    "stage": "VALLEY",
+    "ts": "1719611700"
+  },
+  {
+    "artist": "pain-of-salvation",
+    "date": "2024/06/28",
+    "hour": "23:55 - 00:55",
+    "stage": "ALTAR",
+    "ts": "1719611700"
+  },
+  {
+    "artist": "the-prodigy",
+    "date": "2024/06/29",
+    "hour": "00:50 - 02:00",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719615000"
+  },
+  {
+    "artist": "anaal-nathrakh",
+    "date": "2024/06/29",
+    "hour": "01:00 - 02:00",
+    "stage": "TEMPLE",
+    "ts": "1719615600"
+  },
+  {
+    "artist": "body-count-ft-ice-t",
+    "date": "2024/06/29",
+    "hour": "01:00 - 02:00",
+    "stage": "WARZONE",
+    "ts": "1719615600"
+  },
+  {
+    "artist": "crystal-viper",
+    "date": "2024/06/29",
+    "hour": "10:30 - 11:00",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719649800"
+  },
+  {
+    "artist": "nakkeknaekker",
+    "date": "2024/06/29",
+    "hour": "10:30 - 11:00",
+    "stage": "ALTAR",
+    "ts": "1719649800"
+  },
+  {
+    "artist": "darken",
+    "date": "2024/06/29",
+    "hour": "11:05 - 11:35",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719651900"
+  },
+  {
+    "artist": "eihwar",
+    "date": "2024/06/29",
+    "hour": "11:05 - 11:35",
+    "stage": "TEMPLE",
+    "ts": "1719651900"
+  },
+  {
+    "artist": "fallen-lillies",
+    "date": "2024/06/29",
+    "hour": "11:05 - 11:35",
+    "stage": "WARZONE",
+    "ts": "1719651900"
+  },
+  {
+    "artist": "blockheads",
+    "date": "2024/06/29",
+    "hour": "11:40 - 12:10",
+    "stage": "ALTAR",
+    "ts": "1719654000"
+  },
+  {
+    "artist": "konvent",
+    "date": "2024/06/29",
+    "hour": "11:40 - 12:10",
+    "stage": "VALLEY",
+    "ts": "1719654000"
+  },
+  {
+    "artist": "sumerlands",
+    "date": "2024/06/29",
+    "hour": "11:40 - 12:10",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719654000"
+  },
+  {
+    "artist": "alien-weaponry",
+    "date": "2024/06/29",
+    "hour": "12:15 - 12:45",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719656100"
+  },
+  {
+    "artist": "the-dead-krazukies",
+    "date": "2024/06/29",
+    "hour": "12:15 - 12:45",
+    "stage": "WARZONE",
+    "ts": "1719656100"
+  },
+  {
+    "artist": "uuhai",
+    "date": "2024/06/29",
+    "hour": "12:15 - 12:45",
+    "stage": "TEMPLE",
+    "ts": "1719656100"
+  },
+  {
+    "artist": "eternal-champion",
+    "date": "2024/06/29",
+    "hour": "12:50 - 13:30",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719658200"
+  },
+  {
+    "artist": "kronos",
+    "date": "2024/06/29",
+    "hour": "12:50 - 13:30",
+    "stage": "ALTAR",
+    "ts": "1719658200"
+  },
+  {
+    "artist": "spotlights",
+    "date": "2024/06/29",
+    "hour": "12:50 - 13:30",
+    "stage": "VALLEY",
+    "ts": "1719658200"
+  },
+  {
+    "artist": "anvil",
+    "date": "2024/06/29",
+    "hour": "13:35 - 14:15",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719660900"
+  },
+  {
+    "artist": "hrafngrimr",
+    "date": "2024/06/29",
+    "hour": "13:35 - 14:15",
+    "stage": "TEMPLE",
+    "ts": "1719660900"
+  },
+  {
+    "artist": "total-chaos",
+    "date": "2024/06/29",
+    "hour": "13:35 - 14:15",
+    "stage": "WARZONE",
+    "ts": "1719660900"
+  },
+  {
+    "artist": "oxbow",
+    "date": "2024/06/29",
+    "hour": "14:20 - 15:05",
+    "stage": "VALLEY",
+    "ts": "1719663600"
+  },
+  {
+    "artist": "rhapsody-of-fire",
+    "date": "2024/06/29",
+    "hour": "14:20 - 15:05",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719663600"
+  },
+  {
+    "artist": "sanguisugabogg",
+    "date": "2024/06/29",
+    "hour": "14:20 - 15:05",
+    "stage": "ALTAR",
+    "ts": "1719663600"
+  },
+  {
+    "artist": "black-stone-cherry",
+    "date": "2024/06/29",
+    "hour": "15:10 - 15:55",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719666600"
+  },
+  {
+    "artist": "the-casualties",
+    "date": "2024/06/29",
+    "hour": "15:10 - 15:55",
+    "stage": "WARZONE",
+    "ts": "1719666600"
+  },
+  {
+    "artist": "wayfarer",
+    "date": "2024/06/29",
+    "hour": "15:10 - 15:55",
+    "stage": "TEMPLE",
+    "ts": "1719666600"
+  },
+  {
+    "artist": "brutus",
+    "date": "2024/06/29",
+    "hour": "16:00 - 16:45",
+    "stage": "VALLEY",
+    "ts": "1719669600"
+  },
+  {
+    "artist": "legion-of-the-damned",
+    "date": "2024/06/29",
+    "hour": "16:00 - 16:45",
+    "stage": "ALTAR",
+    "ts": "1719669600"
+  },
+  {
+    "artist": "stratovarius",
+    "date": "2024/06/29",
+    "hour": "16:00 - 16:45",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719669600"
+  },
+  {
+    "artist": "8-6-crew",
+    "date": "2024/06/29",
+    "hour": "16:50 - 17:40",
+    "stage": "WARZONE",
+    "ts": "1719672600"
+  },
+  {
+    "artist": "mammoth-wvh",
+    "date": "2024/06/29",
+    "hour": "16:50 - 17:35",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719672600"
+  },
+  {
+    "artist": "skalmold",
+    "date": "2024/06/29",
+    "hour": "16:50 - 17:40",
+    "stage": "TEMPLE",
+    "ts": "1719672600"
+  },
+  {
+    "artist": "yngwie-malmsteen",
+    "date": "2024/06/29",
+    "hour": "17:40 - 18:25",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719675600"
+  },
+  {
+    "artist": "kvelertak",
+    "date": "2024/06/29",
+    "hour": "17:45 - 18:35",
+    "stage": "VALLEY",
+    "ts": "1719675900"
+  },
+  {
+    "artist": "the-haunted",
+    "date": "2024/06/29",
+    "hour": "17:45 - 18:35",
+    "stage": "ALTAR",
+    "ts": "1719675900"
+  },
+  {
+    "artist": "extreme",
+    "date": "2024/06/29",
+    "hour": "18:30 - 19:30",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719678600"
+  },
+  {
+    "artist": "corvus-corax",
+    "date": "2024/06/29",
+    "hour": "18:40 - 19:30",
+    "stage": "TEMPLE",
+    "ts": "1719679200"
+  },
+  {
+    "artist": "didier-wampas-psycho-attacks",
+    "date": "2024/06/29",
+    "hour": "18:40 - 19:30",
+    "stage": "WARZONE",
+    "ts": "1719679200"
+  },
+  {
+    "artist": "accept",
+    "date": "2024/06/29",
+    "hour": "19:35 - 20:30",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719682500"
+  },
+  {
+    "artist": "chelsea-wolfe",
+    "date": "2024/06/29",
+    "hour": "19:35 - 20:35",
+    "stage": "VALLEY",
+    "ts": "1719682500"
+  },
+  {
+    "artist": "kataklysm",
+    "date": "2024/06/29",
+    "hour": "19:35 - 20:35",
+    "stage": "ALTAR",
+    "ts": "1719682500"
+  },
+  {
+    "artist": "mass-hysteria",
+    "date": "2024/06/29",
+    "hour": "20:35 - 21:35",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719686100"
+  },
+  {
+    "artist": "nekromantix",
+    "date": "2024/06/29",
+    "hour": "20:40 - 21:40",
+    "stage": "WARZONE",
+    "ts": "1719686400"
+  },
+  {
+    "artist": "skyclad",
+    "date": "2024/06/29",
+    "hour": "20:40 - 21:40",
+    "stage": "TEMPLE",
+    "ts": "1719686400"
+  },
+  {
+    "artist": "bruce-dickinson",
+    "date": "2024/06/29",
+    "hour": "21:40 - 22:40",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719690000"
+  },
+  {
+    "artist": "mr-bungle",
+    "date": "2024/06/29",
+    "hour": "21:45 - 22:45",
+    "stage": "VALLEY",
+    "ts": "1719690300"
+  },
+  {
+    "artist": "nile",
+    "date": "2024/06/29",
+    "hour": "21:45 - 22:45",
+    "stage": "ALTAR",
+    "ts": "1719690300"
+  },
+  {
+    "artist": "metallica",
+    "date": "2024/06/29",
+    "hour": "22:45 - 01:00",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719693900"
+  },
+  {
+    "artist": "korpiklaani",
+    "date": "2024/06/29",
+    "hour": "22:50 - 23:50",
+    "stage": "TEMPLE",
+    "ts": "1719694200"
+  },
+  {
+    "artist": "the-interrupters",
+    "date": "2024/06/29",
+    "hour": "22:50 - 23:50",
+    "stage": "WARZONE",
+    "ts": "1719694200"
+  },
+  {
+    "artist": "dismember",
+    "date": "2024/06/29",
+    "hour": "23:55 - 00:55",
+    "stage": "ALTAR",
+    "ts": "1719698100"
+  },
+  {
+    "artist": "julie-christmas",
+    "date": "2024/06/29",
+    "hour": "23:55 - 00:55",
+    "stage": "VALLEY",
+    "ts": "1719698100"
+  },
+  {
+    "artist": "eivor",
+    "date": "2024/06/30",
+    "hour": "01:00 - 02:00",
+    "stage": "TEMPLE",
+    "ts": "1719702000"
+  },
+  {
+    "artist": "suicidal-tendencies",
+    "date": "2024/06/30",
+    "hour": "01:00 - 02:00",
+    "stage": "WARZONE",
+    "ts": "1719702000"
+  },
+  {
+    "artist": "saxon",
+    "date": "2024/06/30",
+    "hour": "01:05 - 02:05",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719702300"
+  },
+  {
+    "artist": "bad-situation",
+    "date": "2024/06/30",
+    "hour": "10:30 - 11:00",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719736200"
+  },
+  {
+    "artist": "deficiency",
+    "date": "2024/06/30",
+    "hour": "10:30 - 11:00",
+    "stage": "ALTAR",
+    "ts": "1719736200"
+  },
+  {
+    "artist": "pencey-sloe",
+    "date": "2024/06/30",
+    "hour": "10:30 - 11:00",
+    "stage": "VALLEY",
+    "ts": "1719736200"
+  },
+  {
+    "artist": "cosmic-psychos",
+    "date": "2024/06/30",
+    "hour": "11:05 - 11:35",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719738300"
+  },
+  {
+    "artist": "sang-froid",
+    "date": "2024/06/30",
+    "hour": "11:05 - 11:35",
+    "stage": "TEMPLE",
+    "ts": "1719738300"
+  },
+  {
+    "artist": "sorcerer",
+    "date": "2024/06/30",
+    "hour": "11:05 - 11:35",
+    "stage": "WARZONE",
+    "ts": "1719738300"
+  },
+  {
+    "artist": "destinity",
+    "date": "2024/06/30",
+    "hour": "11:40 - 12:10",
+    "stage": "ALTAR",
+    "ts": "1719740400"
+  },
+  {
+    "artist": "heriot",
+    "date": "2024/06/30",
+    "hour": "11:40 - 12:10",
+    "stage": "VALLEY",
+    "ts": "1719740400"
+  },
+  {
+    "artist": "hot-milk",
+    "date": "2024/06/30",
+    "hour": "11:40 - 12:20",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719740400"
+  },
+  {
+    "artist": "gel",
+    "date": "2024/06/30",
+    "hour": "12:15 - 12:45",
+    "stage": "WARZONE",
+    "ts": "1719742500"
+  },
+  {
+    "artist": "pensees-nocturnes",
+    "date": "2024/06/30",
+    "hour": "12:15 - 12:45",
+    "stage": "TEMPLE",
+    "ts": "1719742500"
+  },
+  {
+    "artist": "high-on-fire",
+    "date": "2024/06/30",
+    "hour": "12:25 - 13:05",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719743100"
+  },
+  {
+    "artist": "brand-of-sacrifice",
+    "date": "2024/06/30",
+    "hour": "12:50 - 13:30",
+    "stage": "ALTAR",
+    "ts": "1719744600"
+  },
+  {
+    "artist": "dool",
+    "date": "2024/06/30",
+    "hour": "12:50 - 13:30",
+    "stage": "VALLEY",
+    "ts": "1719744600"
+  },
+  {
+    "artist": "neck-deep",
+    "date": "2024/06/30",
+    "hour": "13:10 - 13:50",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719745800"
+  },
+  {
+    "artist": "scowl",
+    "date": "2024/06/30",
+    "hour": "13:35 - 14:15",
+    "stage": "WARZONE",
+    "ts": "1719747300"
+  },
+  {
+    "artist": "thron",
+    "date": "2024/06/30",
+    "hour": "13:35 - 14:15",
+    "stage": "TEMPLE",
+    "ts": "1719747300"
+  },
+  {
+    "artist": "nova-twins",
+    "date": "2024/06/30",
+    "hour": "13:55 - 14:35",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719748500"
+  },
+  {
+    "artist": "caliban",
+    "date": "2024/06/30",
+    "hour": "14:20 - 15:05",
+    "stage": "ALTAR",
+    "ts": "1719750000"
+  },
+  {
+    "artist": "rendez-vous",
+    "date": "2024/06/30",
+    "hour": "14:20 - 15:05",
+    "stage": "VALLEY",
+    "ts": "1719750000"
+  },
+  {
+    "artist": "simple-plan",
+    "date": "2024/06/30",
+    "hour": "14:40 - 15:25",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719751200"
+  },
+  {
+    "artist": "drug-church",
+    "date": "2024/06/30",
+    "hour": "15:10 - 15:55",
+    "stage": "WARZONE",
+    "ts": "1719753000"
+  },
+  {
+    "artist": "yoth-iria",
+    "date": "2024/06/30",
+    "hour": "15:10 - 15:55",
+    "stage": "TEMPLE",
+    "ts": "1719753000"
+  },
+  {
+    "artist": "heart",
+    "date": "2024/06/30",
+    "hour": "15:30 - 16:20",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719754200"
+  },
+  {
+    "artist": "shadow-of-intent",
+    "date": "2024/06/30",
+    "hour": "16:00 - 16:45",
+    "stage": "ALTAR",
+    "ts": "1719756000"
+  },
+  {
+    "artist": "therapy",
+    "date": "2024/06/30",
+    "hour": "16:00 - 16:45",
+    "stage": "VALLEY",
+    "ts": "1719756000"
+  },
+  {
+    "artist": "frank-carter-the-rattlesnakes",
+    "date": "2024/06/30",
+    "hour": "16:25 - 17:15",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719757500"
+  },
+  {
+    "artist": "show-me-the-body",
+    "date": "2024/06/30",
+    "hour": "16:50 - 17:40",
+    "stage": "WARZONE",
+    "ts": "1719759000"
+  },
+  {
+    "artist": "wiegedood",
+    "date": "2024/06/30",
+    "hour": "16:50 - 17:40",
+    "stage": "TEMPLE",
+    "ts": "1719759000"
+  },
+  {
+    "artist": "royal-blood",
+    "date": "2024/06/30",
+    "hour": "17:20 - 18:15",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719760800"
+  },
+  {
+    "artist": "city-morgue",
+    "date": "2024/06/30",
+    "hour": "17:45 - 18:35",
+    "stage": "VALLEY",
+    "ts": "1719762300"
+  },
+  {
+    "artist": "the-black-dahlia-murder",
+    "date": "2024/06/30",
+    "hour": "17:45 - 18:35",
+    "stage": "ALTAR",
+    "ts": "1719762300"
+  },
+  {
+    "artist": "corey-taylor",
+    "date": "2024/06/30",
+    "hour": "18:20 - 19:20",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719764400"
+  },
+  {
+    "artist": "batushka",
+    "date": "2024/06/30",
+    "hour": "18:40 - 19:40",
+    "stage": "TEMPLE",
+    "ts": "1719765600"
+  },
+  {
+    "artist": "high-vis",
+    "date": "2024/06/30",
+    "hour": "18:40 - 19:40",
+    "stage": "WARZONE",
+    "ts": "1719765600"
+  },
+  {
+    "artist": "queens-of-the-stone-age",
+    "date": "2024/06/30",
+    "hour": "19:25 - 20:40",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719768300"
+  },
+  {
+    "artist": "TTT-crosses",
+    "date": "2024/06/30",
+    "hour": "19:45 - 20:45",
+    "stage": "VALLEY",
+    "ts": "1719769500"
+  },
+  {
+    "artist": "suffocation",
+    "date": "2024/06/30",
+    "hour": "19:45 - 20:45",
+    "stage": "ALTAR",
+    "ts": "1719769500"
+  },
+  {
+    "artist": "the-offspring",
+    "date": "2024/06/30",
+    "hour": "20:45 - 21:55",
+    "stage": "MAINSTAGE 2",
+    "ts": "1719773100"
+  },
+  {
+    "artist": "madball",
+    "date": "2024/06/30",
+    "hour": "20:50 - 21:50",
+    "stage": "WARZONE",
+    "ts": "1719773400"
+  },
+  {
+    "artist": "tiamat",
+    "date": "2024/06/30",
+    "hour": "20:50 - 21:50",
+    "stage": "TEMPLE",
+    "ts": "1719773400"
+  },
+  {
+    "artist": "i-am-morbid",
+    "date": "2024/06/30",
+    "hour": "21:55 - 22:55",
+    "stage": "ALTAR",
+    "ts": "1719777300"
+  },
+  {
+    "artist": "rival-sons",
+    "date": "2024/06/30",
+    "hour": "21:55 - 22:55",
+    "stage": "VALLEY",
+    "ts": "1719777300"
+  },
+  {
+    "artist": "foo-fighters",
+    "date": "2024/06/30",
+    "hour": "22:00 - 00:00",
+    "stage": "MAINSTAGE 1",
+    "ts": "1719777600"
+  },
+  {
+    "artist": "cock-sparrer",
+    "date": "2024/06/30",
+    "hour": "23:00 - 00:00",
+    "stage": "WARZONE",
+    "ts": "1719781200"
+  },
+  {
+    "artist": "dimmu-borgir",
+    "date": "2024/06/30",
+    "hour": "23:00 - 00:00",
+    "stage": "TEMPLE",
+    "ts": "1719781200"
+  }
+]

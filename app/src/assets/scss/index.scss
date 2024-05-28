@@ -1,0 +1,10 @@
+#app {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  color: $black;
+  font-family: $text-font;
+  font-weight: 500;
+  background-color: $background-light;
+}

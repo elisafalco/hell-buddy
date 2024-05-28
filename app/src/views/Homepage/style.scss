@@ -1,0 +1,273 @@
+* {
+  box-sizing: border-box;
+}
+
+.t-homepage {
+  background-color: $background-light;
+
+  &__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    padding: 0 20px;
+    background-color: $white;
+  }
+
+  &__days {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 30px;
+    padding: 0 20px;
+    background-color: $medium-grey;
+  }
+
+  &__body {
+    padding: 10px;
+    background-color: $light-grey;
+  }
+}
+
+.o-header {
+
+  &__left,
+  &__right {
+    display: flex;
+    gap: 4px;
+    width: 30%;
+  }
+}
+
+.o-planning {
+  display: grid;
+  grid-template:
+    "stages stages"
+    "hours concerts" auto / 30px 1fr;
+  width: calc(100vw - 20px);
+  height: calc(100vh - 120px);
+  overflow: auto;
+  background-color: $white;
+
+  &__stages {
+    position: sticky;
+    top: 0;
+    display: grid;
+    grid-area: stages;
+    grid-template-columns: repeat(6, 130px);
+    padding-left: 30px;
+    column-gap: 4px;
+    background-color: $white;
+    z-index: 10;
+  }
+
+  &__stage {
+    padding: 5px 0;
+    text-align: center;
+  }
+
+  &__hours {
+    position: sticky;
+    left: 0;
+    display: grid;
+    grid-area: hours;
+    grid-template-rows: repeat(17, 60px);
+    width: 30px;
+    height: 1020px;
+    background-color: $white;
+    z-index: 11;
+  }
+
+  &__hour {
+    margin-top: -8px;
+    text-align: center;
+  }
+
+  &__grid {
+    position: relative;
+    display: grid;
+    grid-area: concerts;
+    grid-template-rows: repeat(204, 5px);
+    grid-template-columns: repeat(6, 130px);
+    height: 1020px;
+    column-gap: 4px;
+    background-color: $light-grey;
+  }
+
+  &__line {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 0;
+    overflow: visible;
+    border-bottom: 1px solid $medium-grey;
+  }
+}
+
+.m-buddys {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid $medium-grey;
+  cursor: pointer;
+}
+
+.m-profile {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid $medium-grey;
+  cursor: pointer;
+
+  &__color {
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+  }
+}
+
+.a-color {
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+  outline-offset: -7px;
+  cursor: pointer;
+
+  &.-active {
+    outline: 3px solid $white;
+  }
+
+  &.-small {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+.o-popin__title {
+  padding: 4px 0;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid $black;
+  border-bottom: 1px solid $black;
+}
+
+.o-qrCode {
+  margin: 12px 0;
+
+  &__button {
+    width: 100%;
+    padding: 4px 8px;
+    color: $white;
+    font-family: $text-font;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-color: $background-dark;
+    border: none;
+  }
+
+  &__video {
+    width: 100%;
+    height: 40vh;
+  }
+}
+
+.o-profileForm {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 12px 0;
+
+  &__field {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  &__label {
+    font-size: 16px;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+
+  &__colors {
+    display: flex;
+    flex-shrink: 1;
+    gap: 4px;
+  }
+
+  &__input {
+    flex-grow: 1;
+    height: 30px;
+    border: 1px solid $black;
+  }
+
+  &__button {
+    width: 100%;
+    padding: 4px 8px;
+    color: $white;
+    font-family: $text-font;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-color: $background-dark;
+    border: none;
+  }
+}
+
+.o-table {
+  width: 100%;
+  font-size: 16px;
+  text-align: left;
+
+  &__cell {
+    height: 30px;
+    vertical-align: middle;
+    border-top: 1px solid $medium-grey;
+
+    &.-chip {
+      width: 25px;
+    }
+
+    &.-scanTs {
+      text-align: center;
+    }
+
+    &.-action {
+      text-align: right;
+
+      button {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 22px;
+        height: 22px;
+        margin-left: auto;
+        background-color: $white;
+        border: 1px solid $red;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+    }
+  }
+}
+
+.a-chip {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  color: $white;
+  border: 1px solid $white !important;
+  border-radius: 20px;
+}
