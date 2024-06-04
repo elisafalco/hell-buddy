@@ -1,0 +1,39 @@
+.o-buddysPopin {
+
+  .m-table {
+    width: 100%;
+    font-size: 16px;
+    text-align: left;
+
+    &__cell {
+      height: 30px;
+      vertical-align: middle;
+      border-top: 1px solid $medium-grey;
+
+      &.-chip {
+        width: 25px;
+      }
+
+      &.-scanTs {
+        text-align: center;
+      }
+
+      &.-action {
+        text-align: right;
+
+        button {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 22px;
+          height: 22px;
+          margin-left: auto;
+          background-color: $white;
+          border: 1px solid $red;
+          border-radius: 4px;
+          cursor: pointer;
+        }
+      }
+    }
+  }
+}

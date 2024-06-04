@@ -1,6 +1,11 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
+    "paths": {
+      "@/*": ["./app/src/*"],
+      "@assets/*": ["./app/src/assets/*"],
+      "@components/*": ["./app/src/components/*"]
+    },
     "target": "ESNext",
     "useDefineForClassFields": true,
     "module": "ESNext",
@@ -13,5 +18,11 @@
     "lib": ["ESNext", "DOM"],
     "skipLibCheck": true,
   },
-  "include": ["src/**/*", "src/**/*.vue"],
+  "include": [
+    "app/src/**/*.ts",
+    "app/src/**/*.d.ts",
+    "app/src/**/*.tsx",
+    "app/src/**/*.vue",
+    "app/src/**/*.json"
+  ],
 }

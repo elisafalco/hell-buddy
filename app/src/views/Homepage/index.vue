@@ -3,14 +3,13 @@
     <div class="t-homepage__header o-header">
       <div class="o-header__left">
         <ToggleEdit :edit-mode="editMode" @click="editMode = !editMode" />
+        <div class="m-buddys" @click="showBuddysPopin = true">Buddys</div>
       </div>
       <div class="o-header__logo">
         <Heading>HELL'BUDDY 👹</Heading>
       </div>
 
       <div class="o-header__right">
-        <div class="m-buddys" @click="showBuddysPopin = true">Buddys</div>
-
         <div class="m-profile" @click="showProfilePopin = true">
           <div class="m-profile__color" :style="{ backgroundColor: color }" />
           <div class="m-profile__name">{{ username }}</div>
@@ -73,35 +72,12 @@
     </div>
 
     <!-- Buddy's popin -->
-    <Popin v-if="showBuddysPopin" @close="showBuddysPopin = false">
-      <div class="o-popin__title">Mes buddys</div>
-      <table class="o-table">
-        <thead>
-          <th></th>
-          <th class="o-table__cell -name">Nom</th>
-          <th class="o-table__cell -scanTs">Dernier scan</th>
-          <th class="o-table__cell -action">Supprimer</th>
-        </thead>
-        <tbody>
-          <tr v-for="buddy in buddys" :key="buddy.id">
-            <td class="o-table__cell -chip">
-              <div :style="{ background: buddy.color }" class="a-chip">
-                {{ buddy.username[0] }}
-              </div>
-            </td>
-            <td class="o-table__cell -name">{{ buddy.username }}</td>
-            <td class="o-table__cell -scanTs">
-              {{ getLocaleStringFromTimestamp(buddy.scanTS) }}
-            </td>
-            <td class="o-table__cell -action">
-              <button type="button" @click="handleDeleteBuddy(buddy.id)">
-                ❌
-              </button>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </Popin>
+    <BuddysPopin
+      v-if="showBuddysPopin"
+      :buddys="buddys"
+      @close="showBuddysPopin = false"
+      @update:buddys="(value) => (buddys = value)"
+    />
 
     <!-- Profile popin -->
     <Popin v-if="showProfilePopin" @close="showProfilePopin = false">
@@ -202,31 +178,27 @@
     getColor,
     addBuddy,
     getBuddys,
-    deleteBuddy,
-  } from '../../composables';
+  } from '@/composables';
 
   // Types
-  import { ConcertType } from '../../types/index.d';
-  import { ChipBuddyType } from '../../components/Molecule/Show/index.d';
+  import { ConcertType } from '@/types/index.d';
+  import { ChipBuddyType } from '@components/Molecule/Show/index.d';
 
   // Constants
-  import { DAYS, STAGES, COLORS } from '../../constants';
+  import { DAYS, STAGES, COLORS } from '@/constants';
 
   // Utils
-  import {
-    getISODateFromTimestamp,
-    getLocaleStringFromTimestamp,
-    generateQRCode,
-  } from '../../utils';
+  import { getISODateFromTimestamp, generateQRCode } from '@/utils';
 
   // Components
-  import Heading from '../../components/Atom/Heading';
-  import ToggleEdit from '../../components/Atom/ToggleEdit';
-  import Show from '../../components/Molecule/Show';
-  import Popin from '../../components/Organism/Popin';
+  import Heading from '@components/Atom/Heading';
+  import ToggleEdit from '@components/Atom/ToggleEdit';
+  import Show from '@components/Molecule/Show';
+  import Popin from '@components/Organism/Popin';
+  import BuddysPopin from '@components/Organism/BuddysPopin';
 
   // Data
-  import data from '../../data/timetable.json';
+  import data from '@/data/timetable.json';
 
   // Variables
   const editMode = ref(false);
@@ -368,18 +340,10 @@
   };
 
   /**
-   * handleDeleteBuddy
-   * @param {string} id
-   */
-  const handleDeleteBuddy = (id: string) => {
-    buddys.value = deleteBuddy(id);
-  };
-
-  /**
    * saveBuddysProgram
    * @param {string} buddy
    */
-  const saveBuddysProgram = (buddy) => {
+  const saveBuddysProgram = (buddy: string) => {
     addBuddy(buddy);
     buddys.value = getBuddys() || [];
   };
@@ -390,7 +354,6 @@
    * @returns {ChipBuddyType[]}
    */
   const getConcertBuddys = (bandName: string): ChipBuddyType[] => {
-    // const chips: ChipBuddyType[] = [];
     const chips: ChipBuddyType[] = buddys.value
       .filter((buddy) => buddy.program.includes(bandName))
       .map((buddy) => {
@@ -447,7 +410,7 @@
       id.value = getId();
     }
     if (!color.value) {
-      const newColor = COLORS[Math.floor(Math.random() * 3)]
+      const newColor = COLORS[Math.floor(Math.random() * 3)];
       setColor(newColor);
       color.value = newColor;
     }

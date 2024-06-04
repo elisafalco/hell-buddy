@@ -1,11 +1,8 @@
 .m-show {
   position: relative;
   box-sizing: border-box;
-  padding: 2px 5px;
+  padding: 6px 5px;
   color: $white;
-  font-size: 14px;
-  font-weight: 600;
-  text-transform: uppercase;
   border-radius: 8px;
   cursor: pointer;
   z-index: 9;
@@ -65,8 +62,11 @@
 
   &__artist {
     overflow: hidden;
+    font-size: 17px;
+    font-weight: 600;
     line-height: 1;
     white-space: nowrap;
+    text-transform: uppercase;
     text-overflow: ellipsis;
   }
   
@@ -77,17 +77,16 @@
 
   &__buddys {
     position: absolute;
-    right: 5px;
-    bottom: 2px;
+    right: 10px;
+    bottom: -8px;
     display: flex;
     flex-direction: row;
     align-items: center;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
     opacity: 0.6;
-
-    .a-chip {
-      position: relative;
-    }
-
+    
     &Item {
       width: 17px;
       overflow: visible;

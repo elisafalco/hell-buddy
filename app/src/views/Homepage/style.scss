@@ -41,6 +41,10 @@
     gap: 4px;
     width: 30%;
   }
+
+  &__right {
+    justify-content: flex-end;
+  }
 }
 
 .o-planning {
@@ -58,7 +62,7 @@
     top: 0;
     display: grid;
     grid-area: stages;
-    grid-template-columns: repeat(6, 130px);
+    grid-template-columns: repeat(6, 120px);
     padding-left: 30px;
     column-gap: 4px;
     background-color: $white;
@@ -92,7 +96,7 @@
     display: grid;
     grid-area: concerts;
     grid-template-rows: repeat(204, 5px);
-    grid-template-columns: repeat(6, 130px);
+    grid-template-columns: repeat(6, 120px);
     height: 1020px;
     column-gap: 4px;
     background-color: $light-grey;
@@ -230,52 +234,4 @@
     background-color: $background-dark;
     border: none;
   }
-}
-
-.o-table {
-  width: 100%;
-  font-size: 16px;
-  text-align: left;
-
-  &__cell {
-    height: 30px;
-    vertical-align: middle;
-    border-top: 1px solid $medium-grey;
-
-    &.-chip {
-      width: 25px;
-    }
-
-    &.-scanTs {
-      text-align: center;
-    }
-
-    &.-action {
-      text-align: right;
-
-      button {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        width: 22px;
-        height: 22px;
-        margin-left: auto;
-        background-color: $white;
-        border: 1px solid $red;
-        border-radius: 4px;
-        cursor: pointer;
-      }
-    }
-  }
-}
-
-.a-chip {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 20px;
-  height: 20px;
-  color: $white;
-  border: 1px solid $white !important;
-  border-radius: 20px;
 }

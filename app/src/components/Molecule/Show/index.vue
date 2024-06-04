@@ -9,16 +9,14 @@
     @click="emit('update:program', concert.artist)"
   >
     <div class="m-show__artist">{{ unslugify(concert.artist) }}</div>
-    <div class="m-show__hour">{{ concert.hour }}</div>
+    <!-- <div class="m-show__hour">{{ concert.hour }}</div> -->
     <div v-if="getBuddys().length" class="m-show__buddys">
       <div
         v-for="buddy in getBuddys()"
         :key="buddy.id"
         class="m-show__buddysItem"
       >
-        <div :style="{ background: buddy.color }" class="a-chip">
-          {{ buddy.username }}
-        </div>
+        <BuddyChip :name="buddy.username" :background-color="buddy.color" />
       </div>
     </div>
   </div>
@@ -37,6 +35,9 @@
 
   // Constants
   import { STAGES } from '../../../constants';
+
+  // Components
+  import BuddyChip from '@components/Atom/BuddyChip';
 
   // Utils
   import { unslugify } from '../../../utils';
