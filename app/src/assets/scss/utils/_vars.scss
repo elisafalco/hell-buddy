@@ -1,33 +1,26 @@
 /****************/
 /**** COLORS ****/
 /****************/
-// Primary colors
-$purple: #465298;
-$lighter-purple: #606dbc;
-$blue: #8de1f8;
-$primary-color: $purple;
-$secondary-color: $blue;
 
-// Black to white
 $black: #21272b;
 $dark-grey: #4f4f4f;
+$grey: #888;
 $medium-grey: #ccc;
 $light-grey: #e0e0e0;
 $white: #ffffff;
 
-// Background
 $background-dark: #000000;
 $background-purple: #eaeafc;
 $background-light: #f6f7ff;
 
-// Fonctionnal colors
 $blue: #135DB2;
 $red: #f13359;
 $orange: #ffad31;
 $green: #0b8e28;
 $light-green: #6df38b;
+$purple: #465298;
+$lighter-purple: #606dbc;
 
-// Scenes
 $mainstage1: #135DB2;
 $mainstage2: #959595;
 $warzone: #88962E;
@@ -39,9 +32,8 @@ $altar: #E3322A;
 /***************/
 /**** FONTS ****/
 /***************/
-$montserrat: 'Montserrat';
 $tungsten: 'Tungsten';
-$poppins: 'Poppins';
+$mush: 'MushtenDeco24';
 
 $title-font: $tungsten;
 $text-font: $tungsten;

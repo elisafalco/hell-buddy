@@ -1,7 +1,7 @@
 .o-buddysPopin {
-
   .m-table {
     width: 100%;
+    margin: 20px 0 30px;
     font-size: 16px;
     text-align: left;
 
@@ -12,6 +12,7 @@
 
       &.-chip {
         width: 25px;
+        padding: 5px 10px 5px 0;
       }
 
       &.-scanTs {
@@ -19,21 +20,35 @@
       }
 
       &.-action {
+        width: 15%;
         text-align: right;
 
         button {
           display: flex;
           align-items: center;
           justify-content: center;
-          width: 22px;
-          height: 22px;
+          width: 28px;
+          height: 28px;
           margin-left: auto;
-          background-color: $white;
+          color: $white;
+          background-color: $red;
           border: 1px solid $red;
           border-radius: 4px;
           cursor: pointer;
+          svg {
+            width: 25px;
+            height: 25px;
+          }
         }
       }
     }
+  }
+
+  .a-button {
+    position: sticky;
+    bottom: 0px;
+    width: 100%;
+    margin-top: auto;
+    z-index: 10
   }
 }

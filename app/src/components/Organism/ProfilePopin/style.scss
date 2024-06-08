@@ -1,0 +1,57 @@
+.o-profilePopin {
+  .o-profileForm {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin: 12px 0;
+  
+    &__field {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+  
+    &__label {
+      font-size: 16px;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+  
+    &__colors {
+      display: flex;
+      flex-shrink: 1;
+      gap: 4px;
+    }
+  
+    &__input {
+      flex-grow: 1;
+      height: 30px;
+      border: 1px solid $black;
+    }
+
+    .a-color {
+      width: 30px;
+      height: 30px;
+      border-radius: 30px;
+      outline-offset: -7px;
+      cursor: pointer;
+    
+      &.-active {
+        outline: 3px solid $white;
+      }
+    
+      &.-small {
+        width: 20px;
+        height: 20px;
+      }
+    }
+  }
+
+  .o-qrCode {
+    margin: 12px 0;
+  
+    &__image {
+      max-width: 330px;
+    }
+  }
+}

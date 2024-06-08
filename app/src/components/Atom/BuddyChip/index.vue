@@ -1,5 +1,9 @@
 <template>
-  <div :style="{ background: backgroundColor }" class="a-buddyChip">
+  <div
+    :style="{ background: backgroundColor }"
+    class="a-buddyChip"
+    :class="`-${size}`"
+  >
     {{ firstLetter }}
   </div>
 </template>
@@ -14,10 +18,11 @@
   // Types
   import type { Props } from './index.d';
 
-  const props = defineProps<Props>();
+  const props = withDefaults(defineProps<Props>(), {
+    size: 'default',
+  });
 
-  const firstLetter = props.name.trim()[0]
-
+  const firstLetter = props.name.trim()[0];
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

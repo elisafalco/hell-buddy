@@ -1,30 +1,54 @@
 <template>
   <div class="t-homepage">
     <div class="t-homepage__header o-header">
-      <div class="o-header__left">
-        <ToggleEdit :edit-mode="editMode" @click="editMode = !editMode" />
-        <div class="m-buddys" @click="showBuddysPopin = true">Buddys</div>
-      </div>
-      <div class="o-header__logo">
-        <Heading>HELL'BUDDY 👹</Heading>
-      </div>
+      <div class="m-buddys" @click="showBuddysPopin = true">👩‍❤️‍👨</div>
 
-      <div class="o-header__right">
-        <div class="m-profile" @click="showProfilePopin = true">
-          <div class="m-profile__color" :style="{ backgroundColor: color }" />
-          <div class="m-profile__name">{{ username }}</div>
-        </div>
-      </div>
+      <div class="o-header__logo">HELL'BUDDY</div>
+
+      <BuddyChip
+        size="big"
+        :name="username"
+        :background-color="myColor"
+        @click="showProfilePopin = true"
+      />
     </div>
 
-    <div class="t-homepage__days">
-      <div class="t-homepage__daysItem" @click="changeDay(currentDay - 1)">
-        ⬅️
-      </div>
+    <div class="t-homepage__days o-days">
+      <button
+        type="button"
+        class="o-days__button -prev"
+        @click="changeDay(currentDay - 1)"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="1em"
+          height="1em"
+          viewBox="0 0 24 24"
+        >
+          <path
+            fill="currentColor"
+            d="M20 11H7.83l5.59-5.59L12 4l-8 8l8 8l1.41-1.41L7.83 13H20z"
+          ></path>
+        </svg>
+      </button>
       <p>{{ DAYS[currentDay].label }}</p>
-      <div class="t-homepage__daysItem" @click="changeDay(currentDay + 1)">
-        ➡️
-      </div>
+      <button
+        type="button"
+        class="o-days__button -next"
+        @click="changeDay(currentDay + 1)"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="1em"
+          height="1em"
+          viewBox="0 0 24 24"
+        >
+          <path
+            fill="currentColor"
+            d="m12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+          ></path>
+        </svg>
+      </button>
     </div>
 
     <div class="t-homepage__body">
@@ -34,6 +58,7 @@
             v-for="stage in STAGES"
             :key="stage.slug"
             class="o-planning__stage"
+            :class="'-' + stage.slug"
           >
             <p>{{ stage.label }}</p>
           </div>
@@ -71,88 +96,72 @@
       </div>
     </div>
 
+    <div
+      class="o-editMode"
+      :class="editMode ? '-on' : '-off'"
+      @click="editMode = !editMode"
+    >
+      <template v-if="!editMode">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="32"
+          height="32"
+          viewBox="0 0 24 24"
+        >
+          <path
+            fill="currentColor"
+            d="M17.95 16.175L15.1 13.35l1.425-1.4l1.425 1.4l3.525-3.525l1.425 1.4zM11 21l-3.175-2.85q-1.8-1.625-3.088-2.9t-2.125-2.4t-1.225-2.175T1 8.475q0-2.35 1.575-3.912T6.5 3q1.3 0 2.475.55T11 5.1q.85-1 2.025-1.55T15.5 3q2.025 0 3.4 1.138T20.775 7H18.65q-.45-1-1.325-1.5T15.5 5q-1.275 0-2.2.688T11.575 7.5h-1.15Q9.65 6.375 8.662 5.688T6.5 5q-1.425 0-2.463.988T3 8.474q0 .825.35 1.675t1.25 1.963t2.45 2.6T11 18.3q.65-.575 1.525-1.325t1.4-1.25l.225.225l.488.488l.487.487l.225.225q-.55.5-1.4 1.238t-1.5 1.312z"
+          />
+        </svg>
+      </template>
+
+      <template v-else>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="32"
+          height="32"
+          viewBox="0 0 24 24"
+        >
+          <path
+            fill="currentColor"
+            d="m11 21l-3.175-2.85q-1.8-1.625-3.088-2.9t-2.125-2.4t-1.225-2.175T1 8.475q0-2.35 1.575-3.912T6.5 3q1.3 0 2.475.538T11 5.075q.85-1 2.025-1.537T15.5 3q2.125 0 3.563 1.288T20.85 7.3q-.5-.2-1.05-.25T18.675 7q-2.125 0-3.9 1.713T13 13q0 1.2.525 2.438T15 17.45q-.475.425-1.237 1.088T12.45 19.7zm6.95-4.825L15.1 13.35l1.425-1.4l1.425 1.4l3.525-3.525l1.425 1.4z"
+          />
+        </svg>
+      </template>
+    </div>
+
     <!-- Buddy's popin -->
     <BuddysPopin
       v-if="showBuddysPopin"
       :buddys="buddys"
       @close="showBuddysPopin = false"
       @update:buddys="(value) => (buddys = value)"
+      @open:scan="
+        showBuddysPopin = false;
+        showScanPopin = true;
+      "
     />
 
     <!-- Profile popin -->
-    <Popin v-if="showProfilePopin" @close="showProfilePopin = false">
-      <div class="o-popin__content">
-        <!-- QR Code -->
-        <div class="o-popin__title">Mon QR code</div>
-        <div class="o-qrCode">
-          <div v-show="scanMode">
-            <video ref="scanVideo" class="o-qrCode__video"></video>
-          </div>
-          <img v-show="!scanMode" class="o-qrCode__image" :src="getQRCode" />
+    <ProfilePopin
+      v-if="showProfilePopin"
+      :name="username"
+      :color="myColor"
+      :qr-code-url="getQRCode"
+      @close="showProfilePopin = false"
+      @update:profile="({ name, color }) => submitProfileForm(name, color)"
+      @open:scan="
+        showProfilePopin = false;
+        showScanPopin = true;
+      "
+    />
 
-          <button
-            v-if="!scanMode"
-            type="button"
-            class="o-qrCode__button"
-            @click="
-              scanMode = true;
-              startScan();
-            "
-          >
-            Scan a buddy
-          </button>
-
-          <button
-            v-else
-            type="button"
-            class="o-qrCode__button"
-            @click="
-              scanMode = false;
-              stopScan();
-            "
-          >
-            Close camera
-          </button>
-        </div>
-
-        <!-- Profile form -->
-        <div class="o-popin__title">Mes infos</div>
-        <div class="o-profileForm">
-          <!-- Name -->
-          <div class="o-profileForm__field">
-            <div class="o-profileForm__label">Prénom</div>
-            <input
-              v-model="formData.name"
-              class="o-profileForm__input a-input"
-              type="text"
-            />
-          </div>
-
-          <!-- Couleur -->
-          <div class="o-profileForm__field">
-            <div class="o-profileForm__label">Couleur</div>
-            <div class="o-profileForm__colors">
-              <div
-                v-for="colorItem in COLORS"
-                :key="colorItem"
-                class="a-color"
-                :class="{ '-active': colorItem === formData.color }"
-                :style="{ background: colorItem }"
-                @click="formData.color = colorItem"
-              />
-            </div>
-          </div>
-
-          <button
-            type="button"
-            class="o-profileForm__button"
-            @click="submitProfileForm()"
-          >
-            Enregistrer
-          </button>
-        </div>
-      </div>
-    </Popin>
+    <!-- Scan popin -->
+    <ScanPopin
+      v-if="showScanPopin"
+      @close="showScanPopin = false"
+      @update:buddys="buddys = getBuddys()"
+    />
   </div>
 </template>
 
@@ -163,8 +172,7 @@
 </script>
 
 <script setup lang="ts">
-  import { onMounted, watch, ref, reactive, computed } from 'vue';
-  import QrScanner from 'qr-scanner';
+  import { onMounted, watch, ref, computed } from 'vue';
 
   // Composables
   import {
@@ -176,7 +184,6 @@
     setProgram,
     setColor,
     getColor,
-    addBuddy,
     getBuddys,
   } from '@/composables';
 
@@ -191,32 +198,27 @@
   import { getISODateFromTimestamp, generateQRCode } from '@/utils';
 
   // Components
-  import Heading from '@components/Atom/Heading';
-  import ToggleEdit from '@components/Atom/ToggleEdit';
+  import BuddyChip from '@components/Atom/BuddyChip';
   import Show from '@components/Molecule/Show';
-  import Popin from '@components/Organism/Popin';
   import BuddysPopin from '@components/Organism/BuddysPopin';
+  import ProfilePopin from '@components/Organism/ProfilePopin';
+  import ScanPopin from '@components/Organism/ScanPopin';
 
   // Data
   import data from '@/data/timetable.json';
 
   // Variables
   const editMode = ref(false);
-  const scanMode = ref(false);
   const showProfilePopin = ref(false);
   const showBuddysPopin = ref(false);
+  const showScanPopin = ref(false);
   const id = ref(getId());
-  const username = ref(getUsername());
-  const color = ref(getColor() || '');
+  const username = ref(getUsername() || '');
+  const myColor = ref(getColor() || '');
   const myProgram = ref(getProgram() || []);
   const buddys = ref(getBuddys() || []);
   const concerts = data as ConcertType[];
   const currentDay = ref(0);
-  const scanVideo = ref<HTMLVideoElement | undefined>();
-  const formData = reactive({
-    name: username.value,
-    color: color.value,
-  });
 
   /*********************/
   /***** FUNCTIONS *****/
@@ -289,7 +291,7 @@
    * handleSetUsername
    */
   const handleSetUsername = () => {
-    username.value = window.prompt('Choose your username pliz boï');
+    username.value = window.prompt('Choose your username pliz boï') || '';
 
     if (username.value) {
       setUsername(username.value);
@@ -298,54 +300,20 @@
 
   /**
    * submitProfileForm
+   * @param {string} name
+   * @param {string} color
    */
-  const submitProfileForm = () => {
-    if (formData.name && formData.name !== username.value) {
-      username.value = formData.name;
+  const submitProfileForm = (name: string, color: string) => {
+    if (name && name !== username.value) {
+      username.value = name;
       setUsername(username.value);
     }
-    if (formData.color && formData.color !== color.value) {
-      color.value = formData.color;
-      setColor(color.value);
+    if (color && color !== myColor.value) {
+      myColor.value = color;
+      setColor(myColor.value);
     }
 
     showProfilePopin.value = false;
-  };
-
-  /**
-   * startScan
-   */
-  const startScan = () => {
-    if (scanVideo.value) {
-      const qrScanner = new QrScanner(
-        scanVideo.value,
-        (result) => {
-          // console.log('decoded qr code:', result);
-          qrScanner.stop();
-          scanMode.value = false;
-          saveBuddysProgram(result.data);
-        },
-        { returnDetailedScanResult: true },
-      );
-
-      qrScanner.start();
-    }
-  };
-
-  /**
-   * stopScan
-   */
-  const stopScan = () => {
-    // TODO
-  };
-
-  /**
-   * saveBuddysProgram
-   * @param {string} buddy
-   */
-  const saveBuddysProgram = (buddy: string) => {
-    addBuddy(buddy);
-    buddys.value = getBuddys() || [];
   };
 
   /**
@@ -377,11 +345,11 @@
    * @returns {string}
    */
   const getQRCode = computed(() => {
-    if (id.value && username.value && color.value) {
+    if (id.value && username.value && myColor.value) {
       const base64Code = generateQRCode(
         id.value,
         username.value,
-        color.value,
+        myColor.value,
         myProgram.value,
       );
       return base64Code;
@@ -409,13 +377,11 @@
       setId();
       id.value = getId();
     }
-    if (!color.value) {
+    if (!myColor.value) {
       const newColor = COLORS[Math.floor(Math.random() * 3)];
       setColor(newColor);
-      color.value = newColor;
+      myColor.value = newColor;
     }
-    formData.name = username.value;
-    formData.color = color.value;
   });
 </script>
 

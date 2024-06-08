@@ -7,4 +7,5 @@ export interface Props {
 export type Emits = {
   (e: 'close'): void;
   (e: 'update:buddys', buddys: BuddyType[]): void;
+  (e: 'open:scan'): void;
 };

@@ -1,0 +1,15 @@
+.a-button {
+  cursor: pointer;
+  &.-wide {
+    width: 100%;
+    padding: 4px 8px;
+    color: $white;
+    font-family: $text-font;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: $background-dark;
+    border: none;
+  }
+}

@@ -1,12 +1,12 @@
 <template>
-  <div class="a-toggleEdit" :class="editMode ? '-on' : '-off'">
-    {{ editMode ? '🔓' : '🔒' }}
+  <div class="a-button" :class="`-${variant}`">
+    <slot />
   </div>
 </template>
 
 <script lang="ts">
   export default {
-    name: 'AtomToggleEdit',
+    name: 'AtomButton',
   };
 </script>
 
@@ -15,6 +15,7 @@
   import type { Props } from './index.d';
 
   defineProps<Props>();
+
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

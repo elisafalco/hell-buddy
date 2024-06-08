@@ -2,9 +2,7 @@
   <div class="o-popin">
     <div class="o-popin__layover" @click="emit('close')"></div>
     <div class="o-popin__container">
-      <div class="o-popin__content">
         <slot></slot>
-      </div>
     </div>
   </div>
 </template>

@@ -1,3 +1,4 @@
+import { STAGES } from "@/constants";
 import QRCode from "qrcode";
 
 /**
@@ -5,7 +6,7 @@ import QRCode from "qrcode";
  * @param {string} timestamp
  * @returns {string}
  */
-export const getISODateFromTimestamp = (timestamp) => {
+export const getISODateFromTimestamp = (timestamp: string) => {
   return new Date(parseInt(timestamp, 10) * 1000).toISOString() || undefined;
 }
 
@@ -16,7 +17,6 @@ export const getISODateFromTimestamp = (timestamp) => {
  */
 export const getLocaleStringFromTimestamp = (timestamp: number) => {
   const date = new Date(timestamp);
-  // return date.toLocaleString()
   return `${date.getDate()}/${(date.getMonth()+1).toString().padStart(2, "0")} à ${date.getHours()}h${date.getMinutes()}`
 }
 
@@ -47,5 +47,18 @@ export const generateQRCode = (id: string, username: string, color: string, prog
  * @returns {string}
  */
 export const unslugify = (slug: string): string => {
-  return slug.replace('-', ' ');
+  return slug.replaceAll('-', ' ');
 }
+
+/**
+ * getStageClass
+ * @param {string} stageArg
+ * @returns {string}
+ */
+export const getStageClass = (stageArg: string): string => {
+  const stageObj = STAGES.find((STAGE) => STAGE.label === stageArg);
+  if (stageObj) {
+    return stageObj.slug;
+  }
+  return '';
+};

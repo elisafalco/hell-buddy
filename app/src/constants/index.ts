@@ -13,28 +13,28 @@ export const DAYS: DayType[] = [
     ISODate: "2024-06-26T22:00:00.000Z",
     ISOFrom: "2024-06-27T07:00:00.000Z",
     ISOTo: "2024-06-28T01:00:00.000Z",
-    label: "Jeudi 27"
+    label: "Jeudi"
   },
   {
     formattedDate: "2024/06/28",
     ISODate: "2024-06-27T22:00:00.000Z",
     ISOFrom: "2024-06-28T07:00:00.000Z",
     ISOTo: "2024-06-29T01:00:00.000Z",
-    label: "Vendredi 28"
+    label: "Vendredi"
   },
   {
     formattedDate: "2024/06/29",
     ISODate: "2024-06-28T22:00:00.000Z",
     ISOFrom: "2024-06-29T07:00:00.000Z",
     ISOTo: "2024-06-30T01:00:00.000Z",
-    label: "Samedi 29"
+    label: "Samedi"
   },
   {
     formattedDate: "2024/06/30",
     ISODate: "2024-06-29T22:00:00.000Z",
     ISOFrom: "2024-06-30T07:00:00.000Z",
     ISOTo: "2024-07-01T01:00:00.000Z",
-    label: "Dimanche 30"
+    label: "Dimanche"
   }
 ]
 

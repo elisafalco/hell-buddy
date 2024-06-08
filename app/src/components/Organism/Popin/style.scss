@@ -13,15 +13,29 @@
   &__container {
     position: fixed;
     top: 50%;
-    left: 50%; 
+    left: 50%;
+    display: flex;
+    flex-direction: column;
     width: 85vw;
     max-width: 350px;
-    height: 70vh;
-    padding: 10px;
+    min-height: 50vh;
+    max-height: 80vh;
+    padding: 15px;
+    overflow: hidden;
     overflow: auto;
     background-color: $white;
     border-radius: 20px;
     transform: translate(-50%, -50%);
     z-index: 51;
+  }
+
+  &__title {
+    padding: 4px 0;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    border-top: 1px solid $black;
+    border-bottom: 1px solid $black;
   }
 }
