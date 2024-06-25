@@ -79,8 +79,8 @@
 
           <!-- Concert -->
           <template
-            v-for="concert in getConcertsByDay(currentDay)"
-            :key="concert.artist"
+            v-for="(concert, index) in getConcertsByDay(currentDay)"
+            :key="index"
           >
             <Show
               :active="isInMyProgram(concert.artist)"
@@ -90,6 +90,13 @@
               @update:program="
                 (artist: string) => editMode && updateMyProgram(artist)
               "
+              @open:popin="showShowPopin = index"
+            />
+            <ShowPopin
+              v-if="showShowPopin === index"
+              :concert="concert"
+              :buddys="getConcertBuddys(concert.artist)"
+              @close="showShowPopin = undefined"
             />
           </template>
         </div>
@@ -104,8 +111,8 @@
       <template v-if="!editMode">
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          width="32"
-          height="32"
+          width="36"
+          height="36"
           viewBox="0 0 24 24"
         >
           <path
@@ -118,8 +125,8 @@
       <template v-else>
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          width="32"
-          height="32"
+          width="36"
+          height="36"
           viewBox="0 0 24 24"
         >
           <path
@@ -173,6 +180,7 @@
 
 <script setup lang="ts">
   import { onMounted, watch, ref, computed } from 'vue';
+  import type { Ref } from 'vue';
 
   // Composables
   import {
@@ -203,6 +211,7 @@
   import BuddysPopin from '@components/Organism/BuddysPopin';
   import ProfilePopin from '@components/Organism/ProfilePopin';
   import ScanPopin from '@components/Organism/ScanPopin';
+  import ShowPopin from '@components/Organism/ShowPopin';
 
   // Data
   import data from '@/data/timetable.json';
@@ -212,6 +221,7 @@
   const showProfilePopin = ref(false);
   const showBuddysPopin = ref(false);
   const showScanPopin = ref(false);
+  const showShowPopin: Ref<undefined | number> = ref();
   const id = ref(getId());
   const username = ref(getUsername() || '');
   const myColor = ref(getColor() || '');
@@ -291,11 +301,13 @@
    * handleSetUsername
    */
   const handleSetUsername = () => {
-    username.value = window.prompt('Choose your username pliz boï') || '';
+    username.value = window.prompt('Entre ton prénom pour commencer') || '';
 
-    if (username.value) {
+    if (username.value) { 
       setUsername(username.value);
+      window.alert("Clique sur le petit coeur en bas à droite de ton écran pour commencer à renseigner ton programme.")
     }
+
   };
 
   /**
@@ -378,7 +390,7 @@
       id.value = getId();
     }
     if (!myColor.value) {
-      const newColor = COLORS[Math.floor(Math.random() * 3)];
+      const newColor = COLORS[Math.floor(Math.random() * 4)];
       setColor(newColor);
       myColor.value = newColor;
     }

@@ -1,0 +1,92 @@
+.o-showPopin {
+
+  &__artist {
+    margin-bottom: 15px;
+    text-align: center;
+    text-transform: capitalize;
+    border-top: 1px solid $black;
+    border-bottom: 1px solid $black;
+  }
+
+  &__infos {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  &__stage {
+    display: inline-block;
+    padding: 4px 15px;
+    font-family: $mush;
+    font-size: 22px;
+    line-height: 0.9;
+    text-align: center;
+    border-radius: 6px;
+
+    &.-mainstage-1 {
+      color: $mainstage1;
+      border: 1px solid $mainstage1;
+    }
+  
+    &.-mainstage-2 {
+      color: $mainstage2;
+      border: 1px solid $mainstage2;
+    }
+  
+    &.-warzone {
+      color: $warzone;
+      border: 1px solid $warzone;
+    }
+  
+    &.-valley {
+      color: $valley;
+      border: 1px solid $valley;
+    }
+  
+    &.-temple {
+      color: $temple;
+      border: 1px solid $temple;
+    }
+  
+    &.-altar {
+      color: $altar;
+      border: 1px solid $altar;
+    }
+  }
+
+  &__hour {
+    font-size: 22px;
+    font-weight: 600;
+  }
+
+  &__buddysTitle {
+    margin: 25px 0 15px;
+    text-align: center;
+    border-top: 1px solid $black;
+    border-bottom: 1px solid $black;
+  }
+
+  &__buddys {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  &__buddy {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 18px;
+  }
+
+  &__noBuddy {
+    padding: 4px 6px;
+    color: $dark-grey;
+    font-size: 16px;
+    background-color: $light-grey;
+    border-radius: 4px;
+    sup {
+      font-size: 10px;
+    }
+  }
+}

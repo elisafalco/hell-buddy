@@ -6,7 +6,9 @@
       gridRow: getBlocRow(concert.hour),
       height: getBlocHeight(concert) + 'px',
     }"
-    @click="emit('update:program', concert.artist)"
+    @click="
+      editMode ? emit('update:program', concert.artist) : emit('open:popin')
+    "
   >
     <div class="m-show__artist">
       <div v-if="active" class="m-show__heart">

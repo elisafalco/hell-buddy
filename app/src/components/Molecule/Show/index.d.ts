@@ -13,5 +13,6 @@ export interface Props {
 }
 
 export type Emits = {
-  'update:program': [value: string];
+  (e: 'update:program', value: string): void;
+  (e: 'open:popin'): void;
 };
