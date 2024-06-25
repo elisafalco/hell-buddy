@@ -1,9 +1,20 @@
 [
   {
+    "artist": "asinhell",
+    "date": "2024/06/27",
+    "hour": "16:30 - 17:10",
+    "stage": "MAINSTAGE 1",
+    "style": "DEATH METAL",
+    "pays": "DANEMARK",
+    "ts": "1719498600"
+  },
+  {
     "artist": "komodrag-the-mounodor",
     "date": "2024/06/27",
     "hour": "16:30 - 17:10",
     "stage": "VALLEY",
+    "style": "CLASSIC ROCK",
+    "pays": "FRANCE",
     "ts": "1719498600"
   },
   {
@@ -11,6 +22,8 @@
     "date": "2024/06/27",
     "hour": "16:30 - 17:10",
     "stage": "ALTAR",
+    "style": "GRINDCORE",
+    "pays": "SINGAPOUR",
     "ts": "1719498600"
   },
   {
@@ -18,6 +31,8 @@
     "date": "2024/06/27",
     "hour": "17:15 - 17:55",
     "stage": "MAINSTAGE 2",
+    "style": "METALCORE",
+    "pays": "ROYAUME-UNI",
     "ts": "1719501300"
   },
   {
@@ -25,6 +40,8 @@
     "date": "2024/06/27",
     "hour": "17:15 - 17:55",
     "stage": "TEMPLE",
+    "style": "DOOM / CRUST",
+    "pays": "USA",
     "ts": "1719501300"
   },
   {
@@ -32,6 +49,8 @@
     "date": "2024/06/27",
     "hour": "17:15 - 17:55",
     "stage": "WARZONE",
+    "style": "HARDCORE / METALCORE",
+    "pays": "SUEDE",
     "ts": "1719501300"
   },
   {
@@ -39,6 +58,8 @@
     "date": "2024/06/27",
     "hour": "18:00 - 18:40",
     "stage": "ALTAR",
+    "style": "DEATH METAL",
+    "pays": "USA",
     "ts": "1719504000"
   },
   {
@@ -46,6 +67,8 @@
     "date": "2024/06/27",
     "hour": "18:00 - 18:40",
     "stage": "VALLEY",
+    "style": "DOOM",
+    "pays": "USA",
     "ts": "1719504000"
   },
   {
@@ -53,20 +76,26 @@
     "date": "2024/06/27",
     "hour": "18:00 - 18:40",
     "stage": "MAINSTAGE 1",
+    "style": "DEATHCORE",
+    "pays": "RUSSIE / USA",
     "ts": "1719504000"
-  },
-  {
-    "artist": "311",
-    "date": "2024/06/27",
-    "hour": "18:45 - 19:35",
-    "stage": "WARZONE",
-    "ts": "1719506700"
   },
   {
     "artist": "dolch",
     "date": "2024/06/27",
     "hour": "18:45 - 19:35",
     "stage": "TEMPLE",
+    "style": "DOOM / DARK AMBIENT",
+    "pays": "ALLEMAGNE",
+    "ts": "1719506700"
+  },
+  {
+    "artist": "dying-wish",
+    "date": "2024/06/27",
+    "hour": "18:45 - 19:35",
+    "stage": "WARZONE",
+    "style": "METALCORE",
+    "pays": "USA",
     "ts": "1719506700"
   },
   {
@@ -74,6 +103,8 @@
     "date": "2024/06/27",
     "hour": "18:45 - 19:25",
     "stage": "MAINSTAGE 2",
+    "style": "METALCORE",
+    "pays": "USA",
     "ts": "1719506700"
   },
   {
@@ -81,6 +112,8 @@
     "date": "2024/06/27",
     "hour": "19:30 - 20:20",
     "stage": "MAINSTAGE 1",
+    "style": "THRASH METAL",
+    "pays": "USA",
     "ts": "1719509400"
   },
   {
@@ -88,6 +121,8 @@
     "date": "2024/06/27",
     "hour": "19:40 - 20:40",
     "stage": "ALTAR",
+    "style": "DEATH GRIND",
+    "pays": "MEXIQUE / USA",
     "ts": "1719510000"
   },
   {
@@ -95,6 +130,8 @@
     "date": "2024/06/27",
     "hour": "19:40 - 20:40",
     "stage": "VALLEY",
+    "style": "STONER / DOOM",
+    "pays": "ROYAUME-UNI",
     "ts": "1719510000"
   },
   {
@@ -102,6 +139,8 @@
     "date": "2024/06/27",
     "hour": "20:25 - 21:15",
     "stage": "MAINSTAGE 2",
+    "style": "KAWAII METAL",
+    "pays": "JAPON",
     "ts": "1719512700"
   },
   {
@@ -109,6 +148,8 @@
     "date": "2024/06/27",
     "hour": "20:45 - 21:45",
     "stage": "WARZONE",
+    "style": "METALCORE",
+    "pays": "JAPON",
     "ts": "1719513900"
   },
   {
@@ -116,6 +157,8 @@
     "date": "2024/06/27",
     "hour": "20:45 - 21:45",
     "stage": "TEMPLE",
+    "style": "BLACKGAZE",
+    "pays": "NORVEGE",
     "ts": "1719513900"
   },
   {
@@ -123,6 +166,8 @@
     "date": "2024/06/27",
     "hour": "21:20 - 22:20",
     "stage": "MAINSTAGE 1",
+    "style": "THRASH METAL",
+    "pays": "USA",
     "ts": "1719516000"
   },
   {
@@ -130,6 +175,8 @@
     "date": "2024/06/27",
     "hour": "21:50 - 22:50",
     "stage": "ALTAR",
+    "style": "DEATH METAL MELODIQUE",
+    "pays": "SUEDE",
     "ts": "1719517800"
   },
   {
@@ -137,13 +184,17 @@
     "date": "2024/06/27",
     "hour": "21:50 - 22:50",
     "stage": "VALLEY",
+    "style": "HEAVY BLUES PSYCHEDELIQUE",
+    "pays": "SUEDE",
     "ts": "1719517800"
   },
   {
-    "artist": "bad-omens",
+    "artist": "landmvrks",
     "date": "2024/06/27",
     "hour": "22:25 - 23:25",
     "stage": "MAINSTAGE 2",
+    "style": "METALCORE",
+    "pays": "FRANCE",
     "ts": "1719519900"
   },
   {
@@ -151,6 +202,8 @@
     "date": "2024/06/27",
     "hour": "22:55 - 23:55",
     "stage": "TEMPLE",
+    "style": "JAZZ METAL AVANT-GARDISTE",
+    "pays": "NORVEGE",
     "ts": "1719521700"
   },
   {
@@ -158,6 +211,8 @@
     "date": "2024/06/27",
     "hour": "22:55 - 23:55",
     "stage": "WARZONE",
+    "style": "EMO HARDCORE",
+    "pays": "USA",
     "ts": "1719521700"
   },
   {
@@ -165,6 +220,8 @@
     "date": "2024/06/27",
     "hour": "23:30 - 01:00",
     "stage": "MAINSTAGE 1",
+    "style": "METAL ALTERNATIF",
+    "pays": "USA",
     "ts": "1719523800"
   },
   {
@@ -172,6 +229,8 @@
     "date": "2024/06/28",
     "hour": "00:00 - 01:00",
     "stage": "VALLEY",
+    "style": "STONER PSYCHEDELIQUE",
+    "pays": "USA",
     "ts": "1719525600"
   },
   {
@@ -179,6 +238,8 @@
     "date": "2024/06/28",
     "hour": "00:00 - 01:00",
     "stage": "ALTAR",
+    "style": "THRASH METAL",
+    "pays": "ALLEMAGNE",
     "ts": "1719525600"
   },
   {
@@ -186,6 +247,8 @@
     "date": "2024/06/28",
     "hour": "01:05 - 02:05",
     "stage": "TEMPLE",
+    "style": "BLACK METAL SYMPHONIQUE",
+    "pays": "ROYAUME-UNI",
     "ts": "1719529500"
   },
   {
@@ -193,6 +256,8 @@
     "date": "2024/06/28",
     "hour": "01:05 - 02:05",
     "stage": "MAINSTAGE 2",
+    "style": "PUNK CELTIQUE",
+    "pays": "USA",
     "ts": "1719529500"
   },
   {
@@ -200,6 +265,8 @@
     "date": "2024/06/28",
     "hour": "01:05 - 02:05",
     "stage": "WARZONE",
+    "style": "ELECTRO-POST HARDCORE",
+    "pays": "UK",
     "ts": "1719529500"
   },
   {
@@ -207,6 +274,8 @@
     "date": "2024/06/28",
     "hour": "10:30 - 11:00",
     "stage": "ALTAR",
+    "style": "METALCORE / DEATHCORE",
+    "pays": "FRANCE",
     "ts": "1719563400"
   },
   {
@@ -214,6 +283,8 @@
     "date": "2024/06/28",
     "hour": "10:30 - 11:00",
     "stage": "VALLEY",
+    "style": "STONER",
+    "pays": "FRANCE",
     "ts": "1719563400"
   },
   {
@@ -221,6 +292,8 @@
     "date": "2024/06/28",
     "hour": "10:30 - 11:00",
     "stage": "MAINSTAGE 2",
+    "style": "HEAVY ROCK",
+    "pays": "ROYAUME-UNI",
     "ts": "1719563400"
   },
   {
@@ -228,6 +301,8 @@
     "date": "2024/06/28",
     "hour": "11:05 - 11:35",
     "stage": "MAINSTAGE 1",
+    "style": "STONER ROCK",
+    "pays": "FRANCE",
     "ts": "1719565500"
   },
   {
@@ -235,6 +310,8 @@
     "date": "2024/06/28",
     "hour": "11:05 - 11:35",
     "stage": "WARZONE",
+    "style": "CROSSOVER THRASH",
+    "pays": "FRANCE",
     "ts": "1719565500"
   },
   {
@@ -242,6 +319,8 @@
     "date": "2024/06/28",
     "hour": "11:05 - 11:35",
     "stage": "TEMPLE",
+    "style": "BLACK METAL MELODIQUE",
+    "pays": "FRANCE",
     "ts": "1719565500"
   },
   {
@@ -249,6 +328,8 @@
     "date": "2024/06/28",
     "hour": "11:40 - 12:10",
     "stage": "MAINSTAGE 2",
+    "style": "METAL ALTERNATIF",
+    "pays": "ESPAGNE",
     "ts": "1719567600"
   },
   {
@@ -256,6 +337,8 @@
     "date": "2024/06/28",
     "hour": "11:40 - 12:10",
     "stage": "ALTAR",
+    "style": "METALCORE",
+    "pays": "FRANCE",
     "ts": "1719567600"
   },
   {
@@ -263,6 +346,8 @@
     "date": "2024/06/28",
     "hour": "11:40 - 12:10",
     "stage": "VALLEY",
+    "style": "DARK FOLK",
+    "pays": "HONGRIE",
     "ts": "1719567600"
   },
   {
@@ -270,6 +355,8 @@
     "date": "2024/06/28",
     "hour": "12:15 - 12:45",
     "stage": "TEMPLE",
+    "style": "BLACK METAL",
+    "pays": "USA",
     "ts": "1719569700"
   },
   {
@@ -277,6 +364,8 @@
     "date": "2024/06/28",
     "hour": "12:15 - 12:45",
     "stage": "MAINSTAGE 1",
+    "style": "POWER METAL",
+    "pays": "JAPON",
     "ts": "1719569700"
   },
   {
@@ -284,6 +373,8 @@
     "date": "2024/06/28",
     "hour": "12:15 - 12:45",
     "stage": "WARZONE",
+    "style": "RAPCORE",
+    "pays": "FRANCE",
     "ts": "1719569700"
   },
   {
@@ -291,6 +382,8 @@
     "date": "2024/06/28",
     "hour": "12:50 - 13:30",
     "stage": "VALLEY",
+    "style": "STONER",
+    "pays": "USA",
     "ts": "1719571800"
   },
   {
@@ -298,6 +391,8 @@
     "date": "2024/06/28",
     "hour": "12:50 - 13:30",
     "stage": "ALTAR",
+    "style": "DEATHCORE",
+    "pays": "USA",
     "ts": "1719571800"
   },
   {
@@ -305,6 +400,8 @@
     "date": "2024/06/28",
     "hour": "12:50 - 13:30",
     "stage": "MAINSTAGE 2",
+    "style": "ELECTRO PUNK / NU METAL",
+    "pays": "ROYAUME-UNI",
     "ts": "1719571800"
   },
   {
@@ -312,6 +409,8 @@
     "date": "2024/06/28",
     "hour": "13:35 - 14:15",
     "stage": "WARZONE",
+    "style": "NU METAL / TRAP METAL",
+    "pays": "USA",
     "ts": "1719574500"
   },
   {
@@ -319,6 +418,8 @@
     "date": "2024/06/28",
     "hour": "13:35 - 14:15",
     "stage": "MAINSTAGE 1",
+    "style": "POWER METAL",
+    "pays": "ALLEMAGNE",
     "ts": "1719574500"
   },
   {
@@ -326,6 +427,8 @@
     "date": "2024/06/28",
     "hour": "13:35 - 14:15",
     "stage": "TEMPLE",
+    "style": "DOOM GOTHIQUE",
+    "pays": "ITALIE",
     "ts": "1719574500"
   },
   {
@@ -333,6 +436,8 @@
     "date": "2024/06/28",
     "hour": "14:20 - 15:05",
     "stage": "VALLEY",
+    "style": "STONER PSYCHEDELIQUE",
+    "pays": "ITALIE",
     "ts": "1719577200"
   },
   {
@@ -340,6 +445,8 @@
     "date": "2024/06/28",
     "hour": "14:20 - 15:05",
     "stage": "ALTAR",
+    "style": "METAL PROGRESSIF",
+    "pays": "PAYS-BAS",
     "ts": "1719577200"
   },
   {
@@ -347,6 +454,8 @@
     "date": "2024/06/28",
     "hour": "14:20 - 15:00",
     "stage": "MAINSTAGE 2",
+    "style": "METALCORE",
+    "pays": "ROYAUME-UNI",
     "ts": "1719577200"
   },
   {
@@ -354,6 +463,8 @@
     "date": "2024/06/28",
     "hour": "15:05 - 15:45",
     "stage": "MAINSTAGE 1",
+    "style": "ROCK PROGRESSIF",
+    "pays": "AUSTRALIE",
     "ts": "1719579900"
   },
   {
@@ -361,6 +472,8 @@
     "date": "2024/06/28",
     "hour": "15:10 - 15:55",
     "stage": "TEMPLE",
+    "style": "VIKING METAL",
+    "pays": "SUEDE",
     "ts": "1719580200"
   },
   {
@@ -368,6 +481,8 @@
     "date": "2024/06/28",
     "hour": "15:10 - 15:55",
     "stage": "WARZONE",
+    "style": "HARDCORE BEATDOWN",
+    "pays": "AUSTRALIE",
     "ts": "1719580200"
   },
   {
@@ -375,20 +490,26 @@
     "date": "2024/06/28",
     "hour": "15:50 - 16:35",
     "stage": "MAINSTAGE 2",
+    "style": "FUSION",
+    "pays": "FRANCE",
     "ts": "1719582600"
+  },
+  {
+    "artist": "gaupa",
+    "date": "2024/06/28",
+    "hour": "16:00 - 16:45",
+    "stage": "VALLEY",
+    "style": "STONER PSYCHEDELIQUE",
+    "pays": "SUEDE",
+    "ts": "1719583200"
   },
   {
     "artist": "klone",
     "date": "2024/06/28",
     "hour": "16:00 - 16:45",
     "stage": "ALTAR",
-    "ts": "1719583200"
-  },
-  {
-    "artist": "nebula",
-    "date": "2024/06/28",
-    "hour": "16:00 - 16:45",
-    "stage": "VALLEY",
+    "style": "METAL PROGRESSIF",
+    "pays": "FRANCE",
     "ts": "1719583200"
   },
   {
@@ -396,6 +517,8 @@
     "date": "2024/06/28",
     "hour": "16:40 - 17:30",
     "stage": "MAINSTAGE 1",
+    "style": "METAL INDUSTRIEL",
+    "pays": "USA",
     "ts": "1719585600"
   },
   {
@@ -403,6 +526,8 @@
     "date": "2024/06/28",
     "hour": "16:50 - 17:40",
     "stage": "TEMPLE",
+    "style": "BLACK METAL",
+    "pays": "NORVEGE",
     "ts": "1719586200"
   },
   {
@@ -410,6 +535,8 @@
     "date": "2024/06/28",
     "hour": "16:50 - 17:40",
     "stage": "WARZONE",
+    "style": "HARDCORE MELODIQUE",
+    "pays": "FRANCE",
     "ts": "1719586200"
   },
   {
@@ -417,6 +544,8 @@
     "date": "2024/06/28",
     "hour": "17:35 - 18:30",
     "stage": "MAINSTAGE 2",
+    "style": "METAL ENVIRONNEMENTAL",
+    "pays": "FRANCE / COSTA RICA",
     "ts": "1719588900"
   },
   {
@@ -424,6 +553,8 @@
     "date": "2024/06/28",
     "hour": "17:45 - 18:35",
     "stage": "ALTAR",
+    "style": "METAL PROGRESSIF",
+    "pays": "NORVEGE",
     "ts": "1719589500"
   },
   {
@@ -431,6 +562,8 @@
     "date": "2024/06/28",
     "hour": "17:45 - 18:35",
     "stage": "VALLEY",
+    "style": "HEAVY ROCK",
+    "pays": "GRECE",
     "ts": "1719589500"
   },
   {
@@ -438,6 +571,8 @@
     "date": "2024/06/28",
     "hour": "18:35 - 19:35",
     "stage": "MAINSTAGE 1",
+    "style": "ROCK PROGRESSIF",
+    "pays": "USA",
     "ts": "1719592500"
   },
   {
@@ -445,6 +580,8 @@
     "date": "2024/06/28",
     "hour": "18:40 - 19:30",
     "stage": "WARZONE",
+    "style": "HARDCORE",
+    "pays": "USA",
     "ts": "1719592800"
   },
   {
@@ -452,6 +589,8 @@
     "date": "2024/06/28",
     "hour": "18:40 - 19:30",
     "stage": "TEMPLE",
+    "style": "BLACKENED DEATH METAL",
+    "pays": "ALLEMAGNE",
     "ts": "1719592800"
   },
   {
@@ -459,6 +598,8 @@
     "date": "2024/06/28",
     "hour": "19:35 - 20:35",
     "stage": "VALLEY",
+    "style": "STONER",
+    "pays": "GRECE",
     "ts": "1719596100"
   },
   {
@@ -466,6 +607,8 @@
     "date": "2024/06/28",
     "hour": "19:35 - 20:35",
     "stage": "ALTAR",
+    "style": "DEATH METAL PROGRESSIF",
+    "pays": "AUSTRALIE",
     "ts": "1719596100"
   },
   {
@@ -473,6 +616,8 @@
     "date": "2024/06/28",
     "hour": "19:40 - 20:40",
     "stage": "MAINSTAGE 2",
+    "style": "GLAM METAL",
+    "pays": "USA",
     "ts": "1719596400"
   },
   {
@@ -480,6 +625,8 @@
     "date": "2024/06/28",
     "hour": "20:40 - 21:40",
     "stage": "WARZONE",
+    "style": "FUSION INDUS RAPCORE",
+    "pays": "SUEDE",
     "ts": "1719600000"
   },
   {
@@ -487,6 +634,8 @@
     "date": "2024/06/28",
     "hour": "20:40 - 21:40",
     "stage": "TEMPLE",
+    "style": "BLACK METAL",
+    "pays": "NORVEGE",
     "ts": "1719600000"
   },
   {
@@ -494,20 +643,26 @@
     "date": "2024/06/28",
     "hour": "20:45 - 21:55",
     "stage": "MAINSTAGE 1",
+    "style": "METAL / ROCK ALTERNATIF",
+    "pays": "USA",
     "ts": "1719600300"
+  },
+  {
+    "artist": "acid-king",
+    "date": "2024/06/28",
+    "hour": "21:45 - 22:45",
+    "stage": "VALLEY",
+    "style": "STONER DOOM",
+    "pays": "USA",
+    "ts": "1719603900"
   },
   {
     "artist": "amorphis",
     "date": "2024/06/28",
     "hour": "21:45 - 22:45",
     "stage": "ALTAR",
-    "ts": "1719603900"
-  },
-  {
-    "artist": "witch",
-    "date": "2024/06/28",
-    "hour": "21:45 - 22:45",
-    "stage": "VALLEY",
+    "style": "DEATH METAL ATMOSPHERIQUE",
+    "pays": "FINLANDE",
     "ts": "1719603900"
   },
   {
@@ -515,6 +670,8 @@
     "date": "2024/06/28",
     "hour": "22:00 - 23:10",
     "stage": "MAINSTAGE 2",
+    "style": "ELECTRO ROCK ALTERNATIF",
+    "pays": "FRANCE",
     "ts": "1719604800"
   },
   {
@@ -522,6 +679,8 @@
     "date": "2024/06/28",
     "hour": "22:50 - 23:50",
     "stage": "WARZONE",
+    "style": "HARDCORE / METAL",
+    "pays": "USA",
     "ts": "1719607800"
   },
   {
@@ -529,6 +688,8 @@
     "date": "2024/06/28",
     "hour": "22:50 - 23:50",
     "stage": "TEMPLE",
+    "style": "BLACK METAL",
+    "pays": "NORVEGE",
     "ts": "1719607800"
   },
   {
@@ -536,6 +697,8 @@
     "date": "2024/06/28",
     "hour": "23:15 - 00:45",
     "stage": "MAINSTAGE 1",
+    "style": "GROOVE / THRASH METAL",
+    "pays": "USA",
     "ts": "1719609300"
   },
   {
@@ -543,6 +706,8 @@
     "date": "2024/06/28",
     "hour": "23:55 - 00:55",
     "stage": "VALLEY",
+    "style": "STONER",
+    "pays": "USA",
     "ts": "1719611700"
   },
   {
@@ -550,6 +715,8 @@
     "date": "2024/06/28",
     "hour": "23:55 - 00:55",
     "stage": "ALTAR",
+    "style": "METAL PROGRESSIF",
+    "pays": "SUEDE",
     "ts": "1719611700"
   },
   {
@@ -557,6 +724,8 @@
     "date": "2024/06/29",
     "hour": "00:50 - 02:00",
     "stage": "MAINSTAGE 2",
+    "style": "ELECTRO PUNK",
+    "pays": "ROYAUME-UNI",
     "ts": "1719615000"
   },
   {
@@ -564,6 +733,8 @@
     "date": "2024/06/29",
     "hour": "01:00 - 02:00",
     "stage": "TEMPLE",
+    "style": "BLACK METAL / GRINDCORE",
+    "pays": "ROYAUME-UNI",
     "ts": "1719615600"
   },
   {
@@ -571,6 +742,8 @@
     "date": "2024/06/29",
     "hour": "01:00 - 02:00",
     "stage": "WARZONE",
+    "style": "HARDCORE / HIP-HOP",
+    "pays": "USA",
     "ts": "1719615600"
   },
   {
@@ -578,6 +751,8 @@
     "date": "2024/06/29",
     "hour": "10:30 - 11:00",
     "stage": "MAINSTAGE 2",
+    "style": "HEAVY METAL",
+    "pays": "POLOGNE",
     "ts": "1719649800"
   },
   {
@@ -585,6 +760,17 @@
     "date": "2024/06/29",
     "hour": "10:30 - 11:00",
     "stage": "ALTAR",
+    "style": "DEATH METAL",
+    "pays": "DANEMARK",
+    "ts": "1719649800"
+  },
+  {
+    "artist": "perl",
+    "date": "2024/06/29",
+    "hour": "10:30 - 11:00",
+    "stage": "VALLEY",
+    "style": "POST-METAL",
+    "pays": "FRANCE",
     "ts": "1719649800"
   },
   {
@@ -592,6 +778,8 @@
     "date": "2024/06/29",
     "hour": "11:05 - 11:35",
     "stage": "MAINSTAGE 1",
+    "style": "METAL ALTERNATIF",
+    "pays": "FRANCE",
     "ts": "1719651900"
   },
   {
@@ -599,6 +787,8 @@
     "date": "2024/06/29",
     "hour": "11:05 - 11:35",
     "stage": "TEMPLE",
+    "style": "VIKING WAR TRANCE",
+    "pays": "FRANCE",
     "ts": "1719651900"
   },
   {
@@ -606,6 +796,8 @@
     "date": "2024/06/29",
     "hour": "11:05 - 11:35",
     "stage": "WARZONE",
+    "style": "GARAGE ROCK",
+    "pays": "FRANCE",
     "ts": "1719651900"
   },
   {
@@ -613,6 +805,8 @@
     "date": "2024/06/29",
     "hour": "11:40 - 12:10",
     "stage": "ALTAR",
+    "style": "GRINDCORE",
+    "pays": "FRANCE",
     "ts": "1719654000"
   },
   {
@@ -620,6 +814,8 @@
     "date": "2024/06/29",
     "hour": "11:40 - 12:10",
     "stage": "VALLEY",
+    "style": "DOOM / DEATH METAL",
+    "pays": "DANEMARK",
     "ts": "1719654000"
   },
   {
@@ -627,6 +823,8 @@
     "date": "2024/06/29",
     "hour": "11:40 - 12:10",
     "stage": "MAINSTAGE 2",
+    "style": "HEAVY METAL",
+    "pays": "USA",
     "ts": "1719654000"
   },
   {
@@ -634,6 +832,8 @@
     "date": "2024/06/29",
     "hour": "12:15 - 12:45",
     "stage": "MAINSTAGE 1",
+    "style": "THRASH METAL",
+    "pays": "NOUVELLE-ZELANDE",
     "ts": "1719656100"
   },
   {
@@ -641,6 +841,8 @@
     "date": "2024/06/29",
     "hour": "12:15 - 12:45",
     "stage": "WARZONE",
+    "style": "PUNK ROCK",
+    "pays": "FRANCE",
     "ts": "1719656100"
   },
   {
@@ -648,6 +850,8 @@
     "date": "2024/06/29",
     "hour": "12:15 - 12:45",
     "stage": "TEMPLE",
+    "style": "FOLK ROCK",
+    "pays": "MONGOLIE",
     "ts": "1719656100"
   },
   {
@@ -655,6 +859,8 @@
     "date": "2024/06/29",
     "hour": "12:50 - 13:30",
     "stage": "MAINSTAGE 2",
+    "style": "HEAVY METAL",
+    "pays": "USA",
     "ts": "1719658200"
   },
   {
@@ -662,6 +868,8 @@
     "date": "2024/06/29",
     "hour": "12:50 - 13:30",
     "stage": "ALTAR",
+    "style": "BRUTAL DEATH METAL",
+    "pays": "FRANCE",
     "ts": "1719658200"
   },
   {
@@ -669,6 +877,8 @@
     "date": "2024/06/29",
     "hour": "12:50 - 13:30",
     "stage": "VALLEY",
+    "style": "DOOMGAZE",
+    "pays": "USA",
     "ts": "1719658200"
   },
   {
@@ -676,6 +886,8 @@
     "date": "2024/06/29",
     "hour": "13:35 - 14:15",
     "stage": "MAINSTAGE 1",
+    "style": "THRASH METAL",
+    "pays": "CANADA",
     "ts": "1719660900"
   },
   {
@@ -683,6 +895,8 @@
     "date": "2024/06/29",
     "hour": "13:35 - 14:15",
     "stage": "TEMPLE",
+    "style": "FOLK NORDIQUE",
+    "pays": "FRANCE",
     "ts": "1719660900"
   },
   {
@@ -690,6 +904,8 @@
     "date": "2024/06/29",
     "hour": "13:35 - 14:15",
     "stage": "WARZONE",
+    "style": "STREET PUNK",
+    "pays": "USA",
     "ts": "1719660900"
   },
   {
@@ -697,6 +913,8 @@
     "date": "2024/06/29",
     "hour": "14:20 - 15:05",
     "stage": "VALLEY",
+    "style": "NOISE",
+    "pays": "USA",
     "ts": "1719663600"
   },
   {
@@ -704,6 +922,8 @@
     "date": "2024/06/29",
     "hour": "14:20 - 15:05",
     "stage": "MAINSTAGE 2",
+    "style": "POWER METAL SYMPHONIQUE",
+    "pays": "ITALIE",
     "ts": "1719663600"
   },
   {
@@ -711,6 +931,8 @@
     "date": "2024/06/29",
     "hour": "14:20 - 15:05",
     "stage": "ALTAR",
+    "style": "DEATH METAL",
+    "pays": "USA",
     "ts": "1719663600"
   },
   {
@@ -718,6 +940,8 @@
     "date": "2024/06/29",
     "hour": "15:10 - 15:55",
     "stage": "MAINSTAGE 1",
+    "style": "HARD ROCK",
+    "pays": "USA",
     "ts": "1719666600"
   },
   {
@@ -725,6 +949,8 @@
     "date": "2024/06/29",
     "hour": "15:10 - 15:55",
     "stage": "WARZONE",
+    "style": "STREET PUNK",
+    "pays": "USA",
     "ts": "1719666600"
   },
   {
@@ -732,6 +958,8 @@
     "date": "2024/06/29",
     "hour": "15:10 - 15:55",
     "stage": "TEMPLE",
+    "style": "BLACK METAL ATMOSPHERIQUE",
+    "pays": "USA",
     "ts": "1719666600"
   },
   {
@@ -739,6 +967,8 @@
     "date": "2024/06/29",
     "hour": "16:00 - 16:45",
     "stage": "VALLEY",
+    "style": "POST-HARDCORE",
+    "pays": "BELGIQUE",
     "ts": "1719669600"
   },
   {
@@ -746,6 +976,8 @@
     "date": "2024/06/29",
     "hour": "16:00 - 16:45",
     "stage": "ALTAR",
+    "style": "THRASH METAL",
+    "pays": "PAYS-BAS",
     "ts": "1719669600"
   },
   {
@@ -753,6 +985,8 @@
     "date": "2024/06/29",
     "hour": "16:00 - 16:45",
     "stage": "MAINSTAGE 2",
+    "style": "POWER METAL SYMPHONIQUE",
+    "pays": "FINLANDE",
     "ts": "1719669600"
   },
   {
@@ -760,6 +994,8 @@
     "date": "2024/06/29",
     "hour": "16:50 - 17:40",
     "stage": "WARZONE",
+    "style": "SKINHEAD REGGAE",
+    "pays": "FRANCE",
     "ts": "1719672600"
   },
   {
@@ -767,6 +1003,8 @@
     "date": "2024/06/29",
     "hour": "16:50 - 17:35",
     "stage": "MAINSTAGE 1",
+    "style": "HEAVY ROCK",
+    "pays": "USA",
     "ts": "1719672600"
   },
   {
@@ -774,6 +1012,8 @@
     "date": "2024/06/29",
     "hour": "16:50 - 17:40",
     "stage": "TEMPLE",
+    "style": "FOLK METAL",
+    "pays": "ISLANDE",
     "ts": "1719672600"
   },
   {
@@ -781,6 +1021,8 @@
     "date": "2024/06/29",
     "hour": "17:40 - 18:25",
     "stage": "MAINSTAGE 2",
+    "style": "METAL NEO-CLASSIQUE",
+    "pays": "SUEDE",
     "ts": "1719675600"
   },
   {
@@ -788,6 +1030,8 @@
     "date": "2024/06/29",
     "hour": "17:45 - 18:35",
     "stage": "VALLEY",
+    "style": "BLACK 'N'ROLL",
+    "pays": "NORVEGE",
     "ts": "1719675900"
   },
   {
@@ -795,6 +1039,8 @@
     "date": "2024/06/29",
     "hour": "17:45 - 18:35",
     "stage": "ALTAR",
+    "style": "THRASH DEATH",
+    "pays": "SUEDE",
     "ts": "1719675900"
   },
   {
@@ -802,6 +1048,8 @@
     "date": "2024/06/29",
     "hour": "18:30 - 19:30",
     "stage": "MAINSTAGE 1",
+    "style": "HARD ROCK",
+    "pays": "USA",
     "ts": "1719678600"
   },
   {
@@ -809,6 +1057,8 @@
     "date": "2024/06/29",
     "hour": "18:40 - 19:30",
     "stage": "TEMPLE",
+    "style": "FOLK MEDIEVAL",
+    "pays": "ALLEMAGNE",
     "ts": "1719679200"
   },
   {
@@ -816,6 +1066,8 @@
     "date": "2024/06/29",
     "hour": "18:40 - 19:30",
     "stage": "WARZONE",
+    "style": "PSYCHOBILLY",
+    "pays": "FRANCE",
     "ts": "1719679200"
   },
   {
@@ -823,6 +1075,8 @@
     "date": "2024/06/29",
     "hour": "19:35 - 20:30",
     "stage": "MAINSTAGE 2",
+    "style": "HEAVY METAL",
+    "pays": "ALLEMAGNE",
     "ts": "1719682500"
   },
   {
@@ -830,6 +1084,8 @@
     "date": "2024/06/29",
     "hour": "19:35 - 20:35",
     "stage": "VALLEY",
+    "style": "DARK FOLK",
+    "pays": "USA",
     "ts": "1719682500"
   },
   {
@@ -837,6 +1093,8 @@
     "date": "2024/06/29",
     "hour": "19:35 - 20:35",
     "stage": "ALTAR",
+    "style": "DEATH METAL",
+    "pays": "CANADA",
     "ts": "1719682500"
   },
   {
@@ -844,6 +1102,8 @@
     "date": "2024/06/29",
     "hour": "20:35 - 21:35",
     "stage": "MAINSTAGE 1",
+    "style": "FUSION",
+    "pays": "FRANCE",
     "ts": "1719686100"
   },
   {
@@ -851,6 +1111,8 @@
     "date": "2024/06/29",
     "hour": "20:40 - 21:40",
     "stage": "WARZONE",
+    "style": "PSYCHOBILLY",
+    "pays": "USA / DANEMARK",
     "ts": "1719686400"
   },
   {
@@ -858,6 +1120,8 @@
     "date": "2024/06/29",
     "hour": "20:40 - 21:40",
     "stage": "TEMPLE",
+    "style": "FOLK METAL",
+    "pays": "ROYAUME-UNI",
     "ts": "1719686400"
   },
   {
@@ -865,6 +1129,8 @@
     "date": "2024/06/29",
     "hour": "21:40 - 22:40",
     "stage": "MAINSTAGE 2",
+    "style": "HEAVY METAL",
+    "pays": "ROYAUME-UNI",
     "ts": "1719690000"
   },
   {
@@ -872,6 +1138,8 @@
     "date": "2024/06/29",
     "hour": "21:45 - 22:45",
     "stage": "VALLEY",
+    "style": "METAL EXPERIMENTAL",
+    "pays": "USA",
     "ts": "1719690300"
   },
   {
@@ -879,6 +1147,8 @@
     "date": "2024/06/29",
     "hour": "21:45 - 22:45",
     "stage": "ALTAR",
+    "style": "DEATH METAL",
+    "pays": "USA",
     "ts": "1719690300"
   },
   {
@@ -886,6 +1156,8 @@
     "date": "2024/06/29",
     "hour": "22:45 - 01:00",
     "stage": "MAINSTAGE 1",
+    "style": "THRASH METAL",
+    "pays": "USA",
     "ts": "1719693900"
   },
   {
@@ -893,6 +1165,8 @@
     "date": "2024/06/29",
     "hour": "22:50 - 23:50",
     "stage": "TEMPLE",
+    "style": "FOLK METAL",
+    "pays": "FINLANDE",
     "ts": "1719694200"
   },
   {
@@ -900,6 +1174,8 @@
     "date": "2024/06/29",
     "hour": "22:50 - 23:50",
     "stage": "WARZONE",
+    "style": "SKA PUNK",
+    "pays": "USA",
     "ts": "1719694200"
   },
   {
@@ -907,6 +1183,8 @@
     "date": "2024/06/29",
     "hour": "23:55 - 00:55",
     "stage": "ALTAR",
+    "style": "DEATH METAL",
+    "pays": "SUEDE",
     "ts": "1719698100"
   },
   {
@@ -914,6 +1192,8 @@
     "date": "2024/06/29",
     "hour": "23:55 - 00:55",
     "stage": "VALLEY",
+    "style": "POST METAL / NOISE / SLUDGE",
+    "pays": "USA",
     "ts": "1719698100"
   },
   {
@@ -921,6 +1201,8 @@
     "date": "2024/06/30",
     "hour": "01:00 - 02:00",
     "stage": "TEMPLE",
+    "style": "FOLK",
+    "pays": "ILES FEROES",
     "ts": "1719702000"
   },
   {
@@ -928,6 +1210,8 @@
     "date": "2024/06/30",
     "hour": "01:00 - 02:00",
     "stage": "WARZONE",
+    "style": "CROSSOVER",
+    "pays": "USA",
     "ts": "1719702000"
   },
   {
@@ -935,6 +1219,8 @@
     "date": "2024/06/30",
     "hour": "01:05 - 02:05",
     "stage": "MAINSTAGE 2",
+    "style": "HEAVY METAL",
+    "pays": "ROYAUME-UNI",
     "ts": "1719702300"
   },
   {
@@ -942,6 +1228,8 @@
     "date": "2024/06/30",
     "hour": "10:30 - 11:00",
     "stage": "MAINSTAGE 2",
+    "style": "METAL ALTERNATIF",
+    "pays": "FRANCE",
     "ts": "1719736200"
   },
   {
@@ -949,6 +1237,8 @@
     "date": "2024/06/30",
     "hour": "10:30 - 11:00",
     "stage": "ALTAR",
+    "style": "THRASH METAL",
+    "pays": "FRANCE",
     "ts": "1719736200"
   },
   {
@@ -956,6 +1246,8 @@
     "date": "2024/06/30",
     "hour": "10:30 - 11:00",
     "stage": "VALLEY",
+    "style": "DREAMGAZE",
+    "pays": "FRANCE",
     "ts": "1719736200"
   },
   {
@@ -963,6 +1255,8 @@
     "date": "2024/06/30",
     "hour": "11:05 - 11:35",
     "stage": "MAINSTAGE 1",
+    "style": "GARAGE ROCK",
+    "pays": "AUSTRALIE",
     "ts": "1719738300"
   },
   {
@@ -970,6 +1264,8 @@
     "date": "2024/06/30",
     "hour": "11:05 - 11:35",
     "stage": "TEMPLE",
+    "style": "COLD WAVE",
+    "pays": "FRANCE",
     "ts": "1719738300"
   },
   {
@@ -977,6 +1273,8 @@
     "date": "2024/06/30",
     "hour": "11:05 - 11:35",
     "stage": "WARZONE",
+    "style": "HARDCORE",
+    "pays": "FRANCE",
     "ts": "1719738300"
   },
   {
@@ -984,6 +1282,8 @@
     "date": "2024/06/30",
     "hour": "11:40 - 12:10",
     "stage": "ALTAR",
+    "style": "DEATH METAL MELODIQUE",
+    "pays": "FRANCE",
     "ts": "1719740400"
   },
   {
@@ -991,13 +1291,17 @@
     "date": "2024/06/30",
     "hour": "11:40 - 12:10",
     "stage": "VALLEY",
+    "style": "HARDCORE / DEATH / SLUDGE",
+    "pays": "ROYAUME-UNI",
     "ts": "1719740400"
   },
   {
-    "artist": "hot-milk",
+    "artist": "hotwax",
     "date": "2024/06/30",
     "hour": "11:40 - 12:20",
     "stage": "MAINSTAGE 2",
+    "style": "ROCK ALTERNATIF",
+    "pays": "ROYAUME-UNI",
     "ts": "1719740400"
   },
   {
@@ -1005,6 +1309,8 @@
     "date": "2024/06/30",
     "hour": "12:15 - 12:45",
     "stage": "WARZONE",
+    "style": "HARDCORE",
+    "pays": "USA",
     "ts": "1719742500"
   },
   {
@@ -1012,6 +1318,8 @@
     "date": "2024/06/30",
     "hour": "12:15 - 12:45",
     "stage": "TEMPLE",
+    "style": "BLACK METAL DÉGLINGUÉ",
+    "pays": "FRANCE",
     "ts": "1719742500"
   },
   {
@@ -1019,6 +1327,8 @@
     "date": "2024/06/30",
     "hour": "12:25 - 13:05",
     "stage": "MAINSTAGE 1",
+    "style": "HEAVY STONER / THRASH",
+    "pays": "USA",
     "ts": "1719743100"
   },
   {
@@ -1026,6 +1336,8 @@
     "date": "2024/06/30",
     "hour": "12:50 - 13:30",
     "stage": "ALTAR",
+    "style": "BRUTAL DEATHCORE",
+    "pays": "CANADA",
     "ts": "1719744600"
   },
   {
@@ -1033,6 +1345,8 @@
     "date": "2024/06/30",
     "hour": "12:50 - 13:30",
     "stage": "VALLEY",
+    "style": "OCCULT DARK ROCK",
+    "pays": "PAYS-BAS",
     "ts": "1719744600"
   },
   {
@@ -1040,6 +1354,8 @@
     "date": "2024/06/30",
     "hour": "13:10 - 13:50",
     "stage": "MAINSTAGE 2",
+    "style": "POP PUNK",
+    "pays": "ROYAUME-UNI",
     "ts": "1719745800"
   },
   {
@@ -1047,6 +1363,8 @@
     "date": "2024/06/30",
     "hour": "13:35 - 14:15",
     "stage": "WARZONE",
+    "style": "HARDCORE",
+    "pays": "USA",
     "ts": "1719747300"
   },
   {
@@ -1054,6 +1372,8 @@
     "date": "2024/06/30",
     "hour": "13:35 - 14:15",
     "stage": "TEMPLE",
+    "style": "BLACKENED DEATH METAL",
+    "pays": "ALLEMAGNE",
     "ts": "1719747300"
   },
   {
@@ -1061,6 +1381,8 @@
     "date": "2024/06/30",
     "hour": "13:55 - 14:35",
     "stage": "MAINSTAGE 1",
+    "style": "URBAN PUNK",
+    "pays": "ROYAUME-UNI",
     "ts": "1719748500"
   },
   {
@@ -1068,6 +1390,8 @@
     "date": "2024/06/30",
     "hour": "14:20 - 15:05",
     "stage": "ALTAR",
+    "style": "METALCORE",
+    "pays": "ALLEMAGNE",
     "ts": "1719750000"
   },
   {
@@ -1075,6 +1399,8 @@
     "date": "2024/06/30",
     "hour": "14:20 - 15:05",
     "stage": "VALLEY",
+    "style": "POST PUNK",
+    "pays": "FRANCE",
     "ts": "1719750000"
   },
   {
@@ -1082,6 +1408,8 @@
     "date": "2024/06/30",
     "hour": "14:40 - 15:25",
     "stage": "MAINSTAGE 2",
+    "style": "POP PUNK",
+    "pays": "CANADA",
     "ts": "1719751200"
   },
   {
@@ -1089,6 +1417,8 @@
     "date": "2024/06/30",
     "hour": "15:10 - 15:55",
     "stage": "WARZONE",
+    "style": "POST HARDCORE / GRUNGE",
+    "pays": "USA",
     "ts": "1719753000"
   },
   {
@@ -1096,13 +1426,17 @@
     "date": "2024/06/30",
     "hour": "15:10 - 15:55",
     "stage": "TEMPLE",
+    "style": "BLACK METAL",
+    "pays": "GRECE",
     "ts": "1719753000"
   },
   {
-    "artist": "heart",
+    "artist": "blues-pills",
     "date": "2024/06/30",
     "hour": "15:30 - 16:20",
     "stage": "MAINSTAGE 1",
+    "style": "BLUES ROCK",
+    "pays": "USA / SUÈDE",
     "ts": "1719754200"
   },
   {
@@ -1110,6 +1444,8 @@
     "date": "2024/06/30",
     "hour": "16:00 - 16:45",
     "stage": "ALTAR",
+    "style": "DEATHCORE SYMPHONIQUE",
+    "pays": "USA",
     "ts": "1719756000"
   },
   {
@@ -1117,6 +1453,8 @@
     "date": "2024/06/30",
     "hour": "16:00 - 16:45",
     "stage": "VALLEY",
+    "style": "METAL ALTERNATIF",
+    "pays": "ROYAUME-UNI",
     "ts": "1719756000"
   },
   {
@@ -1124,6 +1462,8 @@
     "date": "2024/06/30",
     "hour": "16:25 - 17:15",
     "stage": "MAINSTAGE 2",
+    "style": "PUNK",
+    "pays": "ROYAUME-UNI",
     "ts": "1719757500"
   },
   {
@@ -1131,6 +1471,8 @@
     "date": "2024/06/30",
     "hour": "16:50 - 17:40",
     "stage": "WARZONE",
+    "style": "NOISY HARDCORE",
+    "pays": "USA",
     "ts": "1719759000"
   },
   {
@@ -1138,6 +1480,8 @@
     "date": "2024/06/30",
     "hour": "16:50 - 17:40",
     "stage": "TEMPLE",
+    "style": "BLACK METAL ATMOSPHERIQUE",
+    "pays": "BELGIQUE",
     "ts": "1719759000"
   },
   {
@@ -1145,13 +1489,17 @@
     "date": "2024/06/30",
     "hour": "17:20 - 18:15",
     "stage": "MAINSTAGE 1",
+    "style": "ROCK / HARD ROCK",
+    "pays": "ROYAUME-UNI",
     "ts": "1719760800"
   },
   {
-    "artist": "city-morgue",
+    "artist": "sierra",
     "date": "2024/06/30",
     "hour": "17:45 - 18:35",
     "stage": "VALLEY",
+    "style": "SYNTHWAVE",
+    "pays": "FRANCE",
     "ts": "1719762300"
   },
   {
@@ -1159,6 +1507,8 @@
     "date": "2024/06/30",
     "hour": "17:45 - 18:35",
     "stage": "ALTAR",
+    "style": "DEATH METAL",
+    "pays": "USA",
     "ts": "1719762300"
   },
   {
@@ -1166,6 +1516,8 @@
     "date": "2024/06/30",
     "hour": "18:20 - 19:20",
     "stage": "MAINSTAGE 2",
+    "style": "METAL ALTERNATIF",
+    "pays": "USA",
     "ts": "1719764400"
   },
   {
@@ -1173,6 +1525,8 @@
     "date": "2024/06/30",
     "hour": "18:40 - 19:40",
     "stage": "TEMPLE",
+    "style": "BLACK METAL",
+    "pays": "POLOGNE",
     "ts": "1719765600"
   },
   {
@@ -1180,6 +1534,8 @@
     "date": "2024/06/30",
     "hour": "18:40 - 19:40",
     "stage": "WARZONE",
+    "style": "HARDCORE / POST PUNK",
+    "pays": "ROYAUME-UNI",
     "ts": "1719765600"
   },
   {
@@ -1187,20 +1543,26 @@
     "date": "2024/06/30",
     "hour": "19:25 - 20:40",
     "stage": "MAINSTAGE 1",
+    "style": "STONER / ROCK",
+    "pays": "USA",
     "ts": "1719768300"
-  },
-  {
-    "artist": "TTT-crosses",
-    "date": "2024/06/30",
-    "hour": "19:45 - 20:45",
-    "stage": "VALLEY",
-    "ts": "1719769500"
   },
   {
     "artist": "suffocation",
     "date": "2024/06/30",
     "hour": "19:45 - 20:45",
     "stage": "ALTAR",
+    "style": "BRUTAL DEATH METAL",
+    "pays": "USA",
+    "ts": "1719769500"
+  },
+  {
+    "artist": "TTT-crosses",
+    "date": "2024/06/30",
+    "hour": "19:45 - 20:45",
+    "stage": "VALLEY",
+    "style": "ELECTRO ROCK",
+    "pays": "USA",
     "ts": "1719769500"
   },
   {
@@ -1208,6 +1570,8 @@
     "date": "2024/06/30",
     "hour": "20:45 - 21:55",
     "stage": "MAINSTAGE 2",
+    "style": "PUNK ROCK",
+    "pays": "USA",
     "ts": "1719773100"
   },
   {
@@ -1215,6 +1579,8 @@
     "date": "2024/06/30",
     "hour": "20:50 - 21:50",
     "stage": "WARZONE",
+    "style": "HARDCORE",
+    "pays": "USA",
     "ts": "1719773400"
   },
   {
@@ -1222,6 +1588,8 @@
     "date": "2024/06/30",
     "hour": "20:50 - 21:50",
     "stage": "TEMPLE",
+    "style": "METAL GOTHIQUE",
+    "pays": "SUEDE",
     "ts": "1719773400"
   },
   {
@@ -1229,6 +1597,8 @@
     "date": "2024/06/30",
     "hour": "21:55 - 22:55",
     "stage": "ALTAR",
+    "style": "DEATH METAL",
+    "pays": "USA",
     "ts": "1719777300"
   },
   {
@@ -1236,6 +1606,8 @@
     "date": "2024/06/30",
     "hour": "21:55 - 22:55",
     "stage": "VALLEY",
+    "style": "CLASSIC ROCK",
+    "pays": "USA",
     "ts": "1719777300"
   },
   {
@@ -1243,6 +1615,8 @@
     "date": "2024/06/30",
     "hour": "22:00 - 00:00",
     "stage": "MAINSTAGE 1",
+    "style": "ROCK",
+    "pays": "USA",
     "ts": "1719777600"
   },
   {
@@ -1250,13 +1624,8 @@
     "date": "2024/06/30",
     "hour": "23:00 - 00:00",
     "stage": "WARZONE",
-    "ts": "1719781200"
-  },
-  {
-    "artist": "dimmu-borgir",
-    "date": "2024/06/30",
-    "hour": "23:00 - 00:00",
-    "stage": "TEMPLE",
+    "style": "PUNK",
+    "pays": "ROYAUME-UNI",
     "ts": "1719781200"
   }
 ]
