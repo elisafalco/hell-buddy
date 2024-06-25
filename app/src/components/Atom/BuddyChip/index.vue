@@ -4,7 +4,7 @@
     class="a-buddyChip"
     :class="`-${size}`"
   >
-    {{ firstLetter }}
+    {{ props.name.trim()[0] }}
   </div>
 </template>
 
@@ -21,8 +21,6 @@
   const props = withDefaults(defineProps<Props>(), {
     size: 'default',
   });
-
-  const firstLetter = props.name.trim()[0];
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

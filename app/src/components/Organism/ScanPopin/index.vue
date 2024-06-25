@@ -48,6 +48,7 @@
   const stopScan = () => {
     qrScanner.stop();
     qrScanner.destroy();
+    emit('close');
   };
 
   /**

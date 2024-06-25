@@ -1,7 +1,6 @@
 .env
-
-# Misc
 /node_modules
+/dist
 
 # Typescript
 *.tsbuildinfo
