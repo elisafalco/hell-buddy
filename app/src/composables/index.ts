@@ -67,7 +67,7 @@ export const setProgram = (program: string[]) => {
  * @returns {string[] | null}
  */
 export const getProgram = (): string[] | null => {
-  return JSON.parse(window.localStorage.getItem(LS_PROGRAM) || '[]');
+  return JSON.parse(window.localStorage.getItem(LS_PROGRAM) ?? '[]');
 }
 
 /**

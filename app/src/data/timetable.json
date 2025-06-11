@@ -1,1631 +1,1822 @@
 [
   {
-    "artist": "asinhell",
-    "date": "2024/06/27",
+    "artist": "SKINDRED",
+    "date": "2025/06/19",
     "hour": "16:30 - 17:10",
-    "stage": "MAINSTAGE 1",
-    "style": "DEATH METAL",
-    "pays": "DANEMARK",
-    "ts": "1719498600"
-  },
-  {
-    "artist": "komodrag-the-mounodor",
-    "date": "2024/06/27",
-    "hour": "16:30 - 17:10",
-    "stage": "VALLEY",
-    "style": "CLASSIC ROCK",
-    "pays": "FRANCE",
-    "ts": "1719498600"
-  },
-  {
-    "artist": "wormrot",
-    "date": "2024/06/27",
-    "hour": "16:30 - 17:10",
-    "stage": "ALTAR",
-    "style": "GRINDCORE",
-    "pays": "SINGAPOUR",
-    "ts": "1719498600"
-  },
-  {
-    "artist": "bleed-from-within",
-    "date": "2024/06/27",
-    "hour": "17:15 - 17:55",
-    "stage": "MAINSTAGE 2",
-    "style": "METALCORE",
+    "stage": "Mainstage 1",
+    "style": "RAGGA METAL",
     "pays": "ROYAUME-UNI",
-    "ts": "1719501300"
+    "id": "skindred",
+    "ts": "1750343400"
   },
   {
-    "artist": "morne",
-    "date": "2024/06/27",
+    "artist": "TAR POND",
+    "date": "2025/06/19",
+    "hour": "16:30 - 17:10",
+    "stage": "Valley",
+    "style": "DOOM",
+    "pays": "SUISSE",
+    "id": "tar-pond",
+    "ts": "1750343400"
+  },
+  {
+    "artist": "WALKWAYS",
+    "date": "2025/06/19",
+    "hour": "16:30 - 17:10",
+    "stage": "Altar",
+    "style": "METAL ALTERNATIF ",
+    "pays": "ISRAEL",
+    "id": "walkways",
+    "ts": "1750343400"
+  },
+  {
+    "artist": "MISþYRMING",
+    "date": "2025/06/19",
     "hour": "17:15 - 17:55",
-    "stage": "TEMPLE",
-    "style": "DOOM / CRUST",
-    "pays": "USA",
-    "ts": "1719501300"
+    "stage": "Temple",
+    "style": "BLACK METAL",
+    "pays": "ISLANDE",
+    "id": "misthyrming",
+    "ts": "1750346100"
   },
   {
-    "artist": "thrown",
-    "date": "2024/06/27",
+    "artist": "SEVEN HOURS AFTER VIOLET",
+    "date": "2025/06/19",
     "hour": "17:15 - 17:55",
-    "stage": "WARZONE",
-    "style": "HARDCORE / METALCORE",
-    "pays": "SUEDE",
-    "ts": "1719501300"
-  },
-  {
-    "artist": "immolation",
-    "date": "2024/06/27",
-    "hour": "18:00 - 18:40",
-    "stage": "ALTAR",
-    "style": "DEATH METAL",
+    "stage": "Mainstage 2",
+    "style": "NU METAL",
     "pays": "USA",
-    "ts": "1719504000"
+    "id": "seven-hours-after-violet",
+    "ts": "1750346100"
   },
   {
-    "artist": "khemmis",
-    "date": "2024/06/27",
+    "artist": "TEEN MORTGAGE",
+    "date": "2025/06/19",
+    "hour": "17:15 - 17:55",
+    "stage": "Warzone",
+    "style": "GARAGE PUNK",
+    "pays": "USA",
+    "id": "teen-mortgage",
+    "ts": "1750346100"
+  },
+  {
+    "artist": "APOCALYPTICA",
+    "date": "2025/06/19",
     "hour": "18:00 - 18:40",
-    "stage": "VALLEY",
+    "stage": "Mainstage 1",
+    "style": "METAL SYMPHONIQUE",
+    "pays": "FINLANDE",
+    "id": "apocalyptica",
+    "ts": "1750348800"
+  },
+  {
+    "artist": "Mental Cruelty",
+    "date": "2025/06/19",
+    "hour": "18:00 - 18:40",
+    "stage": "Altar",
+    "style": "BLACKENED DEATHCORE",
+    "pays": "ALLEMAGNE",
+    "id": "mental-cruelty",
+    "ts": "1750348800"
+  },
+  {
+    "artist": "SLOMOSA",
+    "date": "2025/06/19",
+    "hour": "18:00 - 18:40",
+    "stage": "Valley",
+    "style": "STONER / DOOM",
+    "pays": "NORVEGE",
+    "id": "slomosa",
+    "ts": "1750348800"
+  },
+  {
+    "artist": "KIM DRACULA",
+    "date": "2025/06/19",
+    "hour": "18:45 - 19:25",
+    "stage": "Mainstage 2",
+    "style": "TRAP METAL / NU METAL",
+    "pays": "AUSTRALIE",
+    "id": "kim-dracula",
+    "ts": "1750351500"
+  },
+  {
+    "artist": "STREET DOGS",
+    "date": "2025/06/19",
+    "hour": "18:45 - 19:35",
+    "stage": "Warzone",
+    "style": "PUNK ROCK",
+    "pays": "USA",
+    "id": "street-dogs",
+    "ts": "1750351500"
+  },
+  {
+    "artist": "THY CATAFALQUE",
+    "date": "2025/06/19",
+    "hour": "18:45 - 19:35",
+    "stage": "Temple",
+    "style": "METAL AVANT-GARDISTE",
+    "pays": "HONGRIE",
+    "id": "thy-catafalque",
+    "ts": "1750351500"
+  },
+  {
+    "artist": "AIRBOURNE",
+    "date": "2025/06/19",
+    "hour": "19:30 - 20:20",
+    "stage": "Mainstage 1",
+    "style": "HARD ROCK",
+    "pays": "AUSTRALIE",
+    "id": "airbourne",
+    "ts": "1750354200"
+  },
+  {
+    "artist": "CHAT PILE",
+    "date": "2025/06/19",
+    "hour": "19:40 - 20:40",
+    "stage": "Valley",
+    "style": "NOISE ROCK",
+    "pays": "USA",
+    "id": "chat-pile",
+    "ts": "1750354800"
+  },
+  {
+    "artist": "Fit For An Autopsy",
+    "date": "2025/06/19",
+    "hour": "19:40 - 20:40",
+    "stage": "Altar",
+    "style": "DEATHCORE",
+    "pays": "USA",
+    "id": "fit-for-an-autopsy",
+    "ts": "1750354800"
+  },
+  {
+    "artist": "IMMINENCE",
+    "date": "2025/06/19",
+    "hour": "20:25 - 21:15",
+    "stage": "Mainstage 2",
+    "style": "METALCORE",
+    "pays": "SUÈDE",
+    "id": "imminence",
+    "ts": "1750357500"
+  },
+  {
+    "artist": "IHSAHN",
+    "date": "2025/06/19",
+    "hour": "20:45 - 21:45",
+    "stage": "Temple",
+    "style": "METAL PROGRESSIF",
+    "pays": "NORVEGE",
+    "id": "ihsahn",
+    "ts": "1750358700"
+  },
+  {
+    "artist": "SOFT PLAY",
+    "date": "2025/06/19",
+    "hour": "20:45 - 21:45",
+    "stage": "Warzone",
+    "style": "PUNK ROCK",
+    "pays": "ROYAUME-UNI",
+    "id": "soft-play",
+    "ts": "1750358700"
+  },
+  {
+    "artist": "TILL LINDEMANN",
+    "date": "2025/06/19",
+    "hour": "21:20 - 22:20",
+    "stage": "Mainstage 1",
+    "style": "METAL INDUSTRIEL",
+    "pays": "ALLEMAGNE",
+    "id": "till-lindemann",
+    "ts": "1750360800"
+  },
+  {
+    "artist": "Jinjer",
+    "date": "2025/06/19",
+    "hour": "21:50 - 22:50",
+    "stage": "Altar",
+    "style": "METALCORE / DJENT",
+    "pays": "UKRAINE",
+    "id": "jinjer",
+    "ts": "1750362600"
+  },
+  {
+    "artist": "MONKEY3",
+    "date": "2025/06/19",
+    "hour": "21:50 - 22:50",
+    "stage": "Valley",
+    "style": "STONER PSYCHEDELIQUE",
+    "pays": "SUISSE",
+    "id": "monkey-3",
+    "ts": "1750362600"
+  },
+  {
+    "artist": "RISE OF THE NORTHSTAR",
+    "date": "2025/06/19",
+    "hour": "22:25 - 23:25",
+    "stage": "Mainstage 2",
+    "style": "NU METAL / HARDCORE",
+    "pays": "FRANCE",
+    "id": "rise-of-the-northstar",
+    "ts": "1750364700"
+  },
+  {
+    "artist": "SUNN O)))",
+    "date": "2025/06/19",
+    "hour": "22:55 - 23:55",
+    "stage": "Temple",
+    "style": "DRONE",
+    "pays": "USA",
+    "id": "sunn-o",
+    "ts": "1750366500"
+  },
+  {
+    "artist": "THE HELLACOPTERS",
+    "date": "2025/06/19",
+    "hour": "22:55 - 23:55",
+    "stage": "Warzone",
+    "style": "GARAGE ROCK",
+    "pays": "NORVEGE",
+    "id": "the-hellacopters",
+    "ts": "1750366500"
+  },
+  {
+    "artist": "KORN",
+    "date": "2025/06/19",
+    "hour": "23:30 - 01:00",
+    "stage": "Mainstage 1",
+    "style": "NU METAL",
+    "pays": "USA",
+    "id": "korn",
+    "ts": "1750368600"
+  },
+  {
+    "artist": "ORANGE GOBLIN",
+    "date": "2025/06/19",
+    "hour": "00:00 - 01:00",
+    "stage": "Valley",
+    "style": "STONER",
+    "pays": "ROYAUME-UNI",
+    "id": "orange-goblin",
+    "ts": "1750370400"
+  },
+  {
+    "artist": "WHITECHAPEL",
+    "date": "2025/06/19",
+    "hour": "00:00 - 01:00",
+    "stage": "Altar",
+    "style": "DEATHCORE",
+    "pays": "USA",
+    "id": "whitechapel",
+    "ts": "1750370400"
+  },
+  {
+    "artist": "ALCEST",
+    "date": "2025/06/19",
+    "hour": "01:05 - 02:05",
+    "stage": "Temple",
+    "style": "BLACKGAZE",
+    "pays": "FRANCE",
+    "id": "alcest",
+    "ts": "1750374300"
+  },
+  {
+    "artist": "ELECTRIC CALLBOY",
+    "date": "2025/06/19",
+    "hour": "01:05 - 02:05",
+    "stage": "Mainstage 2",
+    "style": "METALCORE ELECTRONIQUE",
+    "pays": "ALLEMAGNE",
+    "id": "electric-callboy",
+    "ts": "1750374300"
+  },
+  {
+    "artist": "TURBONEGRO",
+    "date": "2025/06/19",
+    "hour": "01:05 - 02:05",
+    "stage": "Warzone",
+    "style": "DEATH PUNK",
+    "pays": "NORVEGE",
+    "id": "turbonegro",
+    "ts": "1750374300"
+  },
+  {
+    "artist": "FURIES",
+    "date": "2025/06/20",
+    "hour": "10:30 - 11:00",
+    "stage": "Altar",
+    "style": "HEAVY METAL",
+    "pays": "FRANCE",
+    "id": "furies",
+    "ts": "1750408200"
+  },
+  {
+    "artist": "SUN",
+    "date": "2025/06/20",
+    "hour": "10:30 - 11:00",
+    "stage": "Mainstage 2",
+    "style": "BRUTAL POP",
+    "pays": "FRANCE",
+    "id": "sun",
+    "ts": "1750408200"
+  },
+  {
+    "artist": "WORMSAND",
+    "date": "2025/06/20",
+    "hour": "10:30 - 11:00",
+    "stage": "Valley",
+    "style": "STONER / SLUDGE",
+    "pays": "FRANCE",
+    "id": "wormsand",
+    "ts": "1750408200"
+  },
+  {
+    "artist": "BÉTON ARMÉ",
+    "date": "2025/06/20",
+    "hour": "11:05 - 11:35",
+    "stage": "Warzone",
+    "style": "OÏ",
+    "pays": "CANADA",
+    "id": "beton-arme",
+    "ts": "1750410300"
+  },
+  {
+    "artist": "CACHEMIRE",
+    "date": "2025/06/20",
+    "hour": "11:05 - 11:35",
+    "stage": "Mainstage 1",
+    "style": "ROCK",
+    "pays": "FRANCE",
+    "id": "cachemire",
+    "ts": "1750410300"
+  },
+  {
+    "artist": "MORGARTEN",
+    "date": "2025/06/20",
+    "hour": "11:05 - 11:35",
+    "stage": "Temple",
+    "style": "BLACK METAL EPIQUE / FOLK METAL",
+    "pays": "SUISSE",
+    "id": "morgarten",
+    "ts": "1750410300"
+  },
+  {
+    "artist": "CASTLE RAT",
+    "date": "2025/06/20",
+    "hour": "11:40 - 12:10",
+    "stage": "Valley",
     "style": "DOOM",
     "pays": "USA",
-    "ts": "1719504000"
+    "id": "castle-rat",
+    "ts": "1750412400"
   },
   {
-    "artist": "slaughter-to-prevail",
-    "date": "2024/06/27",
-    "hour": "18:00 - 18:40",
-    "stage": "MAINSTAGE 1",
-    "style": "DEATHCORE",
-    "pays": "RUSSIE / USA",
-    "ts": "1719504000"
-  },
-  {
-    "artist": "dolch",
-    "date": "2024/06/27",
-    "hour": "18:45 - 19:35",
-    "stage": "TEMPLE",
-    "style": "DOOM / DARK AMBIENT",
-    "pays": "ALLEMAGNE",
-    "ts": "1719506700"
-  },
-  {
-    "artist": "dying-wish",
-    "date": "2024/06/27",
-    "hour": "18:45 - 19:35",
-    "stage": "WARZONE",
-    "style": "METALCORE",
-    "pays": "USA",
-    "ts": "1719506700"
-  },
-  {
-    "artist": "ice-nine-kills",
-    "date": "2024/06/27",
-    "hour": "18:45 - 19:25",
-    "stage": "MAINSTAGE 2",
-    "style": "METALCORE",
-    "pays": "USA",
-    "ts": "1719506700"
-  },
-  {
-    "artist": "kerry-king",
-    "date": "2024/06/27",
-    "hour": "19:30 - 20:20",
-    "stage": "MAINSTAGE 1",
-    "style": "THRASH METAL",
-    "pays": "USA",
-    "ts": "1719509400"
-  },
-  {
-    "artist": "brujeria",
-    "date": "2024/06/27",
-    "hour": "19:40 - 20:40",
-    "stage": "ALTAR",
-    "style": "DEATH GRIND",
-    "pays": "MEXIQUE / USA",
-    "ts": "1719510000"
-  },
-  {
-    "artist": "green-lung",
-    "date": "2024/06/27",
-    "hour": "19:40 - 20:40",
-    "stage": "VALLEY",
-    "style": "STONER / DOOM",
-    "pays": "ROYAUME-UNI",
-    "ts": "1719510000"
-  },
-  {
-    "artist": "babymetal",
-    "date": "2024/06/27",
-    "hour": "20:25 - 21:15",
-    "stage": "MAINSTAGE 2",
-    "style": "KAWAII METAL",
-    "pays": "JAPON",
-    "ts": "1719512700"
-  },
-  {
-    "artist": "crystal-lake",
-    "date": "2024/06/27",
-    "hour": "20:45 - 21:45",
-    "stage": "WARZONE",
-    "style": "METALCORE",
-    "pays": "JAPON",
-    "ts": "1719513900"
-  },
-  {
-    "artist": "sylvaine",
-    "date": "2024/06/27",
-    "hour": "20:45 - 21:45",
-    "stage": "TEMPLE",
-    "style": "BLACKGAZE",
-    "pays": "NORVEGE",
-    "ts": "1719513900"
-  },
-  {
-    "artist": "megadeth",
-    "date": "2024/06/27",
-    "hour": "21:20 - 22:20",
-    "stage": "MAINSTAGE 1",
-    "style": "THRASH METAL",
-    "pays": "USA",
-    "ts": "1719516000"
-  },
-  {
-    "artist": "dark-tranquillity",
-    "date": "2024/06/27",
-    "hour": "21:50 - 22:50",
-    "stage": "ALTAR",
-    "style": "DEATH METAL MELODIQUE",
-    "pays": "SUEDE",
-    "ts": "1719517800"
-  },
-  {
-    "artist": "graveyard",
-    "date": "2024/06/27",
-    "hour": "21:50 - 22:50",
-    "stage": "VALLEY",
-    "style": "HEAVY BLUES PSYCHEDELIQUE",
-    "pays": "SUEDE",
-    "ts": "1719517800"
-  },
-  {
-    "artist": "landmvrks",
-    "date": "2024/06/27",
-    "hour": "22:25 - 23:25",
-    "stage": "MAINSTAGE 2",
-    "style": "METALCORE",
-    "pays": "FRANCE",
-    "ts": "1719519900"
-  },
-  {
-    "artist": "shining",
-    "date": "2024/06/27",
-    "hour": "22:55 - 23:55",
-    "stage": "TEMPLE",
-    "style": "JAZZ METAL AVANT-GARDISTE",
-    "pays": "NORVEGE",
-    "ts": "1719521700"
-  },
-  {
-    "artist": "thursday",
-    "date": "2024/06/27",
-    "hour": "22:55 - 23:55",
-    "stage": "WARZONE",
-    "style": "EMO HARDCORE",
-    "pays": "USA",
-    "ts": "1719521700"
-  },
-  {
-    "artist": "avenged-sevenfold",
-    "date": "2024/06/27",
-    "hour": "23:30 - 01:00",
-    "stage": "MAINSTAGE 1",
-    "style": "METAL ALTERNATIF",
-    "pays": "USA",
-    "ts": "1719523800"
-  },
-  {
-    "artist": "all-them-witches",
-    "date": "2024/06/28",
-    "hour": "00:00 - 01:00",
-    "stage": "VALLEY",
-    "style": "STONER PSYCHEDELIQUE",
-    "pays": "USA",
-    "ts": "1719525600"
-  },
-  {
-    "artist": "sodom",
-    "date": "2024/06/28",
-    "hour": "00:00 - 01:00",
-    "stage": "ALTAR",
-    "style": "THRASH METAL",
-    "pays": "ALLEMAGNE",
-    "ts": "1719525600"
-  },
-  {
-    "artist": "cradle-of-filth",
-    "date": "2024/06/28",
-    "hour": "01:05 - 02:05",
-    "stage": "TEMPLE",
-    "style": "BLACK METAL SYMPHONIQUE",
-    "pays": "ROYAUME-UNI",
-    "ts": "1719529500"
-  },
-  {
-    "artist": "dropkick-murphys",
-    "date": "2024/06/28",
-    "hour": "01:05 - 02:05",
-    "stage": "MAINSTAGE 2",
-    "style": "PUNK CELTIQUE",
-    "pays": "USA",
-    "ts": "1719529500"
-  },
-  {
-    "artist": "enter-shikari",
-    "date": "2024/06/28",
-    "hour": "01:05 - 02:05",
-    "stage": "WARZONE",
-    "style": "ELECTRO-POST HARDCORE",
-    "pays": "UK",
-    "ts": "1719529500"
-  },
-  {
-    "artist": "karma-zero",
-    "date": "2024/06/28",
-    "hour": "10:30 - 11:00",
-    "stage": "ALTAR",
-    "style": "METALCORE / DEATHCORE",
-    "pays": "FRANCE",
-    "ts": "1719563400"
-  },
-  {
-    "artist": "red-sun-atacama",
-    "date": "2024/06/28",
-    "hour": "10:30 - 11:00",
-    "stage": "VALLEY",
-    "style": "STONER",
-    "pays": "FRANCE",
-    "ts": "1719563400"
-  },
-  {
-    "artist": "saint-agnes",
-    "date": "2024/06/28",
-    "hour": "10:30 - 11:00",
-    "stage": "MAINSTAGE 2",
-    "style": "HEAVY ROCK",
-    "pays": "ROYAUME-UNI",
-    "ts": "1719563400"
-  },
-  {
-    "artist": "7-weeks",
-    "date": "2024/06/28",
-    "hour": "11:05 - 11:35",
-    "stage": "MAINSTAGE 1",
-    "style": "STONER ROCK",
-    "pays": "FRANCE",
-    "ts": "1719565500"
-  },
-  {
-    "artist": "eight-sins",
-    "date": "2024/06/28",
-    "hour": "11:05 - 11:35",
-    "stage": "WARZONE",
-    "style": "CROSSOVER THRASH",
-    "pays": "FRANCE",
-    "ts": "1719565500"
-  },
-  {
-    "artist": "houle",
-    "date": "2024/06/28",
-    "hour": "11:05 - 11:35",
-    "stage": "TEMPLE",
-    "style": "BLACK METAL MELODIQUE",
-    "pays": "FRANCE",
-    "ts": "1719565500"
-  },
-  {
-    "artist": "ankor",
-    "date": "2024/06/28",
+    "artist": "CHARLOTTE WESSELS",
+    "date": "2025/06/20",
     "hour": "11:40 - 12:10",
-    "stage": "MAINSTAGE 2",
-    "style": "METAL ALTERNATIF",
-    "pays": "ESPAGNE",
-    "ts": "1719567600"
-  },
-  {
-    "artist": "solitaris",
-    "date": "2024/06/28",
-    "hour": "11:40 - 12:10",
-    "stage": "ALTAR",
-    "style": "METALCORE",
-    "pays": "FRANCE",
-    "ts": "1719567600"
-  },
-  {
-    "artist": "the-devils-trade",
-    "date": "2024/06/28",
-    "hour": "11:40 - 12:10",
-    "stage": "VALLEY",
-    "style": "DARK FOLK",
-    "pays": "HONGRIE",
-    "ts": "1719567600"
-  },
-  {
-    "artist": "imperial-crystalline-entombment",
-    "date": "2024/06/28",
-    "hour": "12:15 - 12:45",
-    "stage": "TEMPLE",
-    "style": "BLACK METAL",
-    "pays": "USA",
-    "ts": "1719569700"
-  },
-  {
-    "artist": "lovebites",
-    "date": "2024/06/28",
-    "hour": "12:15 - 12:45",
-    "stage": "MAINSTAGE 1",
-    "style": "POWER METAL",
-    "pays": "JAPON",
-    "ts": "1719569700"
-  },
-  {
-    "artist": "smash-hit-combo",
-    "date": "2024/06/28",
-    "hour": "12:15 - 12:45",
-    "stage": "WARZONE",
-    "style": "RAPCORE",
-    "pays": "FRANCE",
-    "ts": "1719569700"
-  },
-  {
-    "artist": "gozu",
-    "date": "2024/06/28",
-    "hour": "12:50 - 13:30",
-    "stage": "VALLEY",
-    "style": "STONER",
-    "pays": "USA",
-    "ts": "1719571800"
-  },
-  {
-    "artist": "the-acacia-strain",
-    "date": "2024/06/28",
-    "hour": "12:50 - 13:30",
-    "stage": "ALTAR",
-    "style": "DEATHCORE",
-    "pays": "USA",
-    "ts": "1719571800"
-  },
-  {
-    "artist": "wargasm",
-    "date": "2024/06/28",
-    "hour": "12:50 - 13:30",
-    "stage": "MAINSTAGE 2",
-    "style": "ELECTRO PUNK / NU METAL",
-    "pays": "ROYAUME-UNI",
-    "ts": "1719571800"
-  },
-  {
-    "artist": "dropout-kings",
-    "date": "2024/06/28",
-    "hour": "13:35 - 14:15",
-    "stage": "WARZONE",
-    "style": "NU METAL / TRAP METAL",
-    "pays": "USA",
-    "ts": "1719574500"
-  },
-  {
-    "artist": "orden-ogan",
-    "date": "2024/06/28",
-    "hour": "13:35 - 14:15",
-    "stage": "MAINSTAGE 1",
-    "style": "POWER METAL",
-    "pays": "ALLEMAGNE",
-    "ts": "1719574500"
-  },
-  {
-    "artist": "shores-of-null",
-    "date": "2024/06/28",
-    "hour": "13:35 - 14:15",
-    "stage": "TEMPLE",
-    "style": "DOOM GOTHIQUE",
-    "pays": "ITALIE",
-    "ts": "1719574500"
-  },
-  {
-    "artist": "black-rainbows",
-    "date": "2024/06/28",
-    "hour": "14:20 - 15:05",
-    "stage": "VALLEY",
-    "style": "STONER PSYCHEDELIQUE",
-    "pays": "ITALIE",
-    "ts": "1719577200"
-  },
-  {
-    "artist": "textures",
-    "date": "2024/06/28",
-    "hour": "14:20 - 15:05",
-    "stage": "ALTAR",
-    "style": "METAL PROGRESSIF",
+    "stage": "Mainstage 2",
+    "style": "METAL MÉLODIQUE",
     "pays": "PAYS-BAS",
-    "ts": "1719577200"
+    "id": "charlotte-wessels",
+    "ts": "1750412400"
   },
   {
-    "artist": "while-she-sleeps",
-    "date": "2024/06/28",
-    "hour": "14:20 - 15:00",
-    "stage": "MAINSTAGE 2",
-    "style": "METALCORE",
-    "pays": "ROYAUME-UNI",
-    "ts": "1719577200"
-  },
-  {
-    "artist": "karnivool",
-    "date": "2024/06/28",
-    "hour": "15:05 - 15:45",
-    "stage": "MAINSTAGE 1",
-    "style": "ROCK PROGRESSIF",
-    "pays": "AUSTRALIE",
-    "ts": "1719579900"
-  },
-  {
-    "artist": "ereb-altor",
-    "date": "2024/06/28",
-    "hour": "15:10 - 15:55",
-    "stage": "TEMPLE",
-    "style": "VIKING METAL",
-    "pays": "SUEDE",
-    "ts": "1719580200"
-  },
-  {
-    "artist": "speed",
-    "date": "2024/06/28",
-    "hour": "15:10 - 15:55",
-    "stage": "WARZONE",
-    "style": "HARDCORE BEATDOWN",
-    "pays": "AUSTRALIE",
-    "ts": "1719580200"
-  },
-  {
-    "artist": "lofofora",
-    "date": "2024/06/28",
-    "hour": "15:50 - 16:35",
-    "stage": "MAINSTAGE 2",
-    "style": "FUSION",
-    "pays": "FRANCE",
-    "ts": "1719582600"
-  },
-  {
-    "artist": "gaupa",
-    "date": "2024/06/28",
-    "hour": "16:00 - 16:45",
-    "stage": "VALLEY",
-    "style": "STONER PSYCHEDELIQUE",
-    "pays": "SUEDE",
-    "ts": "1719583200"
-  },
-  {
-    "artist": "klone",
-    "date": "2024/06/28",
-    "hour": "16:00 - 16:45",
-    "stage": "ALTAR",
-    "style": "METAL PROGRESSIF",
-    "pays": "FRANCE",
-    "ts": "1719583200"
-  },
-  {
-    "artist": "fear-factory",
-    "date": "2024/06/28",
-    "hour": "16:40 - 17:30",
-    "stage": "MAINSTAGE 1",
-    "style": "METAL INDUSTRIEL",
-    "pays": "USA",
-    "ts": "1719585600"
-  },
-  {
-    "artist": "mork",
-    "date": "2024/06/28",
-    "hour": "16:50 - 17:40",
-    "stage": "TEMPLE",
-    "style": "BLACK METAL",
-    "pays": "NORVEGE",
-    "ts": "1719586200"
-  },
-  {
-    "artist": "stinky",
-    "date": "2024/06/28",
-    "hour": "16:50 - 17:40",
-    "stage": "WARZONE",
-    "style": "HARDCORE MELODIQUE",
-    "pays": "FRANCE",
-    "ts": "1719586200"
-  },
-  {
-    "artist": "savage-lands",
-    "date": "2024/06/28",
-    "hour": "17:35 - 18:30",
-    "stage": "MAINSTAGE 2",
-    "style": "METAL ENVIRONNEMENTAL",
-    "pays": "FRANCE / COSTA RICA",
-    "ts": "1719588900"
-  },
-  {
-    "artist": "einar-solberg",
-    "date": "2024/06/28",
-    "hour": "17:45 - 18:35",
-    "stage": "ALTAR",
-    "style": "METAL PROGRESSIF",
-    "pays": "NORVEGE",
-    "ts": "1719589500"
-  },
-  {
-    "artist": "planet-of-zeus",
-    "date": "2024/06/28",
-    "hour": "17:45 - 18:35",
-    "stage": "VALLEY",
-    "style": "HEAVY ROCK",
-    "pays": "GRECE",
-    "ts": "1719589500"
-  },
-  {
-    "artist": "polyphia",
-    "date": "2024/06/28",
-    "hour": "18:35 - 19:35",
-    "stage": "MAINSTAGE 1",
-    "style": "ROCK PROGRESSIF",
-    "pays": "USA",
-    "ts": "1719592500"
-  },
-  {
-    "artist": "harms-way",
-    "date": "2024/06/28",
-    "hour": "18:40 - 19:30",
-    "stage": "WARZONE",
-    "style": "HARDCORE",
-    "pays": "USA",
-    "ts": "1719592800"
-  },
-  {
-    "artist": "kanonenfieber",
-    "date": "2024/06/28",
-    "hour": "18:40 - 19:30",
-    "stage": "TEMPLE",
-    "style": "BLACKENED DEATH METAL",
-    "pays": "ALLEMAGNE",
-    "ts": "1719592800"
-  },
-  {
-    "artist": "1000mods",
-    "date": "2024/06/28",
-    "hour": "19:35 - 20:35",
-    "stage": "VALLEY",
-    "style": "STONER",
-    "pays": "GRECE",
-    "ts": "1719596100"
-  },
-  {
-    "artist": "ne-obliviscaris",
-    "date": "2024/06/28",
-    "hour": "19:35 - 20:35",
-    "stage": "ALTAR",
-    "style": "DEATH METAL PROGRESSIF",
-    "pays": "AUSTRALIE",
-    "ts": "1719596100"
-  },
-  {
-    "artist": "steel-panther",
-    "date": "2024/06/28",
-    "hour": "19:40 - 20:40",
-    "stage": "MAINSTAGE 2",
-    "style": "GLAM METAL",
-    "pays": "USA",
-    "ts": "1719596400"
-  },
-  {
-    "artist": "clawfinger",
-    "date": "2024/06/28",
-    "hour": "20:40 - 21:40",
-    "stage": "WARZONE",
-    "style": "FUSION INDUS RAPCORE",
-    "pays": "SUEDE",
-    "ts": "1719600000"
-  },
-  {
-    "artist": "satyricon",
-    "date": "2024/06/28",
-    "hour": "20:40 - 21:40",
-    "stage": "TEMPLE",
-    "style": "BLACK METAL",
-    "pays": "NORVEGE",
-    "ts": "1719600000"
-  },
-  {
-    "artist": "tom-morello",
-    "date": "2024/06/28",
-    "hour": "20:45 - 21:55",
-    "stage": "MAINSTAGE 1",
-    "style": "METAL / ROCK ALTERNATIF",
-    "pays": "USA",
-    "ts": "1719600300"
-  },
-  {
-    "artist": "acid-king",
-    "date": "2024/06/28",
-    "hour": "21:45 - 22:45",
-    "stage": "VALLEY",
-    "style": "STONER DOOM",
-    "pays": "USA",
-    "ts": "1719603900"
-  },
-  {
-    "artist": "amorphis",
-    "date": "2024/06/28",
-    "hour": "21:45 - 22:45",
-    "stage": "ALTAR",
-    "style": "DEATH METAL ATMOSPHERIQUE",
-    "pays": "FINLANDE",
-    "ts": "1719603900"
-  },
-  {
-    "artist": "shaka-ponk",
-    "date": "2024/06/28",
-    "hour": "22:00 - 23:10",
-    "stage": "MAINSTAGE 2",
-    "style": "ELECTRO ROCK ALTERNATIF",
-    "pays": "FRANCE",
-    "ts": "1719604800"
-  },
-  {
-    "artist": "biohazard",
-    "date": "2024/06/28",
-    "hour": "22:50 - 23:50",
-    "stage": "WARZONE",
-    "style": "HARDCORE / METAL",
-    "pays": "USA",
-    "ts": "1719607800"
-  },
-  {
-    "artist": "emperor",
-    "date": "2024/06/28",
-    "hour": "22:50 - 23:50",
-    "stage": "TEMPLE",
-    "style": "BLACK METAL",
-    "pays": "NORVEGE",
-    "ts": "1719607800"
-  },
-  {
-    "artist": "machine-head",
-    "date": "2024/06/28",
-    "hour": "23:15 - 00:45",
-    "stage": "MAINSTAGE 1",
-    "style": "GROOVE / THRASH METAL",
-    "pays": "USA",
-    "ts": "1719609300"
-  },
-  {
-    "artist": "fu-manchu",
-    "date": "2024/06/28",
-    "hour": "23:55 - 00:55",
-    "stage": "VALLEY",
-    "style": "STONER",
-    "pays": "USA",
-    "ts": "1719611700"
-  },
-  {
-    "artist": "pain-of-salvation",
-    "date": "2024/06/28",
-    "hour": "23:55 - 00:55",
-    "stage": "ALTAR",
-    "style": "METAL PROGRESSIF",
-    "pays": "SUEDE",
-    "ts": "1719611700"
-  },
-  {
-    "artist": "the-prodigy",
-    "date": "2024/06/29",
-    "hour": "00:50 - 02:00",
-    "stage": "MAINSTAGE 2",
-    "style": "ELECTRO PUNK",
-    "pays": "ROYAUME-UNI",
-    "ts": "1719615000"
-  },
-  {
-    "artist": "anaal-nathrakh",
-    "date": "2024/06/29",
-    "hour": "01:00 - 02:00",
-    "stage": "TEMPLE",
-    "style": "BLACK METAL / GRINDCORE",
-    "pays": "ROYAUME-UNI",
-    "ts": "1719615600"
-  },
-  {
-    "artist": "body-count-ft-ice-t",
-    "date": "2024/06/29",
-    "hour": "01:00 - 02:00",
-    "stage": "WARZONE",
-    "style": "HARDCORE / HIP-HOP",
-    "pays": "USA",
-    "ts": "1719615600"
-  },
-  {
-    "artist": "crystal-viper",
-    "date": "2024/06/29",
-    "hour": "10:30 - 11:00",
-    "stage": "MAINSTAGE 2",
-    "style": "HEAVY METAL",
-    "pays": "POLOGNE",
-    "ts": "1719649800"
-  },
-  {
-    "artist": "nakkeknaekker",
-    "date": "2024/06/29",
-    "hour": "10:30 - 11:00",
-    "stage": "ALTAR",
-    "style": "DEATH METAL",
-    "pays": "DANEMARK",
-    "ts": "1719649800"
-  },
-  {
-    "artist": "perl",
-    "date": "2024/06/29",
-    "hour": "10:30 - 11:00",
-    "stage": "VALLEY",
-    "style": "POST-METAL",
-    "pays": "FRANCE",
-    "ts": "1719649800"
-  },
-  {
-    "artist": "darken",
-    "date": "2024/06/29",
-    "hour": "11:05 - 11:35",
-    "stage": "MAINSTAGE 1",
-    "style": "METAL ALTERNATIF",
-    "pays": "FRANCE",
-    "ts": "1719651900"
-  },
-  {
-    "artist": "eihwar",
-    "date": "2024/06/29",
-    "hour": "11:05 - 11:35",
-    "stage": "TEMPLE",
-    "style": "VIKING WAR TRANCE",
-    "pays": "FRANCE",
-    "ts": "1719651900"
-  },
-  {
-    "artist": "fallen-lillies",
-    "date": "2024/06/29",
-    "hour": "11:05 - 11:35",
-    "stage": "WARZONE",
-    "style": "GARAGE ROCK",
-    "pays": "FRANCE",
-    "ts": "1719651900"
-  },
-  {
-    "artist": "blockheads",
-    "date": "2024/06/29",
+    "artist": "HEXECUTOR",
+    "date": "2025/06/20",
     "hour": "11:40 - 12:10",
-    "stage": "ALTAR",
-    "style": "GRINDCORE",
+    "stage": "Altar",
+    "style": "THRASH METAL / SPEED METAL",
     "pays": "FRANCE",
-    "ts": "1719654000"
+    "id": "hexecutor",
+    "ts": "1750412400"
   },
   {
-    "artist": "konvent",
-    "date": "2024/06/29",
-    "hour": "11:40 - 12:10",
-    "stage": "VALLEY",
-    "style": "DOOM / DEATH METAL",
-    "pays": "DANEMARK",
-    "ts": "1719654000"
-  },
-  {
-    "artist": "sumerlands",
-    "date": "2024/06/29",
-    "hour": "11:40 - 12:10",
-    "stage": "MAINSTAGE 2",
-    "style": "HEAVY METAL",
-    "pays": "USA",
-    "ts": "1719654000"
-  },
-  {
-    "artist": "alien-weaponry",
-    "date": "2024/06/29",
+    "artist": "BELORE",
+    "date": "2025/06/20",
     "hour": "12:15 - 12:45",
-    "stage": "MAINSTAGE 1",
-    "style": "THRASH METAL",
-    "pays": "NOUVELLE-ZELANDE",
-    "ts": "1719656100"
+    "stage": "Temple",
+    "style": "BLACK METAL EPIQUE",
+    "pays": "FRANCE",
+    "id": "belore",
+    "ts": "1750414500"
   },
   {
-    "artist": "the-dead-krazukies",
-    "date": "2024/06/29",
+    "artist": "MIKE MCCOLGAN AND THE BOMB SQUAD",
+    "date": "2025/06/20",
     "hour": "12:15 - 12:45",
-    "stage": "WARZONE",
+    "stage": "Warzone",
     "style": "PUNK ROCK",
-    "pays": "FRANCE",
-    "ts": "1719656100"
+    "pays": "USA",
+    "id": "mike-mccolgan-and-the-bomb-squad",
+    "ts": "1750414500"
   },
   {
-    "artist": "uuhai",
-    "date": "2024/06/29",
+    "artist": "VOWWS",
+    "date": "2025/06/20",
     "hour": "12:15 - 12:45",
-    "stage": "TEMPLE",
-    "style": "FOLK ROCK",
-    "pays": "MONGOLIE",
-    "ts": "1719656100"
-  },
-  {
-    "artist": "eternal-champion",
-    "date": "2024/06/29",
-    "hour": "12:50 - 13:30",
-    "stage": "MAINSTAGE 2",
-    "style": "HEAVY METAL",
-    "pays": "USA",
-    "ts": "1719658200"
-  },
-  {
-    "artist": "kronos",
-    "date": "2024/06/29",
-    "hour": "12:50 - 13:30",
-    "stage": "ALTAR",
-    "style": "BRUTAL DEATH METAL",
-    "pays": "FRANCE",
-    "ts": "1719658200"
-  },
-  {
-    "artist": "spotlights",
-    "date": "2024/06/29",
-    "hour": "12:50 - 13:30",
-    "stage": "VALLEY",
-    "style": "DOOMGAZE",
-    "pays": "USA",
-    "ts": "1719658200"
-  },
-  {
-    "artist": "anvil",
-    "date": "2024/06/29",
-    "hour": "13:35 - 14:15",
-    "stage": "MAINSTAGE 1",
-    "style": "THRASH METAL",
-    "pays": "CANADA",
-    "ts": "1719660900"
-  },
-  {
-    "artist": "hrafngrimr",
-    "date": "2024/06/29",
-    "hour": "13:35 - 14:15",
-    "stage": "TEMPLE",
-    "style": "FOLK NORDIQUE",
-    "pays": "FRANCE",
-    "ts": "1719660900"
-  },
-  {
-    "artist": "total-chaos",
-    "date": "2024/06/29",
-    "hour": "13:35 - 14:15",
-    "stage": "WARZONE",
-    "style": "STREET PUNK",
-    "pays": "USA",
-    "ts": "1719660900"
-  },
-  {
-    "artist": "oxbow",
-    "date": "2024/06/29",
-    "hour": "14:20 - 15:05",
-    "stage": "VALLEY",
-    "style": "NOISE",
-    "pays": "USA",
-    "ts": "1719663600"
-  },
-  {
-    "artist": "rhapsody-of-fire",
-    "date": "2024/06/29",
-    "hour": "14:20 - 15:05",
-    "stage": "MAINSTAGE 2",
-    "style": "POWER METAL SYMPHONIQUE",
-    "pays": "ITALIE",
-    "ts": "1719663600"
-  },
-  {
-    "artist": "sanguisugabogg",
-    "date": "2024/06/29",
-    "hour": "14:20 - 15:05",
-    "stage": "ALTAR",
-    "style": "DEATH METAL",
-    "pays": "USA",
-    "ts": "1719663600"
-  },
-  {
-    "artist": "black-stone-cherry",
-    "date": "2024/06/29",
-    "hour": "15:10 - 15:55",
-    "stage": "MAINSTAGE 1",
-    "style": "HARD ROCK",
-    "pays": "USA",
-    "ts": "1719666600"
-  },
-  {
-    "artist": "the-casualties",
-    "date": "2024/06/29",
-    "hour": "15:10 - 15:55",
-    "stage": "WARZONE",
-    "style": "STREET PUNK",
-    "pays": "USA",
-    "ts": "1719666600"
-  },
-  {
-    "artist": "wayfarer",
-    "date": "2024/06/29",
-    "hour": "15:10 - 15:55",
-    "stage": "TEMPLE",
-    "style": "BLACK METAL ATMOSPHERIQUE",
-    "pays": "USA",
-    "ts": "1719666600"
-  },
-  {
-    "artist": "brutus",
-    "date": "2024/06/29",
-    "hour": "16:00 - 16:45",
-    "stage": "VALLEY",
-    "style": "POST-HARDCORE",
-    "pays": "BELGIQUE",
-    "ts": "1719669600"
-  },
-  {
-    "artist": "legion-of-the-damned",
-    "date": "2024/06/29",
-    "hour": "16:00 - 16:45",
-    "stage": "ALTAR",
-    "style": "THRASH METAL",
-    "pays": "PAYS-BAS",
-    "ts": "1719669600"
-  },
-  {
-    "artist": "stratovarius",
-    "date": "2024/06/29",
-    "hour": "16:00 - 16:45",
-    "stage": "MAINSTAGE 2",
-    "style": "POWER METAL SYMPHONIQUE",
-    "pays": "FINLANDE",
-    "ts": "1719669600"
-  },
-  {
-    "artist": "8-6-crew",
-    "date": "2024/06/29",
-    "hour": "16:50 - 17:40",
-    "stage": "WARZONE",
-    "style": "SKINHEAD REGGAE",
-    "pays": "FRANCE",
-    "ts": "1719672600"
-  },
-  {
-    "artist": "mammoth-wvh",
-    "date": "2024/06/29",
-    "hour": "16:50 - 17:35",
-    "stage": "MAINSTAGE 1",
-    "style": "HEAVY ROCK",
-    "pays": "USA",
-    "ts": "1719672600"
-  },
-  {
-    "artist": "skalmold",
-    "date": "2024/06/29",
-    "hour": "16:50 - 17:40",
-    "stage": "TEMPLE",
-    "style": "FOLK METAL",
-    "pays": "ISLANDE",
-    "ts": "1719672600"
-  },
-  {
-    "artist": "yngwie-malmsteen",
-    "date": "2024/06/29",
-    "hour": "17:40 - 18:25",
-    "stage": "MAINSTAGE 2",
-    "style": "METAL NEO-CLASSIQUE",
-    "pays": "SUEDE",
-    "ts": "1719675600"
-  },
-  {
-    "artist": "kvelertak",
-    "date": "2024/06/29",
-    "hour": "17:45 - 18:35",
-    "stage": "VALLEY",
-    "style": "BLACK 'N'ROLL",
-    "pays": "NORVEGE",
-    "ts": "1719675900"
-  },
-  {
-    "artist": "the-haunted",
-    "date": "2024/06/29",
-    "hour": "17:45 - 18:35",
-    "stage": "ALTAR",
-    "style": "THRASH DEATH",
-    "pays": "SUEDE",
-    "ts": "1719675900"
-  },
-  {
-    "artist": "extreme",
-    "date": "2024/06/29",
-    "hour": "18:30 - 19:30",
-    "stage": "MAINSTAGE 1",
-    "style": "HARD ROCK",
-    "pays": "USA",
-    "ts": "1719678600"
-  },
-  {
-    "artist": "corvus-corax",
-    "date": "2024/06/29",
-    "hour": "18:40 - 19:30",
-    "stage": "TEMPLE",
-    "style": "FOLK MEDIEVAL",
-    "pays": "ALLEMAGNE",
-    "ts": "1719679200"
-  },
-  {
-    "artist": "didier-wampas-psycho-attacks",
-    "date": "2024/06/29",
-    "hour": "18:40 - 19:30",
-    "stage": "WARZONE",
-    "style": "PSYCHOBILLY",
-    "pays": "FRANCE",
-    "ts": "1719679200"
-  },
-  {
-    "artist": "accept",
-    "date": "2024/06/29",
-    "hour": "19:35 - 20:30",
-    "stage": "MAINSTAGE 2",
-    "style": "HEAVY METAL",
-    "pays": "ALLEMAGNE",
-    "ts": "1719682500"
-  },
-  {
-    "artist": "chelsea-wolfe",
-    "date": "2024/06/29",
-    "hour": "19:35 - 20:35",
-    "stage": "VALLEY",
-    "style": "DARK FOLK",
-    "pays": "USA",
-    "ts": "1719682500"
-  },
-  {
-    "artist": "kataklysm",
-    "date": "2024/06/29",
-    "hour": "19:35 - 20:35",
-    "stage": "ALTAR",
-    "style": "DEATH METAL",
-    "pays": "CANADA",
-    "ts": "1719682500"
-  },
-  {
-    "artist": "mass-hysteria",
-    "date": "2024/06/29",
-    "hour": "20:35 - 21:35",
-    "stage": "MAINSTAGE 1",
-    "style": "FUSION",
-    "pays": "FRANCE",
-    "ts": "1719686100"
-  },
-  {
-    "artist": "nekromantix",
-    "date": "2024/06/29",
-    "hour": "20:40 - 21:40",
-    "stage": "WARZONE",
-    "style": "PSYCHOBILLY",
-    "pays": "USA / DANEMARK",
-    "ts": "1719686400"
-  },
-  {
-    "artist": "skyclad",
-    "date": "2024/06/29",
-    "hour": "20:40 - 21:40",
-    "stage": "TEMPLE",
-    "style": "FOLK METAL",
-    "pays": "ROYAUME-UNI",
-    "ts": "1719686400"
-  },
-  {
-    "artist": "bruce-dickinson",
-    "date": "2024/06/29",
-    "hour": "21:40 - 22:40",
-    "stage": "MAINSTAGE 2",
-    "style": "HEAVY METAL",
-    "pays": "ROYAUME-UNI",
-    "ts": "1719690000"
-  },
-  {
-    "artist": "mr-bungle",
-    "date": "2024/06/29",
-    "hour": "21:45 - 22:45",
-    "stage": "VALLEY",
-    "style": "METAL EXPERIMENTAL",
-    "pays": "USA",
-    "ts": "1719690300"
-  },
-  {
-    "artist": "nile",
-    "date": "2024/06/29",
-    "hour": "21:45 - 22:45",
-    "stage": "ALTAR",
-    "style": "DEATH METAL",
-    "pays": "USA",
-    "ts": "1719690300"
-  },
-  {
-    "artist": "metallica",
-    "date": "2024/06/29",
-    "hour": "22:45 - 01:00",
-    "stage": "MAINSTAGE 1",
-    "style": "THRASH METAL",
-    "pays": "USA",
-    "ts": "1719693900"
-  },
-  {
-    "artist": "korpiklaani",
-    "date": "2024/06/29",
-    "hour": "22:50 - 23:50",
-    "stage": "TEMPLE",
-    "style": "FOLK METAL",
-    "pays": "FINLANDE",
-    "ts": "1719694200"
-  },
-  {
-    "artist": "the-interrupters",
-    "date": "2024/06/29",
-    "hour": "22:50 - 23:50",
-    "stage": "WARZONE",
-    "style": "SKA PUNK",
-    "pays": "USA",
-    "ts": "1719694200"
-  },
-  {
-    "artist": "dismember",
-    "date": "2024/06/29",
-    "hour": "23:55 - 00:55",
-    "stage": "ALTAR",
-    "style": "DEATH METAL",
-    "pays": "SUEDE",
-    "ts": "1719698100"
-  },
-  {
-    "artist": "julie-christmas",
-    "date": "2024/06/29",
-    "hour": "23:55 - 00:55",
-    "stage": "VALLEY",
-    "style": "POST METAL / NOISE / SLUDGE",
-    "pays": "USA",
-    "ts": "1719698100"
-  },
-  {
-    "artist": "eivor",
-    "date": "2024/06/30",
-    "hour": "01:00 - 02:00",
-    "stage": "TEMPLE",
-    "style": "FOLK",
-    "pays": "ILES FEROES",
-    "ts": "1719702000"
-  },
-  {
-    "artist": "suicidal-tendencies",
-    "date": "2024/06/30",
-    "hour": "01:00 - 02:00",
-    "stage": "WARZONE",
-    "style": "CROSSOVER",
-    "pays": "USA",
-    "ts": "1719702000"
-  },
-  {
-    "artist": "saxon",
-    "date": "2024/06/30",
-    "hour": "01:05 - 02:05",
-    "stage": "MAINSTAGE 2",
-    "style": "HEAVY METAL",
-    "pays": "ROYAUME-UNI",
-    "ts": "1719702300"
-  },
-  {
-    "artist": "bad-situation",
-    "date": "2024/06/30",
-    "hour": "10:30 - 11:00",
-    "stage": "MAINSTAGE 2",
-    "style": "METAL ALTERNATIF",
-    "pays": "FRANCE",
-    "ts": "1719736200"
-  },
-  {
-    "artist": "deficiency",
-    "date": "2024/06/30",
-    "hour": "10:30 - 11:00",
-    "stage": "ALTAR",
-    "style": "THRASH METAL",
-    "pays": "FRANCE",
-    "ts": "1719736200"
-  },
-  {
-    "artist": "pencey-sloe",
-    "date": "2024/06/30",
-    "hour": "10:30 - 11:00",
-    "stage": "VALLEY",
-    "style": "DREAMGAZE",
-    "pays": "FRANCE",
-    "ts": "1719736200"
-  },
-  {
-    "artist": "cosmic-psychos",
-    "date": "2024/06/30",
-    "hour": "11:05 - 11:35",
-    "stage": "MAINSTAGE 1",
-    "style": "GARAGE ROCK",
+    "stage": "Mainstage 1",
+    "style": "DEATH-POP",
     "pays": "AUSTRALIE",
-    "ts": "1719738300"
+    "id": "vowws",
+    "ts": "1750414500"
   },
   {
-    "artist": "sang-froid",
-    "date": "2024/06/30",
-    "hour": "11:05 - 11:35",
-    "stage": "TEMPLE",
-    "style": "COLD WAVE",
-    "pays": "FRANCE",
-    "ts": "1719738300"
-  },
-  {
-    "artist": "sorcerer",
-    "date": "2024/06/30",
-    "hour": "11:05 - 11:35",
-    "stage": "WARZONE",
-    "style": "HARDCORE",
-    "pays": "FRANCE",
-    "ts": "1719738300"
-  },
-  {
-    "artist": "destinity",
-    "date": "2024/06/30",
-    "hour": "11:40 - 12:10",
-    "stage": "ALTAR",
-    "style": "DEATH METAL MELODIQUE",
-    "pays": "FRANCE",
-    "ts": "1719740400"
-  },
-  {
-    "artist": "heriot",
-    "date": "2024/06/30",
-    "hour": "11:40 - 12:10",
-    "stage": "VALLEY",
-    "style": "HARDCORE / DEATH / SLUDGE",
-    "pays": "ROYAUME-UNI",
-    "ts": "1719740400"
-  },
-  {
-    "artist": "hotwax",
-    "date": "2024/06/30",
-    "hour": "11:40 - 12:20",
-    "stage": "MAINSTAGE 2",
-    "style": "ROCK ALTERNATIF",
-    "pays": "ROYAUME-UNI",
-    "ts": "1719740400"
-  },
-  {
-    "artist": "gel",
-    "date": "2024/06/30",
-    "hour": "12:15 - 12:45",
-    "stage": "WARZONE",
-    "style": "HARDCORE",
-    "pays": "USA",
-    "ts": "1719742500"
-  },
-  {
-    "artist": "pensees-nocturnes",
-    "date": "2024/06/30",
-    "hour": "12:15 - 12:45",
-    "stage": "TEMPLE",
-    "style": "BLACK METAL DÉGLINGUÉ",
-    "pays": "FRANCE",
-    "ts": "1719742500"
-  },
-  {
-    "artist": "high-on-fire",
-    "date": "2024/06/30",
-    "hour": "12:25 - 13:05",
-    "stage": "MAINSTAGE 1",
-    "style": "HEAVY STONER / THRASH",
-    "pays": "USA",
-    "ts": "1719743100"
-  },
-  {
-    "artist": "brand-of-sacrifice",
-    "date": "2024/06/30",
+    "artist": "AMIRA ELFEKY",
+    "date": "2025/06/20",
     "hour": "12:50 - 13:30",
-    "stage": "ALTAR",
-    "style": "BRUTAL DEATHCORE",
-    "pays": "CANADA",
-    "ts": "1719744600"
-  },
-  {
-    "artist": "dool",
-    "date": "2024/06/30",
-    "hour": "12:50 - 13:30",
-    "stage": "VALLEY",
-    "style": "OCCULT DARK ROCK",
-    "pays": "PAYS-BAS",
-    "ts": "1719744600"
-  },
-  {
-    "artist": "neck-deep",
-    "date": "2024/06/30",
-    "hour": "13:10 - 13:50",
-    "stage": "MAINSTAGE 2",
-    "style": "POP PUNK",
-    "pays": "ROYAUME-UNI",
-    "ts": "1719745800"
-  },
-  {
-    "artist": "scowl",
-    "date": "2024/06/30",
-    "hour": "13:35 - 14:15",
-    "stage": "WARZONE",
-    "style": "HARDCORE",
+    "stage": "Mainstage 2",
+    "style": "METAL ALTERNATIF",
     "pays": "USA",
-    "ts": "1719747300"
+    "id": "amira-elfeky",
+    "ts": "1750416600"
   },
   {
-    "artist": "thron",
-    "date": "2024/06/30",
+    "artist": "DIRTY SOUND MAGNET",
+    "date": "2025/06/20",
+    "hour": "12:50 - 13:30",
+    "stage": "Valley",
+    "style": "ROCK PSYCHEDELIQUE ",
+    "pays": "SUISSE",
+    "id": "dirty-sound-magnet",
+    "ts": "1750416600"
+  },
+  {
+    "artist": "THE NIGHT ETERNAL",
+    "date": "2025/06/20",
+    "hour": "12:50 - 13:30",
+    "stage": "Altar",
+    "style": "HEAVY METAL",
+    "pays": "ALLEMAGNE",
+    "id": "the-night-eternal",
+    "ts": "1750416600"
+  },
+  {
+    "artist": "FRUSTRATION",
+    "date": "2025/06/20",
     "hour": "13:35 - 14:15",
-    "stage": "TEMPLE",
-    "style": "BLACKENED DEATH METAL",
-    "pays": "ALLEMAGNE",
-    "ts": "1719747300"
-  },
-  {
-    "artist": "nova-twins",
-    "date": "2024/06/30",
-    "hour": "13:55 - 14:35",
-    "stage": "MAINSTAGE 1",
-    "style": "URBAN PUNK",
-    "pays": "ROYAUME-UNI",
-    "ts": "1719748500"
-  },
-  {
-    "artist": "caliban",
-    "date": "2024/06/30",
-    "hour": "14:20 - 15:05",
-    "stage": "ALTAR",
-    "style": "METALCORE",
-    "pays": "ALLEMAGNE",
-    "ts": "1719750000"
-  },
-  {
-    "artist": "rendez-vous",
-    "date": "2024/06/30",
-    "hour": "14:20 - 15:05",
-    "stage": "VALLEY",
+    "stage": "Warzone",
     "style": "POST PUNK",
     "pays": "FRANCE",
-    "ts": "1719750000"
+    "id": "frustration",
+    "ts": "1750419300"
   },
   {
-    "artist": "simple-plan",
-    "date": "2024/06/30",
-    "hour": "14:40 - 15:25",
-    "stage": "MAINSTAGE 2",
-    "style": "POP PUNK",
+    "artist": "LAST TRAIN",
+    "date": "2025/06/20",
+    "hour": "13:35 - 14:15",
+    "stage": "Mainstage 1",
+    "style": "ROCK",
+    "pays": "FRANCE",
+    "id": "last-train",
+    "ts": "1750419300"
+  },
+  {
+    "artist": "SKILTRON",
+    "date": "2025/06/20",
+    "hour": "13:35 - 14:15",
+    "stage": "Temple",
+    "style": "FOLK METAL CELTIQUE",
+    "pays": "ARGENTINE ",
+    "id": "skiltron",
+    "ts": "1750419300"
+  },
+  {
+    "artist": "FUTURE PALACE",
+    "date": "2025/06/20",
+    "hour": "14:20 - 15:00",
+    "stage": "Mainstage 2",
+    "style": "POST HARDCORE",
+    "pays": "ALLEMAGNE",
+    "id": "future-palace",
+    "ts": "1750422000"
+  },
+  {
+    "artist": "BURNING WITCHES",
+    "date": "2025/06/20",
+    "hour": "14:20 - 15:05",
+    "stage": "Altar",
+    "style": "HEAVY METAL",
+    "pays": "SUISSE",
+    "id": "burning-witches",
+    "ts": "1750422000"
+  },
+  {
+    "artist": "SANDRIDER",
+    "date": "2025/06/20",
+    "hour": "14:20 - 15:05",
+    "stage": "Valley",
+    "style": "STONER",
+    "pays": "USA",
+    "id": "sandrider",
+    "ts": "1750422000"
+  },
+  {
+    "artist": "THE WARNING",
+    "date": "2025/06/20",
+    "hour": "15:05 - 15:45",
+    "stage": "Mainstage 1",
+    "style": "HARD ROCK",
+    "pays": "MEXIQUE",
+    "id": "the-warning",
+    "ts": "1750424700"
+  },
+  {
+    "artist": "LIONS LAW",
+    "date": "2025/06/20",
+    "hour": "15:10 - 15:55",
+    "stage": "Warzone",
+    "style": "OI",
+    "pays": "FRANCE",
+    "id": "lion-s-law",
+    "ts": "1750425000"
+  },
+  {
+    "artist": "LUC ARBOGAST",
+    "date": "2025/06/20",
+    "hour": "15:10 - 15:55",
+    "stage": "Temple",
+    "style": "FOLK / MEDIEVAL ROCK",
+    "pays": "FRANCE",
+    "id": "luc-arbogast",
+    "ts": "1750425000"
+  },
+  {
+    "artist": "KITTIE",
+    "date": "2025/06/20",
+    "hour": "15:50 - 16:35",
+    "stage": "Mainstage 2",
+    "style": "NU METAL",
     "pays": "CANADA",
-    "ts": "1719751200"
+    "id": "kittie",
+    "ts": "1750427400"
   },
   {
-    "artist": "drug-church",
-    "date": "2024/06/30",
-    "hour": "15:10 - 15:55",
-    "stage": "WARZONE",
-    "style": "POST HARDCORE / GRUNGE",
-    "pays": "USA",
-    "ts": "1719753000"
-  },
-  {
-    "artist": "yoth-iria",
-    "date": "2024/06/30",
-    "hour": "15:10 - 15:55",
-    "stage": "TEMPLE",
-    "style": "BLACK METAL",
-    "pays": "GRECE",
-    "ts": "1719753000"
-  },
-  {
-    "artist": "blues-pills",
-    "date": "2024/06/30",
-    "hour": "15:30 - 16:20",
-    "stage": "MAINSTAGE 1",
-    "style": "BLUES ROCK",
-    "pays": "USA / SUÈDE",
-    "ts": "1719754200"
-  },
-  {
-    "artist": "shadow-of-intent",
-    "date": "2024/06/30",
+    "artist": "ÅRABROT RITE OF DIONYSUS",
+    "date": "2025/06/20",
     "hour": "16:00 - 16:45",
-    "stage": "ALTAR",
-    "style": "DEATHCORE SYMPHONIQUE",
-    "pays": "USA",
-    "ts": "1719756000"
+    "stage": "Valley",
+    "style": "NOISE",
+    "pays": "NORVÈGE",
+    "id": "arabrot-rite-of-dionysus",
+    "ts": "1750428000"
   },
   {
-    "artist": "therapy",
-    "date": "2024/06/30",
+    "artist": "NERVOSA",
+    "date": "2025/06/20",
     "hour": "16:00 - 16:45",
-    "stage": "VALLEY",
-    "style": "METAL ALTERNATIF",
+    "stage": "Altar",
+    "style": "THRASH METAL / DEATH METAL",
+    "pays": "BRESIL",
+    "id": "nervosa",
+    "ts": "1750428000"
+  },
+  {
+    "artist": "ROYAL REPUBLIC",
+    "date": "2025/06/20",
+    "hour": "16:40 - 17:30",
+    "stage": "Mainstage 1",
+    "style": "ROCKN ROLL",
+    "pays": "SUÈDE",
+    "id": "royal-republic",
+    "ts": "1750430400"
+  },
+  {
+    "artist": "LEFTÖVER CRACK",
+    "date": "2025/06/20",
+    "hour": "16:50 - 17:40",
+    "stage": "Warzone",
+    "style": "SKA PUNK",
+    "pays": "USA",
+    "id": "leftover-crack",
+    "ts": "1750431000"
+  },
+  {
+    "artist": "MÅNEGARM",
+    "date": "2025/06/20",
+    "hour": "16:50 - 17:40",
+    "stage": "Temple",
+    "style": "FOLK / BLACK METAL",
+    "pays": "SUÈDE",
+    "id": "manegarm",
+    "ts": "1750431000"
+  },
+  {
+    "artist": "SPIRITBOX",
+    "date": "2025/06/20",
+    "hour": "17:35 - 18:30",
+    "stage": "Mainstage 2",
+    "style": "METALCORE / DJENT",
+    "pays": "CANADA",
+    "id": "spiritbox",
+    "ts": "1750433700"
+  },
+  {
+    "artist": "3 Inches of Blood",
+    "date": "2025/06/20",
+    "hour": "17:45 - 18:35",
+    "stage": "Altar",
+    "style": "THRASH / SPEED METAL ",
+    "pays": "CANADA",
+    "id": "3-inches-of-blood",
+    "ts": "1750434300"
+  },
+  {
+    "artist": "DOPETHRONE",
+    "date": "2025/06/20",
+    "hour": "17:45 - 18:35",
+    "stage": "Valley",
+    "style": "DOOM / SLUDGE",
+    "pays": "CANADA",
+    "id": "dopethrone",
+    "ts": "1750434300"
+  },
+  {
+    "artist": "THE CULT",
+    "date": "2025/06/20",
+    "hour": "18:35 - 19:25",
+    "stage": "Mainstage 1",
+    "style": "HARD ROCK",
+    "pays": "USA",
+    "id": "the-cult",
+    "ts": "1750437300"
+  },
+  {
+    "artist": "SOWULO",
+    "date": "2025/06/20",
+    "hour": "18:40 - 19:30",
+    "stage": "Temple",
+    "style": "PAGAN / FOLK",
+    "pays": "PAYS-BAS",
+    "id": "sowulo",
+    "ts": "1750437600"
+  },
+  {
+    "artist": "THE REAL MCKENZIES",
+    "date": "2025/06/20",
+    "hour": "18:40 - 19:30",
+    "stage": "Warzone",
+    "style": "PUNK CELTIQUE",
+    "pays": "CANADA",
+    "id": "the-real-mckenzies",
+    "ts": "1750437600"
+  },
+  {
+    "artist": "EPICA",
+    "date": "2025/06/20",
+    "hour": "19:30 - 20:30",
+    "stage": "Mainstage 2",
+    "style": "METAL SYMPHONIQUE",
+    "pays": "PAYS-BAS",
+    "id": "epica",
+    "ts": "1750440600"
+  },
+  {
+    "artist": "CRIPPLED BLACK PHOENIX",
+    "date": "2025/06/20",
+    "hour": "19:35 - 20:35",
+    "stage": "Valley",
+    "style": "POST-ROCK",
     "pays": "ROYAUME-UNI",
-    "ts": "1719756000"
+    "id": "crippled-black-phoenix",
+    "ts": "1750440900"
   },
   {
-    "artist": "frank-carter-the-rattlesnakes",
-    "date": "2024/06/30",
-    "hour": "16:25 - 17:15",
-    "stage": "MAINSTAGE 2",
+    "artist": "TANKARD",
+    "date": "2025/06/20",
+    "hour": "19:35 - 20:35",
+    "stage": "Altar",
+    "style": "THRASH METAL",
+    "pays": "ALLEMAGNE",
+    "id": "tankard",
+    "ts": "1750440900"
+  },
+  {
+    "artist": "THE HU",
+    "date": "2025/06/20",
+    "hour": "20:35 - 21:40",
+    "stage": "Mainstage 1",
+    "style": "HUNNU ROCK",
+    "pays": "MONGOLIE",
+    "id": "the-hu",
+    "ts": "1750444500"
+  },
+  {
+    "artist": "LES GARÇONS BOUCHERS",
+    "date": "2025/06/20",
+    "hour": "20:40 - 21:40",
+    "stage": "Warzone",
+    "style": "ROCK / PUNK / JAVA",
+    "pays": "FRANCE",
+    "id": "les-garcons-bouchers",
+    "ts": "1750444800"
+  },
+  {
+    "artist": "TROLLFEST",
+    "date": "2025/06/20",
+    "hour": "20:40 - 21:40",
+    "stage": "Temple",
+    "style": "FOLK METAL",
+    "pays": "NORVEGE",
+    "id": "trollfest",
+    "ts": "1750444800"
+  },
+  {
+    "artist": "EXODUS",
+    "date": "2025/06/20",
+    "hour": "21:45 - 22:45",
+    "stage": "Altar",
+    "style": "THRASH METAL",
+    "pays": "USA",
+    "id": "exodus",
+    "ts": "1750448700"
+  },
+  {
+    "artist": "PENTAGRAM",
+    "date": "2025/06/20",
+    "hour": "21:45 - 22:45",
+    "stage": "Valley",
+    "style": "DOOM",
+    "pays": "USA",
+    "id": "pentagram",
+    "ts": "1750448700"
+  },
+  {
+    "artist": "WITHIN TEMPTATION",
+    "date": "2025/06/20",
+    "hour": "21:45 - 23:00",
+    "stage": "Mainstage 2",
+    "style": "METAL SYMPHONIQUE",
+    "pays": "PAYS-BAS",
+    "id": "within-temptation",
+    "ts": "1750448700"
+  },
+  {
+    "artist": "THE DAMNED",
+    "date": "2025/06/20",
+    "hour": "22:50 - 23:50",
+    "stage": "Warzone",
     "style": "PUNK",
     "pays": "ROYAUME-UNI",
-    "ts": "1719757500"
+    "id": "the-damned",
+    "ts": "1750452600"
   },
   {
-    "artist": "show-me-the-body",
-    "date": "2024/06/30",
-    "hour": "16:50 - 17:40",
-    "stage": "WARZONE",
-    "style": "NOISY HARDCORE",
-    "pays": "USA",
-    "ts": "1719759000"
+    "artist": "WIND ROSE",
+    "date": "2025/06/20",
+    "hour": "22:50 - 23:50",
+    "stage": "Temple",
+    "style": "FOLK / POWER METAL ",
+    "pays": "ITALIE",
+    "id": "wind-rose",
+    "ts": "1750452600"
   },
   {
-    "artist": "wiegedood",
-    "date": "2024/06/30",
-    "hour": "16:50 - 17:40",
-    "stage": "TEMPLE",
-    "style": "BLACK METAL ATMOSPHERIQUE",
-    "pays": "BELGIQUE",
-    "ts": "1719759000"
-  },
-  {
-    "artist": "royal-blood",
-    "date": "2024/06/30",
-    "hour": "17:20 - 18:15",
-    "stage": "MAINSTAGE 1",
-    "style": "ROCK / HARD ROCK",
+    "artist": "MUSE",
+    "date": "2025/06/20",
+    "hour": "23:05 - 00:35",
+    "stage": "Mainstage 1",
+    "style": "ROCK",
     "pays": "ROYAUME-UNI",
-    "ts": "1719760800"
+    "id": "muse",
+    "ts": "1750453500"
   },
   {
-    "artist": "sierra",
-    "date": "2024/06/30",
-    "hour": "17:45 - 18:35",
-    "stage": "VALLEY",
-    "style": "SYNTHWAVE",
+    "artist": "HERMANO",
+    "date": "2025/06/20",
+    "hour": "23:55 - 00:55",
+    "stage": "Valley",
+    "style": "STONER",
+    "pays": "USA",
+    "id": "hermano",
+    "ts": "1750456500"
+  },
+  {
+    "artist": "HEILUNG",
+    "date": "2025/06/20",
+    "hour": "00:40 - 02:10",
+    "stage": "Mainstage 2",
+    "style": "NEO FOLK",
+    "pays": "DANEMARK",
+    "id": "heilung",
+    "ts": "1750459200"
+  },
+  {
+    "artist": "IN EXTREMO",
+    "date": "2025/06/20",
+    "hour": "01:00 - 02:00",
+    "stage": "Temple",
+    "style": "FOLK METAL",
+    "pays": "ALLEMAGNE",
+    "id": "in-extremo",
+    "ts": "1750460400"
+  },
+  {
+    "artist": "SEX PISTOLS AND FRANK CARTER",
+    "date": "2025/06/20",
+    "hour": "01:00 - 02:10",
+    "stage": "Warzone",
+    "style": "PUNK",
+    "pays": "ROYAUME-UNI",
+    "id": "sex-pistols-and-frank-carter",
+    "ts": "1750460400"
+  },
+  {
+    "artist": "ADX",
+    "date": "2025/06/21",
+    "hour": "10:30 - 11:00",
+    "stage": "Mainstage 2",
+    "style": "SPEED METAL",
     "pays": "FRANCE",
-    "ts": "1719762300"
+    "id": "adx",
+    "ts": "1750494600"
   },
   {
-    "artist": "the-black-dahlia-murder",
-    "date": "2024/06/30",
-    "hour": "17:45 - 18:35",
-    "stage": "ALTAR",
-    "style": "DEATH METAL",
-    "pays": "USA",
-    "ts": "1719762300"
+    "artist": "HOWARD",
+    "date": "2025/06/21",
+    "hour": "10:30 - 11:00",
+    "stage": "Valley",
+    "style": "FUZZ ROCK",
+    "pays": "FRANCE",
+    "id": "howard",
+    "ts": "1750494600"
   },
   {
-    "artist": "corey-taylor",
-    "date": "2024/06/30",
-    "hour": "18:20 - 19:20",
-    "stage": "MAINSTAGE 2",
-    "style": "METAL ALTERNATIF",
-    "pays": "USA",
-    "ts": "1719764400"
+    "artist": "VESTIGE",
+    "date": "2025/06/21",
+    "hour": "10:30 - 11:00",
+    "stage": "Altar",
+    "style": "METAL PROGRESSIF / SHOEGAZE",
+    "pays": "FRANCE",
+    "id": "vestige",
+    "ts": "1750494600"
   },
   {
-    "artist": "batushka",
-    "date": "2024/06/30",
-    "hour": "18:40 - 19:40",
-    "stage": "TEMPLE",
-    "style": "BLACK METAL",
-    "pays": "POLOGNE",
-    "ts": "1719765600"
-  },
-  {
-    "artist": "high-vis",
-    "date": "2024/06/30",
-    "hour": "18:40 - 19:40",
-    "stage": "WARZONE",
-    "style": "HARDCORE / POST PUNK",
+    "artist": "LAST HOUNDS",
+    "date": "2025/06/21",
+    "hour": "11:05 - 11:35",
+    "stage": "Warzone",
+    "style": "PUNK HARDCORE",
     "pays": "ROYAUME-UNI",
-    "ts": "1719765600"
+    "id": "last-hounds",
+    "ts": "1750496700"
   },
   {
-    "artist": "queens-of-the-stone-age",
-    "date": "2024/06/30",
-    "hour": "19:25 - 20:40",
-    "stage": "MAINSTAGE 1",
-    "style": "STONER / ROCK",
+    "artist": "LUCIE SUE",
+    "date": "2025/06/21",
+    "hour": "11:05 - 11:35",
+    "stage": "Mainstage 1",
+    "style": "ROCK",
+    "pays": "FRANCE",
+    "id": "lucie-sue",
+    "ts": "1750496700"
+  },
+  {
+    "artist": "LUNAR TOMBFIELDS",
+    "date": "2025/06/21",
+    "hour": "11:05 - 11:35",
+    "stage": "Temple",
+    "style": "BLACK METAL ATMOSPHERIQUE",
+    "pays": "FRANCE",
+    "id": "lunar-tombfields",
+    "ts": "1750496700"
+  },
+  {
+    "artist": "MAJESTICA",
+    "date": "2025/06/21",
+    "hour": "11:40 - 12:10",
+    "stage": "Mainstage 2",
+    "style": "POWER METAL SYMPHONIQUE",
+    "pays": "SUÈDE",
+    "id": "majestica",
+    "ts": "1750498800"
+  },
+  {
+    "artist": "SYK",
+    "date": "2025/06/21",
+    "hour": "11:40 - 12:10",
+    "stage": "Altar",
+    "style": "DEATH METAL PROGRESSIF",
+    "pays": "ITALIE",
+    "id": "syk",
+    "ts": "1750498800"
+  },
+  {
+    "artist": "THE MIDNIGHT GHOST TRAIN",
+    "date": "2025/06/21",
+    "hour": "11:40 - 12:10",
+    "stage": "Valley",
+    "style": "STONER / HARD ROCK",
     "pays": "USA",
-    "ts": "1719768300"
+    "id": "the-midnight-ghost-train",
+    "ts": "1750498800"
   },
   {
-    "artist": "suffocation",
-    "date": "2024/06/30",
-    "hour": "19:45 - 20:45",
-    "stage": "ALTAR",
-    "style": "BRUTAL DEATH METAL",
+    "artist": "AUDREY HORNE",
+    "date": "2025/06/21",
+    "hour": "12:15 - 12:45",
+    "stage": "Mainstage 1",
+    "style": "HARD ROCK",
+    "pays": "NORVÈGE",
+    "id": "audrey-horne",
+    "ts": "1750500900"
+  },
+  {
+    "artist": "PEST CONTROL",
+    "date": "2025/06/21",
+    "hour": "12:15 - 12:45",
+    "stage": "Warzone",
+    "style": "CROSSOVER THRASH",
+    "pays": "ROYAUME-UNI",
+    "id": "pest-control",
+    "ts": "1750500900"
+  },
+  {
+    "artist": "WITCH CLUB SATAN",
+    "date": "2025/06/21",
+    "hour": "12:15 - 12:45",
+    "stage": "Temple",
+    "style": "BLACK METAL",
+    "pays": "NORVEGE",
+    "id": "witch-club-satan",
+    "ts": "1750500900"
+  },
+  {
+    "artist": "MARS RED SKY",
+    "date": "2025/06/21",
+    "hour": "12:50 - 13:30",
+    "stage": "Valley",
+    "style": "STONER PSYCHEDELIQUE",
+    "pays": "FRANCE",
+    "id": "mars-red-sky",
+    "ts": "1750503000"
+  },
+  {
+    "artist": "ROSS THE BOSS",
+    "date": "2025/06/21",
+    "hour": "12:50 - 13:30",
+    "stage": "Mainstage 2",
+    "style": "HEAVY METAL",
     "pays": "USA",
-    "ts": "1719769500"
+    "id": "ross-the-boss",
+    "ts": "1750503000"
   },
   {
-    "artist": "TTT-crosses",
-    "date": "2024/06/30",
-    "hour": "19:45 - 20:45",
-    "stage": "VALLEY",
-    "style": "ELECTRO ROCK",
-    "pays": "USA",
-    "ts": "1719769500"
+    "artist": "URNE",
+    "date": "2025/06/21",
+    "hour": "12:50 - 13:30",
+    "stage": "Altar",
+    "style": "METAL PROGRESSIF",
+    "pays": "ROYAUME-UNI",
+    "id": "urne-1",
+    "ts": "1750503000"
   },
   {
-    "artist": "the-offspring",
-    "date": "2024/06/30",
-    "hour": "20:45 - 21:55",
-    "stage": "MAINSTAGE 2",
-    "style": "PUNK ROCK",
-    "pays": "USA",
-    "ts": "1719773100"
-  },
-  {
-    "artist": "madball",
-    "date": "2024/06/30",
-    "hour": "20:50 - 21:50",
-    "stage": "WARZONE",
+    "artist": "SPY",
+    "date": "2025/06/21",
+    "hour": "13:35 - 14:15",
+    "stage": "Warzone",
     "style": "HARDCORE",
     "pays": "USA",
-    "ts": "1719773400"
+    "id": "spy",
+    "ts": "1750505700"
   },
   {
-    "artist": "tiamat",
-    "date": "2024/06/30",
-    "hour": "20:50 - 21:50",
-    "stage": "TEMPLE",
-    "style": "METAL GOTHIQUE",
-    "pays": "SUEDE",
-    "ts": "1719773400"
+    "artist": "THE SOUTHERN RIVER BAND",
+    "date": "2025/06/21",
+    "hour": "13:35 - 14:15",
+    "stage": "Mainstage 1",
+    "style": "HARD ROCK",
+    "pays": "AUSTRALIE",
+    "id": "the-southern-river-band",
+    "ts": "1750505700"
   },
   {
-    "artist": "i-am-morbid",
-    "date": "2024/06/30",
-    "hour": "21:55 - 22:55",
-    "stage": "ALTAR",
-    "style": "DEATH METAL",
+    "artist": "TRYGLAV",
+    "date": "2025/06/21",
+    "hour": "13:35 - 14:15",
+    "stage": "Temple",
+    "style": "BLACK METAL MELODIQUE",
+    "pays": "CROATIE",
+    "id": "tryglav",
+    "ts": "1750505700"
+  },
+  {
+    "artist": "FREAK KITCHEN",
+    "date": "2025/06/21",
+    "hour": "14:20 - 15:05",
+    "stage": "Mainstage 2",
+    "style": "HEAVY METAL PROGRESSIF",
+    "pays": "SUÈDE",
+    "id": "freak-kitchen",
+    "ts": "1750508400"
+  },
+  {
+    "artist": "STONED JESUS",
+    "date": "2025/06/21",
+    "hour": "14:20 - 15:05",
+    "stage": "Valley",
+    "style": "STONER / DOOM",
+    "pays": "UKRAINE",
+    "id": "stoned-jesus",
+    "ts": "1750508400"
+  },
+  {
+    "artist": "VULTURE INDUSTRIES",
+    "date": "2025/06/21",
+    "hour": "14:20 - 15:05",
+    "stage": "Altar",
+    "style": "METAL PROGRESSIF",
+    "pays": "NORVÈGE",
+    "id": "vulture-industries",
+    "ts": "1750508400"
+  },
+  {
+    "artist": "AGRICULTURE",
+    "date": "2025/06/21",
+    "hour": "15:10 - 15:55",
+    "stage": "Temple",
+    "style": "BLACKGAZE",
     "pays": "USA",
-    "ts": "1719777300"
+    "id": "agriculture",
+    "ts": "1750511400"
   },
   {
-    "artist": "rival-sons",
-    "date": "2024/06/30",
-    "hour": "21:55 - 22:55",
-    "stage": "VALLEY",
-    "style": "CLASSIC ROCK",
+    "artist": "D-A-D",
+    "date": "2025/06/21",
+    "hour": "15:10 - 15:55",
+    "stage": "Mainstage 1",
+    "style": "HARD ROCK",
+    "pays": "DANEMARK",
+    "id": "d-a-d",
+    "ts": "1750511400"
+  },
+  {
+    "artist": "THE CHISEL",
+    "date": "2025/06/21",
+    "hour": "15:10 - 15:55",
+    "stage": "Warzone",
+    "style": "PUNK / OÏ",
+    "pays": "ROYAUME-UNI",
+    "id": "the-chisel",
+    "ts": "1750511400"
+  },
+  {
+    "artist": "CONAN",
+    "date": "2025/06/21",
+    "hour": "16:00 - 16:45",
+    "stage": "Valley",
+    "style": "DOOM",
+    "pays": "ROYAUME-UNI",
+    "id": "conan",
+    "ts": "1750514400"
+  },
+  {
+    "artist": "PERSEFONE",
+    "date": "2025/06/21",
+    "hour": "16:00 - 16:45",
+    "stage": "Altar",
+    "style": "DEATH METAL PROGRESSIF",
+    "pays": "ANDORRE",
+    "id": "persefone",
+    "ts": "1750514400"
+  },
+  {
+    "artist": "VISIONS OF ATLANTIS",
+    "date": "2025/06/21",
+    "hour": "16:00 - 16:45",
+    "stage": "Mainstage 2",
+    "style": "METAL SYMPHONIQUE",
+    "pays": "AUTRICHE",
+    "id": "visions-of-atlantis",
+    "ts": "1750514400"
+  },
+  {
+    "artist": "MYLES KENNEDY",
+    "date": "2025/06/21",
+    "hour": "16:50 - 17:35",
+    "stage": "Mainstage 1",
+    "style": "HARD ROCK",
     "pays": "USA",
-    "ts": "1719777300"
+    "id": "myles-kennedy",
+    "ts": "1750517400"
   },
   {
-    "artist": "foo-fighters",
-    "date": "2024/06/30",
-    "hour": "22:00 - 00:00",
-    "stage": "MAINSTAGE 1",
+    "artist": "NASTY",
+    "date": "2025/06/21",
+    "hour": "16:50 - 17:40",
+    "stage": "Warzone",
+    "style": "HARDCORE BEATDOWN",
+    "pays": "BELGIQUE",
+    "id": "nasty",
+    "ts": "1750517400"
+  },
+  {
+    "artist": "SPECTRAL WOUND",
+    "date": "2025/06/21",
+    "hour": "16:50 - 17:40",
+    "stage": "Temple",
+    "style": "BLACK METAL",
+    "pays": "CANADA",
+    "id": "spectral-wound",
+    "ts": "1750517400"
+  },
+  {
+    "artist": "BEYOND THE BLACK",
+    "date": "2025/06/21",
+    "hour": "17:40 - 18:25",
+    "stage": "Mainstage 2",
+    "style": "METAL SYMPHONIQUE",
+    "pays": "ALLEMAGNE",
+    "id": "beyond-the-black",
+    "ts": "1750520400"
+  },
+  {
+    "artist": "MY SLEEPING KARMA",
+    "date": "2025/06/21",
+    "hour": "17:45 - 18:35",
+    "stage": "Valley",
+    "style": "ROCK PSYCHEDELIQUE INSTRUMENTAL",
+    "pays": "ALLEMAGNE",
+    "id": "my-sleeping-karma",
+    "ts": "1750520700"
+  },
+  {
+    "artist": "WHEEL",
+    "date": "2025/06/21",
+    "hour": "17:45 - 18:35",
+    "stage": "Altar",
+    "style": "METAL PROGRESSIF",
+    "pays": "FINLANDE",
+    "id": "wheel",
+    "ts": "1750520700"
+  },
+  {
+    "artist": "BLACK COUNTRY COMMUNION",
+    "date": "2025/06/21",
+    "hour": "18:30 - 19:30",
+    "stage": "Mainstage 1",
+    "style": "HARD ROCK",
+    "pays": "USA",
+    "id": "black-country-communion",
+    "ts": "1750523400"
+  },
+  {
+    "artist": "GRIMA",
+    "date": "2025/06/21",
+    "hour": "18:40 - 19:30",
+    "stage": "Temple",
+    "style": "BLACK METAL ATMOSPHERIQUE",
+    "pays": "RUSSIE",
+    "id": "grima",
+    "ts": "1750524000"
+  },
+  {
+    "artist": "STICK TO YOUR GUNS",
+    "date": "2025/06/21",
+    "hour": "18:40 - 19:30",
+    "stage": "Warzone",
+    "style": "HARDCORE / PUNK ROCK",
+    "pays": "USA",
+    "id": "stick-to-your-guns",
+    "ts": "1750524000"
+  },
+  {
+    "artist": "SAVATAGE",
+    "date": "2025/06/21",
+    "hour": "19:35 - 20:30",
+    "stage": "Mainstage 2",
+    "style": "HEAVY METAL",
+    "pays": "USA",
+    "id": "savatage",
+    "ts": "1750527300"
+  },
+  {
+    "artist": "THE OCEAN",
+    "date": "2025/06/21",
+    "hour": "19:35 - 20:35",
+    "stage": "Altar",
+    "style": "POST METAL PROGRESSIF",
+    "pays": "ALLEMAGNE",
+    "id": "the-ocean",
+    "ts": "1750527300"
+  },
+  {
+    "artist": "WINDHAND",
+    "date": "2025/06/21",
+    "hour": "19:35 - 20:35",
+    "stage": "Valley",
+    "style": "DOOM",
+    "pays": "USA",
+    "id": "windhand",
+    "ts": "1750527300"
+  },
+  {
+    "artist": "SATCHVAI BAND : JOE SATRIANI AND STEVE VAI",
+    "date": "2025/06/21",
+    "hour": "20:35 - 21:45",
+    "stage": "Mainstage 1",
+    "style": "HARD ROCK",
+    "pays": "USA",
+    "id": "satchvai-band-joe-satriani-and-steve-vai",
+    "ts": "1750530900"
+  },
+  {
+    "artist": "DEAFHEAVEN",
+    "date": "2025/06/21",
+    "hour": "20:40 - 21:40",
+    "stage": "Temple",
+    "style": "BLACKGAZE",
+    "pays": "USA",
+    "id": "deafheaven",
+    "ts": "1750531200"
+  },
+  {
+    "artist": "TERROR",
+    "date": "2025/06/21",
+    "hour": "20:40 - 21:40",
+    "stage": "Warzone",
+    "style": "HARDCORE",
+    "pays": "USA",
+    "id": "terror",
+    "ts": "1750531200"
+  },
+  {
+    "artist": "HAVE A NICE LIFE",
+    "date": "2025/06/21",
+    "hour": "21:45 - 22:45",
+    "stage": "Valley",
+    "style": "SHOAEGAZE / POST PUNK",
+    "pays": "USA",
+    "id": "have-a-nice-life",
+    "ts": "1750535100"
+  },
+  {
+    "artist": "VOLA",
+    "date": "2025/06/21",
+    "hour": "21:45 - 22:45",
+    "stage": "Altar",
+    "style": "METAL PROGRESSIF",
+    "pays": "DANEMARK",
+    "id": "vola",
+    "ts": "1750535100"
+  },
+  {
+    "artist": "JUDAS PRIEST",
+    "date": "2025/06/21",
+    "hour": "21:50 - 23:05",
+    "stage": "Mainstage 2",
+    "style": "HEAVY METAL",
+    "pays": "ROYAUME-UNI",
+    "id": "judas-priest",
+    "ts": "1750535400"
+  },
+  {
+    "artist": "Abbath Doom Occulta",
+    "date": "2025/06/21",
+    "hour": "22:50 - 23:50",
+    "stage": "Temple",
+    "style": "BLACK METAL",
+    "pays": "NORVÈGE",
+    "id": "abbath-doom-occulta",
+    "ts": "1750539000"
+  },
+  {
+    "artist": "DEFEATER",
+    "date": "2025/06/21",
+    "hour": "22:50 - 23:50",
+    "stage": "Warzone",
+    "style": "HARDCORE MELODIQUE",
+    "pays": "USA",
+    "id": "defeater",
+    "ts": "1750539000"
+  },
+  {
+    "artist": "SCORPIONS",
+    "date": "2025/06/21",
+    "hour": "23:10 - 00:40",
+    "stage": "Mainstage 1",
+    "style": "HARD ROCK",
+    "pays": "ALLEMAGNE",
+    "id": "scorpions",
+    "ts": "1750540200"
+  },
+  {
+    "artist": "LEPROUS",
+    "date": "2025/06/21",
+    "hour": "23:55 - 00:55",
+    "stage": "Altar",
+    "style": "METAL PROGRESSIF",
+    "pays": "NORVEGE",
+    "id": "leprous",
+    "ts": "1750542900"
+  },
+  {
+    "artist": "RUSSIAN CIRCLES",
+    "date": "2025/06/21",
+    "hour": "23:55 - 00:55",
+    "stage": "Valley",
+    "style": "POST METAL INSTRUMENTAL",
+    "pays": "USA",
+    "id": "russian-circles",
+    "ts": "1750542900"
+  },
+  {
+    "artist": "DREAM THEATER",
+    "date": "2025/06/21",
+    "hour": "00:45 - 02:00",
+    "stage": "Mainstage 2",
+    "style": "METAL PROGRESSIF",
+    "pays": "USA",
+    "id": "dream-theater",
+    "ts": "1750545900"
+  },
+  {
+    "artist": "BLOOD FIRE DEATH (A TRIBUTE TO BATHORY)",
+    "date": "2025/06/21",
+    "hour": "01:00 - 02:00",
+    "stage": "Temple",
+    "style": "VIKING METAL",
+    "pays": "SUÈDE",
+    "id": "blood-fire-death-a-tribute-to-bathory",
+    "ts": "1750546800"
+  },
+  {
+    "artist": "TURNSTILE",
+    "date": "2025/06/21",
+    "hour": "01:00 - 02:00",
+    "stage": "Warzone",
+    "style": "HARDCORE",
+    "pays": "USA",
+    "id": "turnstile",
+    "ts": "1750546800"
+  },
+  {
+    "artist": "BLACK BILE",
+    "date": "2025/06/22",
+    "hour": "10:30 - 11:00",
+    "stage": "Valley",
+    "style": "DOOM / POST METAL",
+    "pays": "FRANCE",
+    "id": "black-bile",
+    "ts": "1750581000"
+  },
+  {
+    "artist": "THE CHAINSAW MOTEL",
+    "date": "2025/06/22",
+    "hour": "10:30 - 11:00",
+    "stage": "Mainstage 2",
+    "style": "NU CORE / STONER",
+    "pays": "FRANCE",
+    "id": "the-chainsaw-motel",
+    "ts": "1750581000"
+  },
+  {
+    "artist": "TSAR",
+    "date": "2025/06/22",
+    "hour": "10:30 - 11:00",
+    "stage": "Altar",
+    "style": "METAL PROGRESSIF",
+    "pays": "FRANCE",
+    "id": "tsar",
+    "ts": "1750581000"
+  },
+  {
+    "artist": "BASTARDANE",
+    "date": "2025/06/22",
+    "hour": "11:05 - 11:35",
+    "stage": "Mainstage 1",
+    "style": "HARD ROCK",
+    "pays": "USA",
+    "id": "bastardane",
+    "ts": "1750583100"
+  },
+  {
+    "artist": "CALCINE",
+    "date": "2025/06/22",
+    "hour": "11:05 - 11:35",
+    "stage": "Warzone",
+    "style": "HARDCORE",
+    "pays": "FRANCE",
+    "id": "calcine",
+    "ts": "1750583100"
+  },
+  {
+    "artist": "GRAVEKVLT",
+    "date": "2025/06/22",
+    "hour": "11:05 - 11:35",
+    "stage": "Temple",
+    "style": "BLACKNROLL",
+    "pays": "FRANCE",
+    "id": "gravekvlt",
+    "ts": "1750583100"
+  },
+  {
+    "artist": "BLOOD COMMAND",
+    "date": "2025/06/22",
+    "hour": "11:40 - 12:10",
+    "stage": "Mainstage 2",
+    "style": "DEATHPOP / PUNK",
+    "pays": "NORVEGE",
+    "id": "blood-command",
+    "ts": "1750585200"
+  },
+  {
+    "artist": "CROWS",
+    "date": "2025/06/22",
+    "hour": "11:40 - 12:10",
+    "stage": "Valley",
+    "style": "POST PUNK",
+    "pays": "ROYAUME-UNI",
+    "id": "crows",
+    "ts": "1750585200"
+  },
+  {
+    "artist": "GUINEAPIG",
+    "date": "2025/06/22",
+    "hour": "11:40 - 12:10",
+    "stage": "Altar",
+    "style": "GOREGRIND",
+    "pays": "ITALIE",
+    "id": "guineapig",
+    "ts": "1750585200"
+  },
+  {
+    "artist": "ASHEN",
+    "date": "2025/06/22",
+    "hour": "12:15 - 12:45",
+    "stage": "Mainstage 1",
+    "style": "METALCORE",
+    "pays": "FRANCE",
+    "id": "ashen",
+    "ts": "1750587300"
+  },
+  {
+    "artist": "GOUGE AWAY",
+    "date": "2025/06/22",
+    "hour": "12:15 - 12:45",
+    "stage": "Warzone",
+    "style": "POST-HARDCORE / NOISE ROCK",
+    "pays": "USA",
+    "id": "gouge-away",
+    "ts": "1750587300"
+  },
+  {
+    "artist": "THE CEMETARY GIRLZ",
+    "date": "2025/06/22",
+    "hour": "12:15 - 12:45",
+    "stage": "Temple",
+    "style": "DEATHROCK",
+    "pays": "FRANCE",
+    "id": "the-cemetary-girlz",
+    "ts": "1750587300"
+  },
+  {
+    "artist": "FAETOOTH",
+    "date": "2025/06/22",
+    "hour": "12:50 - 13:30",
+    "stage": "Valley",
+    "style": "FAIRY DOOM",
+    "pays": "USA",
+    "id": "faetooth",
+    "ts": "1750589400"
+  },
+  {
+    "artist": "NOVELISTS",
+    "date": "2025/06/22",
+    "hour": "12:50 - 13:30",
+    "stage": "Mainstage 2",
+    "style": "METALCORE / DJENT",
+    "pays": "FRANCE",
+    "id": "novelists",
+    "ts": "1750589400"
+  },
+  {
+    "artist": "UNE MISERE",
+    "date": "2025/06/22",
+    "hour": "12:50 - 13:30",
+    "stage": "Altar",
+    "style": "HARDCORE",
+    "pays": "ISLANDE",
+    "id": "une-misere",
+    "ts": "1750589400"
+  },
+  {
+    "artist": "Aluk Todolo",
+    "date": "2025/06/22",
+    "hour": "13:35 - 14:15",
+    "stage": "Temple",
+    "style": "ROCK OCCULTE",
+    "pays": "FRANCE",
+    "id": "aluk-todolo",
+    "ts": "1750592100"
+  },
+  {
+    "artist": "BLACKGOLD",
+    "date": "2025/06/22",
+    "hour": "13:35 - 14:15",
+    "stage": "Mainstage 1",
+    "style": "NU METAL",
+    "pays": "USA",
+    "id": "blackgold",
+    "ts": "1750592100"
+  },
+  {
+    "artist": "PAIN OF TRUTH ",
+    "date": "2025/06/22",
+    "hour": "13:35 - 14:15",
+    "stage": "Warzone",
+    "style": "HARDCORE",
+    "pays": "USA",
+    "id": "pain-of-truth",
+    "ts": "1750592100"
+  },
+  {
+    "artist": "POPPY",
+    "date": "2025/06/22",
+    "hour": "14:20 - 15:05",
+    "stage": "Mainstage 2",
+    "style": "POP METAL",
+    "pays": "USA",
+    "id": "poppy",
+    "ts": "1750594800"
+  },
+  {
+    "artist": "PRAYERS",
+    "date": "2025/06/22",
+    "hour": "14:20 - 15:05",
+    "stage": "Valley",
+    "style": "CHOLO-GOTH",
+    "pays": "USA",
+    "id": "prayers",
+    "ts": "1750594800"
+  },
+  {
+    "artist": "SIGNS OF THE SWARM",
+    "date": "2025/06/22",
+    "hour": "14:20 - 15:05",
+    "stage": "Altar",
+    "style": "DEATHCORE ",
+    "pays": "USA",
+    "id": "signs-of-the-swarm",
+    "ts": "1750594800"
+  },
+  {
+    "artist": "DEAD POET SOCIETY",
+    "date": "2025/06/22",
+    "hour": "15:10 - 15:55",
+    "stage": "Mainstage 1",
     "style": "ROCK",
     "pays": "USA",
-    "ts": "1719777600"
+    "id": "dead-poet-society",
+    "ts": "1750597800"
   },
   {
-    "artist": "cock-sparrer",
-    "date": "2024/06/30",
-    "hour": "23:00 - 00:00",
-    "stage": "WARZONE",
-    "style": "PUNK",
+    "artist": "GUILT TRIP",
+    "date": "2025/06/22",
+    "hour": "15:10 - 15:55",
+    "stage": "Warzone",
+    "style": "HARDCORE",
     "pays": "ROYAUME-UNI",
-    "ts": "1719781200"
+    "id": "guilt-trip",
+    "ts": "1750597800"
+  },
+  {
+    "artist": "UNTO OTHERS",
+    "date": "2025/06/22",
+    "hour": "15:10 - 15:55",
+    "stage": "Temple",
+    "style": "HEAVY METAL GOTHIQUE",
+    "pays": "USA",
+    "id": "unto-others",
+    "ts": "1750597800"
+  },
+  {
+    "artist": "GUTALAX",
+    "date": "2025/06/22",
+    "hour": "16:00 - 16:45",
+    "stage": "Altar",
+    "style": "GRINDCORE",
+    "pays": "REPUBLIQUE TCHEQUE",
+    "id": "gutalax",
+    "ts": "1750600800"
+  },
+  {
+    "artist": "LORNA SHORE",
+    "date": "2025/06/22",
+    "hour": "16:00 - 16:45",
+    "stage": "Mainstage 2",
+    "style": "DEATHCORE",
+    "pays": "USA",
+    "id": "lorna-shore",
+    "ts": "1750600800"
+  },
+  {
+    "artist": "MESSA",
+    "date": "2025/06/22",
+    "hour": "16:00 - 16:45",
+    "stage": "Valley",
+    "style": "DOOM",
+    "pays": "ITALIE",
+    "id": "messa",
+    "ts": "1750600800"
+  },
+  {
+    "artist": "EAGLES OF DEATH METAL",
+    "date": "2025/06/22",
+    "hour": "16:50 - 17:40",
+    "stage": "Mainstage 1",
+    "style": "ROCK",
+    "pays": "USA",
+    "id": "eagles-of-death-metal",
+    "ts": "1750603800"
+  },
+  {
+    "artist": "GORILLA BISCUITS",
+    "date": "2025/06/22",
+    "hour": "16:50 - 17:40",
+    "stage": "Warzone",
+    "style": "HARDCORE",
+    "pays": "USA",
+    "id": "gorilla-biscuits",
+    "ts": "1750603800"
+  },
+  {
+    "artist": "SHAÂRGHOT",
+    "date": "2025/06/22",
+    "hour": "16:50 - 17:40",
+    "stage": "Temple",
+    "style": "METAL INDUS / ELECTRO PUNK",
+    "pays": "FRANCE",
+    "id": "shaarghot",
+    "ts": "1750603800"
+  },
+  {
+    "artist": "KYLESA",
+    "date": "2025/06/22",
+    "hour": "17:45 - 18:35",
+    "stage": "Valley",
+    "style": "SLUDGE ",
+    "pays": "USA",
+    "id": "kylesa",
+    "ts": "1750607100"
+  },
+  {
+    "artist": "MOTIONLESS IN WHITE",
+    "date": "2025/06/22",
+    "hour": "17:45 - 18:35",
+    "stage": "Mainstage 2",
+    "style": "METALCORE",
+    "pays": "USA",
+    "id": "motionless-in-white",
+    "ts": "1750607100"
+  },
+  {
+    "artist": "GOOD RIDDANCE",
+    "date": "2025/06/22",
+    "hour": "18:40 - 19:40",
+    "stage": "Warzone",
+    "style": "PUNK HARDCORE",
+    "pays": "USA",
+    "id": "good-riddance",
+    "ts": "1750610400"
+  },
+  {
+    "artist": "PRIEST",
+    "date": "2025/06/22",
+    "hour": "18:40 - 19:40",
+    "stage": "Temple",
+    "style": "SYNTHPOP",
+    "pays": "SUÈDE",
+    "id": "priest",
+    "ts": "1750610400"
+  },
+  {
+    "artist": "REFUSED",
+    "date": "2025/06/22",
+    "hour": "18:40 - 19:40",
+    "stage": "Mainstage 1",
+    "style": "PUNK HARDCORE",
+    "pays": "SUÈDE",
+    "id": "refused",
+    "ts": "1750610400"
+  },
+  {
+    "artist": "A Day to Remember",
+    "date": "2025/06/22",
+    "hour": "19:45 - 20:45",
+    "stage": "Mainstage 2",
+    "style": "POST HARDCORE",
+    "pays": "USA",
+    "id": "a-day-to-remember",
+    "ts": "1750614300"
+  },
+  {
+    "artist": "HEALTH",
+    "date": "2025/06/22",
+    "hour": "19:45 - 20:45",
+    "stage": "Valley",
+    "style": "ELECTRO NOISE",
+    "pays": "USA",
+    "id": "health",
+    "ts": "1750614300"
+  },
+  {
+    "artist": "UNLEASHED",
+    "date": "2025/06/22",
+    "hour": "19:45 - 20:45",
+    "stage": "Altar",
+    "style": "DEATH METAL",
+    "pays": "SUÈDE",
+    "id": "unleashed",
+    "ts": "1750614300"
+  },
+  {
+    "artist": "CYPRESS HILL",
+    "date": "2025/06/22",
+    "hour": "20:50 - 21:50",
+    "stage": "Mainstage 1",
+    "style": "HIP-HOP",
+    "pays": "USA",
+    "id": "cypress-hill",
+    "ts": "1750618200"
+  },
+  {
+    "artist": "THE KOVENANT",
+    "date": "2025/06/22",
+    "hour": "20:50 - 21:50",
+    "stage": "Temple",
+    "style": "SPACE / BLACK METAL",
+    "pays": "NORVÈGE",
+    "id": "the-kovenant",
+    "ts": "1750618200"
+  },
+  {
+    "artist": "WALLS OF JERICHO",
+    "date": "2025/06/22",
+    "hour": "20:50 - 21:50",
+    "stage": "Warzone",
+    "style": "HARDCORE",
+    "pays": "USA",
+    "id": "walls-of-jericho",
+    "ts": "1750618200"
+  },
+  {
+    "artist": "DETHKLOK",
+    "date": "2025/06/22",
+    "hour": "21:55 - 22:55",
+    "stage": "Altar",
+    "style": "DEATH METAL MÉLODIQUE",
+    "pays": "USA - NORVÈGE - SUEDE",
+    "id": "dethklok",
+    "ts": "1750622100"
+  },
+  {
+    "artist": "FALLING IN REVERSE",
+    "date": "2025/06/22",
+    "hour": "21:55 - 22:55",
+    "stage": "Mainstage 2",
+    "style": "POST-HARDCORE",
+    "pays": "USA",
+    "id": "falling-in-reverse",
+    "ts": "1750622100"
+  },
+  {
+    "artist": "JERRY CANTRELL",
+    "date": "2025/06/22",
+    "hour": "21:55 - 22:55",
+    "stage": "Valley",
+    "style": "ROCK / GRUNGE",
+    "pays": "USA",
+    "id": "jerry-cantrell",
+    "ts": "1750622100"
+  },
+  {
+    "artist": "EISBRECHER",
+    "date": "2025/06/22",
+    "hour": "23:00 - 00:00",
+    "stage": "Temple",
+    "style": "METAL INDUSTRIEL",
+    "pays": "ALLEMAGNE",
+    "id": "eisbrecher",
+    "ts": "1750626000"
+  },
+  {
+    "artist": "KNOCKED LOOSE",
+    "date": "2025/06/22",
+    "hour": "23:00 - 00:00",
+    "stage": "Warzone",
+    "style": "HARDCORE",
+    "pays": "USA",
+    "id": "knocked-loose",
+    "ts": "1750626000"
+  },
+  {
+    "artist": "LINKIN PARK",
+    "date": "2025/06/22",
+    "hour": "23:00 - 00:30",
+    "stage": "Mainstage 1",
+    "style": "NU-METAL / ROCK",
+    "pays": "USA",
+    "id": "linkin-park",
+    "ts": "1750626000"
   }
 ]

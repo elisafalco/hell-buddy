@@ -12,6 +12,7 @@ export interface ConcertType {
   hour: string;
   stage: string;
   ts: string;
+  id: string;
 }
 
 export interface StageType {

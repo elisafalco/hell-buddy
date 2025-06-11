@@ -9,58 +9,58 @@ export const LS_BUDDYS = 'HELLBUDDY_BUDDYS';
 
 export const DAYS: DayType[] = [
   {
-    formattedDate: "2024/06/27",
-    ISODate: "2024-06-26T22:00:00.000Z",
-    ISOFrom: "2024-06-27T07:00:00.000Z",
-    ISOTo: "2024-06-28T01:00:00.000Z",
+    formattedDate: "2025/06/19",
+    ISODate: "2025-06-18T22:00:00.000Z",
+    ISOFrom: "2025-06-19T07:00:00.000Z",
+    ISOTo: "2025-06-20T01:00:00.000Z",
     label: "Jeudi"
   },
   {
-    formattedDate: "2024/06/28",
-    ISODate: "2024-06-27T22:00:00.000Z",
-    ISOFrom: "2024-06-28T07:00:00.000Z",
-    ISOTo: "2024-06-29T01:00:00.000Z",
+    formattedDate: "2025/06/20",
+    ISODate: "2025-06-19T22:00:00.000Z",
+    ISOFrom: "2025-06-20T07:00:00.000Z",
+    ISOTo: "2025-06-21T01:00:00.000Z",
     label: "Vendredi"
   },
   {
-    formattedDate: "2024/06/29",
-    ISODate: "2024-06-28T22:00:00.000Z",
-    ISOFrom: "2024-06-29T07:00:00.000Z",
-    ISOTo: "2024-06-30T01:00:00.000Z",
+    formattedDate: "2025/06/21",
+    ISODate: "2025-06-20T22:00:00.000Z",
+    ISOFrom: "2025-06-21T07:00:00.000Z",
+    ISOTo: "2025-06-22T01:00:00.000Z",
     label: "Samedi"
   },
   {
-    formattedDate: "2024/06/30",
-    ISODate: "2024-06-29T22:00:00.000Z",
-    ISOFrom: "2024-06-30T07:00:00.000Z",
-    ISOTo: "2024-07-01T01:00:00.000Z",
+    formattedDate: "2025/06/22",
+    ISODate: "2025-06-21T22:00:00.000Z",
+    ISOFrom: "2025-06-22T07:00:00.000Z",
+    ISOTo: "2025-06-23T01:00:00.000Z",
     label: "Dimanche"
   }
 ]
 
 export const STAGES: StageType[] = [
   {
-    label: 'MAINSTAGE 1',
+    label: 'Mainstage 1',
     slug: 'mainstage-1'
   },
   {
-    label: 'MAINSTAGE 2',
+    label: 'Mainstage 2',
     slug: 'mainstage-2'
   },
   {
-    label: 'WARZONE',
+    label: 'Warzone',
     slug: 'warzone'
   },
   {
-    label: 'VALLEY',
+    label: 'Valley',
     slug: 'valley'
   },
   {
-    label: 'TEMPLE',
+    label: 'Temple',
     slug: 'temple'
   },
   {
-    label: 'ALTAR',
+    label: 'Altar',
     slug: 'altar'
   }
 ]
