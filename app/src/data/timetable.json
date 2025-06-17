@@ -1,5 +1,15 @@
 [
   {
+    "artist": "DISCONNECTED",
+    "date": "2025/06/19",
+    "hour": "16:30 - 17:10",
+    "stage": "Altar",
+    "style": "MODERN METAL",
+    "pays": "FRANCE",
+    "id": "disconnected",
+    "ts": "1750343400"
+  },
+  {
     "artist": "SKINDRED",
     "date": "2025/06/19",
     "hour": "16:30 - 17:10",
@@ -17,16 +27,6 @@
     "style": "DOOM",
     "pays": "SUISSE",
     "id": "tar-pond",
-    "ts": "1750343400"
-  },
-  {
-    "artist": "WALKWAYS",
-    "date": "2025/06/19",
-    "hour": "16:30 - 17:10",
-    "stage": "Altar",
-    "style": "METAL ALTERNATIF ",
-    "pays": "ISRAEL",
-    "id": "walkways",
     "ts": "1750343400"
   },
   {
@@ -787,6 +787,16 @@
     "style": "STONER",
     "pays": "USA",
     "id": "hermano",
+    "ts": "1750456500"
+  },
+  {
+    "artist": "SACRED REICH",
+    "date": "2025/06/20",
+    "hour": "23:55 - 00:55",
+    "stage": "Altar",
+    "style": "THRASH METAL",
+    "pays": "USA",
+    "id": "sacred-reich",
     "ts": "1750456500"
   },
   {
@@ -1648,6 +1658,16 @@
     "pays": "FRANCE",
     "id": "shaarghot",
     "ts": "1750603800"
+  },
+  {
+    "artist": "FLESHGOD APOCALYPSE",
+    "date": "2025/06/22",
+    "hour": "17:45 - 18:35",
+    "stage": "Altar",
+    "style": "DEATH METAL TECHNIQUE / SYMPHONIQUE",
+    "pays": "ITALIE",
+    "id": "fleshgod-apocalypse",
+    "ts": "1750607100"
   },
   {
     "artist": "KYLESA",
