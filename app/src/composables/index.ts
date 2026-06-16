@@ -1,5 +1,7 @@
 import { LS_ID, LS_USERNAME, LS_COLOR, LS_PROGRAM, LS_BUDDYS } from '../constants';
 import { BuddyType } from '../types';
+import JSONCrush from 'jsoncrush'
+
 
 /**
  * getId
@@ -75,17 +77,17 @@ export const getProgram = (): string[] | null => {
  * @param {string} newBuddy 
  */
 export const addBuddy = (newBuddy: string) => {
-  const newBuddyNormalize: BuddyType = JSON.parse(newBuddy);
-  newBuddyNormalize.scanTS = Date.now();
+  const newBuddyParsed: BuddyType = JSON.parse(JSONCrush.uncrush(newBuddy));
+  newBuddyParsed.scanTS = Date.now();
   
   const buddys = getBuddys();
   // If buddy id is already in storage, remove it before adding it
-  const existingBuddyIndex = buddys.findIndex(buddyItem => buddyItem.id === newBuddyNormalize.id);
+  const existingBuddyIndex = buddys.findIndex(buddyItem => buddyItem.id === newBuddyParsed.id);
   if (existingBuddyIndex >= 0) {
     buddys.splice(existingBuddyIndex, 1);
   }
 
-  buddys.push(newBuddyNormalize);
+  buddys.push(newBuddyParsed);
   window.localStorage.setItem(LS_BUDDYS, JSON.stringify(buddys));
 }
 

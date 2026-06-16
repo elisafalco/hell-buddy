@@ -1,5 +1,6 @@
 import { STAGES } from "@/constants";
 import QRCode from "qrcode";
+import JSONCrush from 'jsoncrush'
 
 /**
  * getISODateFromTimestamp
@@ -30,8 +31,9 @@ export const getLocaleStringFromTimestamp = (timestamp: number) => {
  */
 export const generateQRCode = (id: string, username: string, color: string, program: string[]): string => {
   let generatedCode = '';
-  const myData = {id: id, username: username, color: color, program: program};
-  QRCode.toDataURL(JSON.stringify(myData), function (err, url) {
+  const myData = JSON.stringify({id: id, username: username, color: color, program: program});
+  const compressedData = JSONCrush.crush(myData)
+  QRCode.toDataURL(compressedData, function (err, url) {
     if(!err) {
       generatedCode =  url;
     } 
