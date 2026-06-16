@@ -9,31 +9,31 @@ export const LS_BUDDYS = 'HELLBUDDY_BUDDYS';
 
 export const DAYS: DayType[] = [
   {
-    formattedDate: "2025/06/19",
-    ISODate: "2025-06-18T22:00:00.000Z",
-    ISOFrom: "2025-06-19T07:00:00.000Z",
-    ISOTo: "2025-06-20T01:00:00.000Z",
+    formattedDate: "2026/06/18",
+    ISODate: "2026-06-17T22:00:00.000Z",
+    ISOFrom: "2026-06-18T07:00:00.000Z",
+    ISOTo: "2026-06-19T01:00:00.000Z",
     label: "Jeudi"
   },
   {
-    formattedDate: "2025/06/20",
-    ISODate: "2025-06-19T22:00:00.000Z",
-    ISOFrom: "2025-06-20T07:00:00.000Z",
-    ISOTo: "2025-06-21T01:00:00.000Z",
+    formattedDate: "2026/06/19",
+    ISODate: "2026-06-18T22:00:00.000Z",
+    ISOFrom: "2026-06-19T07:00:00.000Z",
+    ISOTo: "2026-06-20T01:00:00.000Z",
     label: "Vendredi"
   },
   {
-    formattedDate: "2025/06/21",
-    ISODate: "2025-06-20T22:00:00.000Z",
-    ISOFrom: "2025-06-21T07:00:00.000Z",
-    ISOTo: "2025-06-22T01:00:00.000Z",
+    formattedDate: "2026/06/20",
+    ISODate: "2026-06-19T22:00:00.000Z",
+    ISOFrom: "2026-06-20T07:00:00.000Z",
+    ISOTo: "2026-06-21T01:00:00.000Z",
     label: "Samedi"
   },
   {
-    formattedDate: "2025/06/22",
-    ISODate: "2025-06-21T22:00:00.000Z",
-    ISOFrom: "2025-06-22T07:00:00.000Z",
-    ISOTo: "2025-06-23T01:00:00.000Z",
+    formattedDate: "2026/06/21",
+    ISODate: "2026-06-20T22:00:00.000Z",
+    ISOFrom: "2026-06-21T07:00:00.000Z",
+    ISOTo: "2026-06-22T01:00:00.000Z",
     label: "Dimanche"
   }
 ]
