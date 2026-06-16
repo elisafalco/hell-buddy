@@ -15,6 +15,17 @@
         </p>
       </div>
 
+      <div class="o-showPopin__row">
+        <p class="o-showPopin__style">
+          {{ concert.style }}
+        </p>
+        
+
+        <p class="o-showPopin__country">
+          {{ concert.pays }}
+        </p>
+      </div>
+
       <Heading class="o-showPopin__buddysTitle">
         👩‍❤️‍👨 Les buddys 
       </Heading>

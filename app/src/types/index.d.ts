@@ -13,6 +13,8 @@ export interface ConcertType {
   stage: string;
   ts: string;
   id: string;
+  style: string;
+  pays: string;
 }
 
 export interface StageType {
