@@ -51,4 +51,29 @@
     margin-top: auto;
     z-index: 10
   }
+
+  &__buttons {
+    margin-top: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  &__fileUploadLabel {
+    width: 100%;
+    padding: 4px 8px;
+    color: $white;
+    font-family: $text-font;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: $background-dark;
+    border: none;
+    cursor: pointer;
+  }
+
+  &__fileUploadInput {
+    display: none;
+  }
 }

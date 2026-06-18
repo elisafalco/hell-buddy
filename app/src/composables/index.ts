@@ -1,3 +1,4 @@
+import { isNewBuddyType } from '@/utils';
 import { LS_ID, LS_USERNAME, LS_COLOR, LS_PROGRAM, LS_BUDDYS } from '../constants';
 import { BuddyType } from '../types';
 import JSONCrush from 'jsoncrush'
@@ -79,6 +80,11 @@ export const getProgram = (): string[] | null => {
 export const addBuddy = (newBuddy: string) => {
   const newBuddyParsed: BuddyType = JSON.parse(JSONCrush.uncrush(newBuddy));
   newBuddyParsed.scanTS = Date.now();
+
+  if(!isNewBuddyType(newBuddyParsed)) {
+    window.alert('Not a Hellbuddy QR code')
+    return 
+  }
   
   const buddys = getBuddys();
   // If buddy id is already in storage, remove it before adding it

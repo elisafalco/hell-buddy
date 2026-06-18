@@ -46,7 +46,13 @@
       </tbody>
     </table>
 
-    <Button variant="wide" @click="emit('open:scan')">Scan a buddy</Button>
+    <div class="o-buddysPopin__buttons">
+      <Button variant="wide" @click="emit('open:scan')">Scan a buddy</Button>
+      <label for="file-upload" class="o-buddysPopin__fileUploadLabel">
+        Upload a QR code from an image
+      </label>
+      <input id="file-upload" ref="inputFile"  class="o-buddysPopin__fileUploadInput" type="file" accept="image/jpeg" @change="handleUploadImage()">
+    </div>
   </Popin>
 </template>
 
@@ -57,11 +63,14 @@
 </script>
 
 <script setup lang="ts">
+  import { ref } from 'vue';
+  import QrScanner from 'qr-scanner';
+
   // Types
   import type { Emits, Props } from './index.d';
 
   // Composables
-  import { deleteBuddy } from '@/composables';
+  import { addBuddy, deleteBuddy, getBuddys } from '@/composables';
 
   // Components
   import Button from '@components/Atom/Button';
@@ -74,6 +83,8 @@
   const emit = defineEmits<Emits>();
   defineProps<Props>();
 
+  const inputFile = ref<HTMLInputElement>()
+
   /**
    * handleDeleteBuddy
    * @param {string} id
@@ -81,6 +92,27 @@
   const handleDeleteBuddy = (id: string) => {
     emit('update:buddys', deleteBuddy(id));
   };
+
+  const handleUploadImage = () => {
+    const files = inputFile.value?.files
+    if(files) {
+      handleImportImage(files[0])
+    }
+  }
+
+  const handleImportImage = (image: File) => {
+    QrScanner.scanImage(image, {alsoTryWithoutScanRegion: true})
+    .then(result => saveBuddysProgram(result.data))
+    .catch(err => window.alert('No QR code found'));
+  }
+
+  const saveBuddysProgram = (buddy: string) => {
+    addBuddy(buddy);
+    const buddys = getBuddys()
+    if (buddys) {
+      emit('update:buddys', buddys);
+    }
+  }
 </script>
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss" src="../Popin/style.scss"></style>

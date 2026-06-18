@@ -1,6 +1,7 @@
 import { STAGES } from "@/constants";
 import QRCode from "qrcode";
 import JSONCrush from 'jsoncrush'
+import { BuddyType } from "@/types";
 
 /**
  * getISODateFromTimestamp
@@ -64,3 +65,7 @@ export const getStageClass = (stageArg: string): string => {
   }
   return '';
 };
+
+export const isNewBuddyType = (newBuddy: object): newBuddy is BuddyType => {
+  return 'id' in newBuddy && 'username' in newBuddy && 'color' in newBuddy && 'program' in newBuddy
+}
