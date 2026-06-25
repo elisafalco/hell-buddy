@@ -240,6 +240,16 @@
     "ts": "1781814600"
   },
   {
+    "artist": "KADAVAR",
+    "date": "2026/06/18",
+    "hour": "23:45 - 00:45",
+    "stage": "Valley",
+    "style": "HARD ROCK PSYCHÉDÉLIQUE",
+    "pays": "ALLEMAGNE",
+    "id": "kadavar",
+    "ts": "1781819100"
+  },
+  {
     "artist": "IGORRR",
     "date": "2026/06/18",
     "hour": "23:45 - 00:55",
@@ -247,16 +257,6 @@
     "style": "BREAKCORE BAROQUE",
     "pays": "FRANCE",
     "id": "igorrr",
-    "ts": "1781819100"
-  },
-  {
-    "artist": "KADAVAR",
-    "date": "2026/06/18",
-    "hour": "23:45 - 00:55",
-    "stage": "Valley",
-    "style": "HARD ROCK PSYCHÉDÉLIQUE",
-    "pays": "ALLEMAGNE",
-    "id": "kadavar",
     "ts": "1781819100"
   },
   {
@@ -270,6 +270,16 @@
     "ts": "1781819100"
   },
   {
+    "artist": "SOCIAL DISTORTION",
+    "date": "2026/06/18",
+    "hour": "00:45 - 01:45",
+    "stage": "Warzone",
+    "style": "PUNK ROCK",
+    "pays": "USA",
+    "id": "social-distortion",
+    "ts": "1781822700"
+  },
+  {
     "artist": "FEUERSCHWANZ",
     "date": "2026/06/18",
     "hour": "01:00 - 02:00",
@@ -277,16 +287,6 @@
     "style": "FOLK METAL",
     "pays": "ALLEMAGNE",
     "id": "feuerschwanz",
-    "ts": "1781823600"
-  },
-  {
-    "artist": "SOCIAL DISTORTION",
-    "date": "2026/06/18",
-    "hour": "01:00 - 02:00",
-    "stage": "Warzone",
-    "style": "PUNK ROCK",
-    "pays": "USA",
-    "id": "social-distortion",
     "ts": "1781823600"
   },
   {
@@ -850,6 +850,16 @@
     "ts": "1781944200"
   },
   {
+    "artist": "DOPE SPELL",
+    "date": "2026/06/20",
+    "hour": "11:05 - 11:35",
+    "stage": "Mainstage 1",
+    "style": "METALCORE / DEATHCORE",
+    "pays": "FRANCE",
+    "id": "dope-spell",
+    "ts": "1781946300"
+  },
+  {
     "artist": "FALSE REALITY",
     "date": "2026/06/20",
     "hour": "11:05 - 11:35",
@@ -857,16 +867,6 @@
     "style": "HARDCORE",
     "pays": "ROYAUME-UNI ",
     "id": "false-reality",
-    "ts": "1781946300"
-  },
-  {
-    "artist": "SLAY SQUAD",
-    "date": "2026/06/20",
-    "hour": "11:05 - 11:35",
-    "stage": "Mainstage 1",
-    "style": "NU METAL ",
-    "pays": "USA",
-    "id": "slay-squad",
     "ts": "1781946300"
   },
   {
@@ -930,13 +930,13 @@
     "ts": "1781951100"
   },
   {
-    "artist": "THORNHILL",
+    "artist": "SLAY SQUAD",
     "date": "2026/06/20",
     "hour": "12:25 - 13:05",
     "stage": "Mainstage 1",
-    "style": "NU METAL",
-    "pays": "AUSTRALIE ",
-    "id": "thornhill",
+    "style": "NU METAL ",
+    "pays": "USA",
+    "id": "slay-squad",
     "ts": "1781951100"
   },
   {
@@ -970,16 +970,6 @@
     "ts": "1781953800"
   },
   {
-    "artist": "HOUSE OF PROTECTION",
-    "date": "2026/06/20",
-    "hour": "13:55 - 14:35",
-    "stage": "Mainstage 1",
-    "style": "ELECTRO ROCK",
-    "pays": "USA",
-    "id": "house-of-protection",
-    "ts": "1781956500"
-  },
-  {
     "artist": "KING 810",
     "date": "2026/06/20",
     "hour": "13:55 - 14:35",
@@ -997,6 +987,16 @@
     "style": "BLACK METAL",
     "pays": "ALLEMAGNE",
     "id": "non-est-deus",
+    "ts": "1781956500"
+  },
+  {
+    "artist": "THORNHILL",
+    "date": "2026/06/20",
+    "hour": "13:55 - 14:35",
+    "stage": "Mainstage 1",
+    "style": "NU METAL",
+    "pays": "AUSTRALIE ",
+    "id": "thornhill",
     "ts": "1781956500"
   },
   {
@@ -1050,13 +1050,13 @@
     "ts": "1781961900"
   },
   {
-    "artist": "SIDILARSEN",
+    "artist": "HOUSE OF PROTECTION",
     "date": "2026/06/20",
     "hour": "15:25 - 16:05",
     "stage": "Mainstage 1",
-    "style": "INDUS",
-    "pays": "FRANCE",
-    "id": "sidilarsen",
+    "style": "ELECTRO ROCK",
+    "pays": "USA",
+    "id": "house-of-protection",
     "ts": "1781961900"
   },
   {
@@ -1090,16 +1090,6 @@
     "ts": "1781964600"
   },
   {
-    "artist": "ENHANCER",
-    "date": "2026/06/20",
-    "hour": "16:55 - 17:40",
-    "stage": "Mainstage 1",
-    "style": "NU METAL ",
-    "pays": "FRANCE",
-    "id": "enhancer",
-    "ts": "1781967300"
-  },
-  {
     "artist": "GAEREA",
     "date": "2026/06/20",
     "hour": "16:55 - 17:40",
@@ -1107,6 +1097,16 @@
     "style": "POST BLACK METAL",
     "pays": "PORTUGAL",
     "id": "gaerea",
+    "ts": "1781967300"
+  },
+  {
+    "artist": "SIDILARSEN",
+    "date": "2026/06/20",
+    "hour": "16:55 - 17:40",
+    "stage": "Mainstage 1",
+    "style": "INDUS",
+    "pays": "FRANCE",
+    "id": "sidilarsen",
     "ts": "1781967300"
   },
   {
@@ -1160,6 +1160,16 @@
     "ts": "1781973300"
   },
   {
+    "artist": "ENHANCER",
+    "date": "2026/06/20",
+    "hour": "18:35 - 19:25",
+    "stage": "Mainstage 1",
+    "style": "NU METAL ",
+    "pays": "FRANCE",
+    "id": "enhancer",
+    "ts": "1781973300"
+  },
+  {
     "artist": "ORANSSI PAZUZU",
     "date": "2026/06/20",
     "hour": "18:35 - 19:25",
@@ -1167,16 +1177,6 @@
     "style": "BLACK METAL PSYCHÉDÉLIQUE ",
     "pays": "FINLANDE",
     "id": "oranssi-pazuzu",
-    "ts": "1781973300"
-  },
-  {
-    "artist": "TOM MORELLO",
-    "date": "2026/06/20",
-    "hour": "18:35 - 19:25",
-    "stage": "Mainstage 1",
-    "style": "METAL ALTERNATIF",
-    "pays": "USA",
-    "id": "tom-morello",
     "ts": "1781973300"
   },
   {
